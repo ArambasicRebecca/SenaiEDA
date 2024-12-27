@@ -1,0 +1,3761 @@
+Data;Produto;Quantidade;Valor;Região
+01/01/2024;Marcador;64;59.26;Pernambuco
+01/01/2024;Régua;33;87.81;Piauí
+01/01/2024;Lápis;26;7.67;Rio Grande do Sul
+01/01/2024;Caderno;15;28.42;Distrito Federal
+01/01/2024;Borracha;120;9.35;São Paulo
+01/01/2024;Caneta;86;45.84;Paraná
+01/01/2024;Caneta;71;51.59;Rio de Janeiro
+01/01/2024;Lápis;55;119.24;Sergipe
+01/01/2024;Estojo;4;129.1;Amazonas
+01/01/2024;Caderno;78;167.46;Paraná
+01/01/2024;Marcador;78;166.17;Rondônia
+02/01/2024;Lápis;84;124.83;Mato Grosso
+02/01/2024;Agenda;81;7.77;Mato Grosso
+02/01/2024;Caneta;75;26.12;Mato Grosso
+02/01/2024;Marcador;6;15.97;Ceará
+02/01/2024;Caneta;73;97.91;Paraíba
+02/01/2024;Lápis;15;107.73;Mato Grosso do Sul
+02/01/2024;Régua;54;143.31;Rio de Janeiro
+02/01/2024;Borracha;20;109.17;Rio Grande do Sul
+02/01/2024;Régua;84;105.98;Rio de Janeiro
+02/01/2024;Caderno;63;47.96;Paraná
+02/01/2024;Lápis;84;17.19;Rio Grande do Sul
+02/01/2024;Estojo;83;184.2;Rondônia
+02/01/2024;Régua;34;182.08;Santa Catarina
+02/01/2024;Régua;99;140.21;Maranhão
+03/01/2024;Borracha;86;141.76;Pará
+03/01/2024;Lápis;12;73.18;Piauí
+03/01/2024;Lápis;49;66.94;Espírito Santo
+03/01/2024;Caderno;92;13.81;Tocantins
+03/01/2024;Lápis;68;71.6;Santa Catarina
+04/01/2024;Caneta;51;96.72;Espírito Santo
+04/01/2024;Marcador;98;26.42;Minas Gerais
+04/01/2024;Estojo;15;192.01;Santa Catarina
+04/01/2024;Caderno;3;95.06;Bahia
+04/01/2024;Estojo;95;129.93;Pernambuco
+04/01/2024;Caderno;50;169.78;Alagoas
+04/01/2024;Agenda;65;109.53;Piauí
+04/01/2024;Marcador;12;176.2;Mato Grosso
+04/01/2024;Lápis;20;65.39;Maranhão
+04/01/2024;Caderno;61;91.73;Mato Grosso do Sul
+04/01/2024;Estojo;79;159.76;Rio Grande do Sul
+04/01/2024;Caderno;26;26.59;Espírito Santo
+04/01/2024;Caderno;86;133.65;Rio de Janeiro
+04/01/2024;Caneta;56;41.82;Alagoas
+05/01/2024;Caderno;10;60.73;Piauí
+05/01/2024;Agenda;49;23.67;Paraná
+05/01/2024;Régua;46;105.02;Alagoas
+05/01/2024;Caneta;4;97.43;Mato Grosso
+05/01/2024;Agenda;150;146.16;São Paulo
+05/01/2024;Agenda;41;63.47;Roraima
+05/01/2024;Marcador;15;161.39;Mato Grosso
+06/01/2024;Lápis;78;163.18;Pará
+06/01/2024;Estojo;59;109.6;Alagoas
+06/01/2024;Estojo;200;144.41;São Paulo
+06/01/2024;Borracha;10;189.37;Santa Catarina
+06/01/2024;Estojo;36;175.34;Mato Grosso
+06/01/2024;Agenda;65;78.95;Acre
+06/01/2024;Régua;35;168.7;Tocantins
+07/01/2024;Borracha;78;57.05;Paraíba
+07/01/2024;Borracha;85;153.96;Sergipe
+07/01/2024;Lápis;4;72.37;Mato Grosso
+07/01/2024;Caneta;86;18.48;Tocantins
+07/01/2024;Estojo;84;133.03;Minas Gerais
+07/01/2024;Agenda;94;151.89;Rio Grande do Norte
+07/01/2024;Lápis;79;167.28;Mato Grosso do Sul
+07/01/2024;Régua;12;156.28;Roraima
+07/01/2024;Estojo;150;137.4;Minas Gerais
+07/01/2024;Lápis;87;89.55;Goiás
+07/01/2024;Marcador;23;50.77;Espírito Santo
+08/01/2024;Borracha;30;75.73;Mato Grosso
+08/01/2024;Borracha;18;134.35;Rio Grande do Sul
+08/01/2024;Caneta;50;53.95;Paraíba
+08/01/2024;Marcador;75;34.25;Alagoas
+08/01/2024;Lápis;18;27.52;Piauí
+08/01/2024;Caneta;100;169.89;Rio Grande do Norte
+08/01/2024;Marcador;94;28.21;Santa Catarina
+08/01/2024;Caneta;6;173.36;Pará
+08/01/2024;Lápis;40;176.36;Rio Grande do Sul
+08/01/2024;Agenda;9;8.24;Distrito Federal
+08/01/2024;Régua;65;89.86;Alagoas
+09/01/2024;Borracha;64;148.11;Rio de Janeiro
+09/01/2024;Agenda;73;198.18;Bahia
+09/01/2024;Marcador;66;75.98;Amapá
+09/01/2024;Borracha;46;111.17;Pará
+09/01/2024;Marcador;21;198.41;Amapá
+10/01/2024;Borracha;98;7.14;Acre
+10/01/2024;Lápis;95;78.18;Distrito Federal
+10/01/2024;Lápis;80;71.56;Pernambuco
+10/01/2024;Agenda;40;114.94;Santa Catarina
+10/01/2024;Lápis;31;111.12;Distrito Federal
+10/01/2024;Estojo;58;57.87;Rio de Janeiro
+11/01/2024;Caneta;62;61.28;Rio Grande do Sul
+11/01/2024;Régua;33;176.19;Amazonas
+11/01/2024;Lápis;26;119.34;Piauí
+11/01/2024;Lápis;89;116.23;Tocantins
+11/01/2024;Régua;89;146.04;Pernambuco
+11/01/2024;Estojo;37;42.13;Goiás
+11/01/2024;Caneta;48;115.37;Amapá
+11/01/2024;Caneta;84;110.74;Paraná
+11/01/2024;Borracha;250;140.64;São Paulo
+12/01/2024;Estojo;53;128.25;Paraíba
+12/01/2024;Marcador;7;122.78;Bahia
+12/01/2024;Agenda;12;151.43;Roraima
+12/01/2024;Marcador;11;11.15;Roraima
+12/01/2024;Agenda;57;76.88;Paraná
+12/01/2024;Borracha;184;190.97;Rio de Janeiro
+12/01/2024;Régua;13;117.28;Rondônia
+12/01/2024;Caneta;22;16.97;Maranhão
+13/01/2024;Agenda;9;24.16;Distrito Federal
+13/01/2024;Marcador;87;151.48;Roraima
+13/01/2024;Borracha;97;159.65;Rondônia
+13/01/2024;Marcador;68;119.32;Amapá
+13/01/2024;Régua;37;171.43;Piauí
+13/01/2024;Borracha;24;102.79;Ceará
+13/01/2024;Régua;77;155.53;Acre
+13/01/2024;Régua;47;161.78;Bahia
+13/01/2024;Caderno;97;125.9;Bahia
+13/01/2024;Borracha;11;112.87;Rio Grande do Norte
+14/01/2024;Caderno;10;127.91;Minas Gerais
+14/01/2024;Borracha;92;140.08;Sergipe
+14/01/2024;Caneta;92;19.37;Ceará
+14/01/2024;Régua;41;37.8;Tocantins
+14/01/2024;Marcador;88;95.4;Alagoas
+14/01/2024;Estojo;34;118.1;Rio Grande do Norte
+14/01/2024;Caderno;49;11.29;Acre
+14/01/2024;Caneta;72;178.27;Espírito Santo
+14/01/2024;Borracha;68;151.81;Bahia
+14/01/2024;Caderno;81;90.97;Paraná
+14/01/2024;Caderno;46;184.61;Piauí
+14/01/2024;Agenda;48;33.89;Maranhão
+15/01/2024;Caneta;39;138.94;Pará
+15/01/2024;Caderno;13;195.28;Amapá
+15/01/2024;Agenda;36;79.41;Distrito Federal
+15/01/2024;Lápis;23;150.86;Amapá
+15/01/2024;Agenda;60;148.74;Santa Catarina
+15/01/2024;Marcador;39;138.35;Rondônia
+16/01/2024;Lápis;33;81.81;Rio Grande do Norte
+16/01/2024;Régua;3;164.15;Paraná
+16/01/2024;Estojo;9;173.36;Rio de Janeiro
+16/01/2024;Agenda;77;17.62;Santa Catarina
+16/01/2024;Caderno;3;40.52;Paraíba
+16/01/2024;Marcador;85;54.19;Paraná
+16/01/2024;Caneta;69;43.12;Pernambuco
+16/01/2024;Estojo;8;133.74;Espírito Santo
+16/01/2024;Caneta;20;13.35;Distrito Federal
+16/01/2024;Borracha;40;133.54;Pernambuco
+16/01/2024;Caneta;61;195.05;Rondônia
+16/01/2024;Régua;85;101.9;Distrito Federal
+16/01/2024;Marcador;35;51.49;Rio Grande do Norte
+17/01/2024;Caderno;83;111.83;Goiás
+17/01/2024;Lápis;74;73.99;Ceará
+17/01/2024;Régua;63;91.64;Amapá
+17/01/2024;Borracha;50;89.09;Amazonas
+17/01/2024;Estojo;63;55.02;Pernambuco
+17/01/2024;Borracha;15;45.75;Mato Grosso do Sul
+17/01/2024;Marcador;26;91.69;Paraíba
+17/01/2024;Régua;61;136.27;Piauí
+18/01/2024;Lápis;26;115.07;Pará
+18/01/2024;Régua;91;97.39;Goiás
+18/01/2024;Marcador;43;105.42;Minas Gerais
+18/01/2024;Marcador;27;6.58;Rio de Janeiro
+18/01/2024;Marcador;5;34.02;Bahia
+18/01/2024;Caneta;24;125.81;Rio Grande do Norte
+18/01/2024;Lápis;333;115.28;São Paulo
+18/01/2024;Lápis;82;195.9;Paraíba
+18/01/2024;Caderno;92;145.87;Piauí
+18/01/2024;Estojo;15;41.1;Sergipe
+18/01/2024;Borracha;23;61.93;Mato Grosso
+19/01/2024;Borracha;69;156.42;Rio de Janeiro
+19/01/2024;Caneta;77;82.07;Bahia
+19/01/2024;Lápis;20;141.69;Pará
+19/01/2024;Estojo;37;137.47;Espírito Santo
+19/01/2024;Marcador;159;195.47;São Paulo
+20/01/2024;Agenda;54;193.85;Alagoas
+20/01/2024;Lápis;78;8.6;Mato Grosso do Sul
+20/01/2024;Régua;57;198.37;Rio de Janeiro
+20/01/2024;Caderno;59;95.27;Rio Grande do Sul
+20/01/2024;Agenda;75;115.86;Rio Grande do Sul
+20/01/2024;Estojo;17;148.38;Tocantins
+20/01/2024;Borracha;32;162.48;Espírito Santo
+20/01/2024;Régua;100;156.75;Amazonas
+20/01/2024;Lápis;21;148.96;Alagoas
+20/01/2024;Marcador;89;65.7;Amapá
+20/01/2024;Régua;59;25.16;Santa Catarina
+21/01/2024;Agenda;98;79.06;Rio Grande do Norte
+21/01/2024;Caderno;93;98.25;Rio Grande do Norte
+21/01/2024;Régua;98;193.86;Tocantins
+21/01/2024;Marcador;90;126.74;Rio Grande do Norte
+21/01/2024;Caderno;54;20.7;Paraíba
+21/01/2024;Marcador;71;86.6;Minas Gerais
+21/01/2024;Agenda;1;130.25;Amazonas
+21/01/2024;Caderno;88;89.79;Rondônia
+21/01/2024;Estojo;99;60.42;Santa Catarina
+21/01/2024;Agenda;62;126.13;Mato Grosso do Sul
+21/01/2024;Caderno;14;153.15;Bahia
+21/01/2024;Régua;1;169.64;Piauí
+21/01/2024;Caneta;23;116.38;Ceará
+22/01/2024;Caneta;95;11.69;Acre
+22/01/2024;Marcador;64;112.59;Rio de Janeiro
+22/01/2024;Régua;27;114.99;Roraima
+22/01/2024;Lápis;23;69.62;Pernambuco
+22/01/2024;Estojo;59;110.59;Ceará
+22/01/2024;Agenda;98;55.47;Pernambuco
+22/01/2024;Caderno;24;174.27;Rio Grande do Sul
+22/01/2024;Lápis;52;124.46;Alagoas
+22/01/2024;Caneta;15;79.97;Ceará
+22/01/2024;Lápis;16;42.76;Goiás
+22/01/2024;Agenda;20;18.13;Santa Catarina
+23/01/2024;Régua;42;68.88;Sergipe
+23/01/2024;Marcador;78;35.2;Rio Grande do Norte
+23/01/2024;Agenda;34;195.61;Santa Catarina
+23/01/2024;Caderno;66;140.36;Pará
+23/01/2024;Marcador;99;27.6;Sergipe
+24/01/2024;Borracha;81;83.16;Pernambuco
+24/01/2024;Agenda;4;185.74;Espírito Santo
+24/01/2024;Agenda;20;44.68;Mato Grosso
+24/01/2024;Caneta;33;162.57;Santa Catarina
+24/01/2024;Caneta;32;84.36;Goiás
+24/01/2024;Marcador;70;18.84;Maranhão
+24/01/2024;Estojo;52;66.1;Piauí
+24/01/2024;Borracha;98;70.86;Alagoas
+25/01/2024;Marcador;64;138.82;Espírito Santo
+25/01/2024;Régua;84;45.17;Rio Grande do Norte
+25/01/2024;Lápis;44;170.31;Acre
+25/01/2024;Lápis;21;43.47;Alagoas
+25/01/2024;Caneta;21;197.2;Pará
+25/01/2024;Agenda;88;20.67;Sergipe
+25/01/2024;Marcador;76;98.11;Santa Catarina
+25/01/2024;Régua;8;75.95;Alagoas
+25/01/2024;Borracha;94;121.26;Rio de Janeiro
+25/01/2024;Caderno;78;131.6;Goiás
+26/01/2024;Marcador;94;6.99;Maranhão
+26/01/2024;Caderno;40;146.87;Distrito Federal
+26/01/2024;Régua;96;77.63;Distrito Federal
+26/01/2024;Marcador;97;168.55;Bahia
+26/01/2024;Agenda;74;45.61;Alagoas
+27/01/2024;Marcador;79;79.54;Mato Grosso
+27/01/2024;Agenda;79;110.01;Santa Catarina
+27/01/2024;Marcador;84;10.29;São Paulo
+27/01/2024;Borracha;69;94.22;São Paulo
+27/01/2024;Régua;9;100.09;Minas Gerais
+28/01/2024;Caneta;93;60.77;Maranhão
+28/01/2024;Caderno;44;196.43;Amapá
+28/01/2024;Estojo;3;185.86;São Paulo
+28/01/2024;Agenda;92;175.24;Roraima
+28/01/2024;Lápis;93;39.14;Santa Catarina
+28/01/2024;Caneta;5;22.22;Mato Grosso
+28/01/2024;Caneta;45;88.73;Roraima
+28/01/2024;Régua;30;151.04;Pernambuco
+28/01/2024;Borracha;8;53.02;Rio Grande do Sul
+28/01/2024;Marcador;36;94.29;Roraima
+28/01/2024;Régua;14;80.82;Bahia
+28/01/2024;Agenda;57;69.81;Minas Gerais
+28/01/2024;Estojo;5;70.38;Amapá
+28/01/2024;Régua;26;65.28;Espírito Santo
+29/01/2024;Lápis;9;72.8;Minas Gerais
+29/01/2024;Agenda;15;130.58;Sergipe
+29/01/2024;Agenda;3;6.64;Santa Catarina
+29/01/2024;Agenda;84;153.81;São Paulo
+29/01/2024;Borracha;100;91.4;Roraima
+29/01/2024;Marcador;92;152.18;Rondônia
+29/01/2024;Agenda;32;35.19;Mato Grosso do Sul
+29/01/2024;Estojo;72;159.96;Mato Grosso
+29/01/2024;Caderno;80;40.31;São Paulo
+29/01/2024;Agenda;18;61.86;Distrito Federal
+29/01/2024;Estojo;8;160.56;Roraima
+30/01/2024;Estojo;93;22.75;Maranhão
+30/01/2024;Agenda;12;120.7;Pernambuco
+30/01/2024;Agenda;93;57.92;Mato Grosso do Sul
+30/01/2024;Régua;91;119.91;Piauí
+30/01/2024;Estojo;2;190.41;Rio Grande do Sul
+30/01/2024;Borracha;93;62.73;Pará
+30/01/2024;Caderno;79;32.98;Pará
+31/01/2024;Caneta;100;55.94;Amazonas
+31/01/2024;Estojo;64;31.93;Distrito Federal
+31/01/2024;Agenda;89;101.57;Sergipe
+31/01/2024;Caneta;48;7.71;Bahia
+31/01/2024;Caneta;99;79.42;Mato Grosso do Sul
+01/02/2024;Estojo;86;83.21;Sergipe
+01/02/2024;Estojo;85;18.98;Rondônia
+01/02/2024;Caderno;83;196.86;Tocantins
+01/02/2024;Borracha;68;52.05;Rio Grande do Sul
+01/02/2024;Régua;28;125.53;Rio de Janeiro
+01/02/2024;Régua;30;46.83;Maranhão
+02/02/2024;Estojo;48;120.33;Rondônia
+02/02/2024;Marcador;69;177.83;Rio Grande do Norte
+02/02/2024;Caderno;46;151.18;Rio de Janeiro
+02/02/2024;Caneta;91;150.33;Bahia
+02/02/2024;Lápis;89;131.61;Minas Gerais
+02/02/2024;Estojo;6;169.06;Pará
+02/02/2024;Régua;79;84.37;Bahia
+02/02/2024;Lápis;99;178.68;São Paulo
+02/02/2024;Marcador;73;154.3;São Paulo
+02/02/2024;Régua;7;30.08;Rio Grande do Norte
+03/02/2024;Caderno;26;125.88;Mato Grosso
+03/02/2024;Estojo;65;93.81;Distrito Federal
+03/02/2024;Lápis;11;70.22;Mato Grosso do Sul
+03/02/2024;Caneta;74;174.71;São Paulo
+03/02/2024;Régua;59;45.53;Maranhão
+03/02/2024;Caneta;18;138.51;Maranhão
+03/02/2024;Agenda;8;105.29;Maranhão
+03/02/2024;Lápis;48;68.9;Alagoas
+03/02/2024;Borracha;75;18.67;Acre
+03/02/2024;Régua;36;42.92;Bahia
+03/02/2024;Estojo;60;189.02;Pernambuco
+04/02/2024;Caderno;89;162.82;Mato Grosso
+04/02/2024;Caneta;73;34.66;Amapá
+04/02/2024;Caderno;62;7.33;Rondônia
+04/02/2024;Marcador;94;149.11;Roraima
+04/02/2024;Marcador;4;138.92;Ceará
+04/02/2024;Caderno;10;63.55;Goiás
+04/02/2024;Marcador;83;163.24;Tocantins
+04/02/2024;Marcador;61;179.21;São Paulo
+04/02/2024;Régua;66;74.38;Ceará
+04/02/2024;Lápis;94;136.38;Paraíba
+04/02/2024;Lápis;92;73.49;Pará
+04/02/2024;Lápis;82;141.91;Pernambuco
+04/02/2024;Lápis;92;25.77;Sergipe
+05/02/2024;Lápis;98;184.02;Pará
+05/02/2024;Régua;12;51.09;Goiás
+05/02/2024;Marcador;35;73.09;Rio Grande do Sul
+05/02/2024;Lápis;73;171.51;Minas Gerais
+05/02/2024;Régua;72;33.34;Maranhão
+05/02/2024;Lápis;90;154.9;São Paulo
+05/02/2024;Borracha;47;116.41;Rio Grande do Sul
+05/02/2024;Estojo;85;108.89;Paraíba
+06/02/2024;Régua;19;7.96;Rondônia
+06/02/2024;Lápis;89;115.09;Rio Grande do Norte
+06/02/2024;Marcador;58;82.24;Distrito Federal
+06/02/2024;Estojo;21;43.16;Ceará
+06/02/2024;Agenda;24;172.35;Espírito Santo
+06/02/2024;Borracha;26;105.21;Mato Grosso do Sul
+06/02/2024;Agenda;17;190.14;Pará
+06/02/2024;Agenda;80;195.82;Roraima
+06/02/2024;Caneta;62;85.1;Roraima
+06/02/2024;Caneta;96;25.51;Mato Grosso do Sul
+06/02/2024;Caderno;80;192.25;Rio Grande do Norte
+06/02/2024;Caderno;46;187.98;Alagoas
+06/02/2024;Caneta;78;69.25;Amazonas
+06/02/2024;Régua;83;139.72;Roraima
+06/02/2024;Agenda;53;84.94;Rondônia
+07/02/2024;Borracha;2;87.47;Roraima
+07/02/2024;Caneta;95;104.02;Paraná
+07/02/2024;Régua;42;60.63;Sergipe
+07/02/2024;Agenda;57;66.06;Alagoas
+07/02/2024;Caderno;22;101.03;Rio Grande do Sul
+07/02/2024;Agenda;7;10.86;Rio Grande do Norte
+07/02/2024;Borracha;33;134.88;Distrito Federal
+08/02/2024;Caderno;86;170.01;Pernambuco
+08/02/2024;Lápis;14;182.04;Rondônia
+08/02/2024;Régua;19;98.33;Piauí
+08/02/2024;Caneta;88;146.9;Tocantins
+08/02/2024;Régua;48;78.87;Alagoas
+08/02/2024;Régua;9;172.6;Goiás
+08/02/2024;Agenda;35;30.42;Roraima
+08/02/2024;Agenda;40;66.77;Rondônia
+09/02/2024;Agenda;69;66.91;Mato Grosso do Sul
+09/02/2024;Régua;40;128.12;Paraíba
+09/02/2024;Estojo;77;159.7;Distrito Federal
+09/02/2024;Borracha;14;22.64;Mato Grosso do Sul
+09/02/2024;Borracha;28;137.66;Rio Grande do Sul
+09/02/2024;Estojo;35;60.26;Distrito Federal
+09/02/2024;Caderno;72;109.77;Espírito Santo
+09/02/2024;Estojo;13;7.84;Paraíba
+09/02/2024;Estojo;28;167.49;Paraná
+09/02/2024;Marcador;20;15.81;Amazonas
+09/02/2024;Borracha;74;133.24;Piauí
+09/02/2024;Borracha;78;42.84;Rio Grande do Sul
+09/02/2024;Estojo;6;24.74;Espírito Santo
+10/02/2024;Agenda;84;68.54;Mato Grosso do Sul
+10/02/2024;Lápis;93;22.11;Maranhão
+10/02/2024;Lápis;20;68.3;Alagoas
+10/02/2024;Borracha;85;153.78;Tocantins
+10/02/2024;Estojo;2;120.48;Amapá
+10/02/2024;Borracha;47;14.54;Amazonas
+10/02/2024;Borracha;76;103.76;Amazonas
+10/02/2024;Lápis;75;48.58;Ceará
+10/02/2024;Borracha;99;189.67;Distrito Federal
+11/02/2024;Caneta;37;59.3;Distrito Federal
+11/02/2024;Caderno;70;150.13;Amapá
+11/02/2024;Agenda;13;122.95;Minas Gerais
+11/02/2024;Caderno;54;53.28;Piauí
+11/02/2024;Caderno;96;184.19;Distrito Federal
+11/02/2024;Caderno;85;151.02;Paraná
+11/02/2024;Caneta;36;153.08;Rio de Janeiro
+11/02/2024;Caneta;24;9.58;Paraná
+11/02/2024;Caneta;5;43.46;Pará
+12/02/2024;Caneta;30;142.43;Sergipe
+12/02/2024;Marcador;43;19.06;Pará
+12/02/2024;Lápis;58;113.53;Pará
+12/02/2024;Borracha;46;116.59;Rio Grande do Sul
+12/02/2024;Borracha;86;111.4;Amazonas
+12/02/2024;Agenda;28;48.66;Pernambuco
+12/02/2024;Estojo;40;40.25;Rio de Janeiro
+12/02/2024;Lápis;76;175.44;Maranhão
+12/02/2024;Estojo;25;6.93;Espírito Santo
+12/02/2024;Borracha;30;122.92;São Paulo
+12/02/2024;Lápis;57;142.12;Rio Grande do Norte
+12/02/2024;Agenda;66;101.43;Espírito Santo
+12/02/2024;Estojo;10;44.7;Bahia
+13/02/2024;Estojo;27;19.2;São Paulo
+13/02/2024;Borracha;52;116.81;Ceará
+13/02/2024;Agenda;22;144.12;Goiás
+13/02/2024;Caderno;11;77.03;Piauí
+13/02/2024;Caneta;25;171.72;Rio Grande do Sul
+13/02/2024;Lápis;67;35.89;Pará
+13/02/2024;Régua;14;144.14;Mato Grosso do Sul
+13/02/2024;Marcador;13;195.55;Mato Grosso
+13/02/2024;Marcador;79;72.91;Acre
+13/02/2024;Marcador;24;174.8;São Paulo
+13/02/2024;Caderno;28;7.82;Paraná
+13/02/2024;Régua;45;43.19;Ceará
+13/02/2024;Régua;20;18.63;Santa Catarina
+13/02/2024;Estojo;98;148.61;Paraíba
+13/02/2024;Régua;9;155.77;Rondônia
+14/02/2024;Régua;54;171.83;Pernambuco
+14/02/2024;Estojo;98;98.76;Sergipe
+14/02/2024;Régua;71;198.76;Mato Grosso do Sul
+14/02/2024;Marcador;64;134.84;Piauí
+14/02/2024;Borracha;62;60.29;Minas Gerais
+14/02/2024;Borracha;62;73.44;Rio Grande do Sul
+14/02/2024;Régua;27;86.96;Distrito Federal
+14/02/2024;Borracha;13;27.93;Rondônia
+14/02/2024;Estojo;58;130.34;Pernambuco
+14/02/2024;Marcador;99;167.71;Paraíba
+14/02/2024;Borracha;94;103.11;Minas Gerais
+14/02/2024;Lápis;49;104.61;Rio Grande do Norte
+14/02/2024;Marcador;59;143.93;Goiás
+15/02/2024;Marcador;86;68.97;Tocantins
+15/02/2024;Caderno;59;192.68;Amapá
+15/02/2024;Caneta;34;60.03;Goiás
+15/02/2024;Borracha;1;158.51;Roraima
+15/02/2024;Régua;12;57.73;Minas Gerais
+15/02/2024;Borracha;19;57.26;Acre
+15/02/2024;Caderno;57;145.47;Espírito Santo
+15/02/2024;Borracha;12;64.4;Mato Grosso
+15/02/2024;Régua;97;46.34;Mato Grosso do Sul
+15/02/2024;Lápis;39;132.43;Mato Grosso do Sul
+16/02/2024;Caneta;72;162.12;Amazonas
+16/02/2024;Agenda;24;100.52;Rio de Janeiro
+16/02/2024;Caderno;51;57.87;Mato Grosso do Sul
+16/02/2024;Estojo;22;9.13;Amazonas
+16/02/2024;Marcador;84;73.55;Distrito Federal
+16/02/2024;Agenda;22;19.24;Rio Grande do Sul
+16/02/2024;Lápis;9;49.53;Paraná
+16/02/2024;Caderno;39;17.22;Santa Catarina
+16/02/2024;Borracha;89;77.93;Rio de Janeiro
+16/02/2024;Estojo;97;89.91;Rio de Janeiro
+16/02/2024;Régua;59;168.22;Tocantins
+16/02/2024;Régua;72;181.71;Pará
+16/02/2024;Marcador;78;21.29;Espírito Santo
+16/02/2024;Caneta;3;175.85;São Paulo
+17/02/2024;Lápis;89;45.58;Roraima
+17/02/2024;Estojo;80;9.02;Rondônia
+17/02/2024;Borracha;9;22.31;Rio Grande do Norte
+17/02/2024;Marcador;35;168.82;Goiás
+17/02/2024;Caderno;59;137.84;Minas Gerais
+17/02/2024;Borracha;57;97.88;Tocantins
+17/02/2024;Régua;34;133;Paraná
+17/02/2024;Lápis;96;112.75;Distrito Federal
+17/02/2024;Agenda;28;169.92;Sergipe
+17/02/2024;Estojo;62;150.39;Rio de Janeiro
+17/02/2024;Caderno;89;65.28;Amapá
+18/02/2024;Lápis;94;168.39;Minas Gerais
+18/02/2024;Estojo;32;80.35;Bahia
+18/02/2024;Caderno;77;68.35;Amapá
+18/02/2024;Caderno;34;137.26;Rondônia
+18/02/2024;Régua;57;175.94;Distrito Federal
+18/02/2024;Caneta;87;45.02;Distrito Federal
+18/02/2024;Marcador;86;184.06;Rondônia
+18/02/2024;Régua;32;27.1;Sergipe
+18/02/2024;Agenda;75;139.65;Santa Catarina
+18/02/2024;Marcador;73;53.8;Amazonas
+18/02/2024;Agenda;95;63.84;Piauí
+19/02/2024;Agenda;96;177.8;Minas Gerais
+19/02/2024;Lápis;74;22.14;Goiás
+19/02/2024;Borracha;85;198.49;Paraná
+19/02/2024;Régua;53;94.93;Distrito Federal
+19/02/2024;Estojo;92;87.56;Mato Grosso
+19/02/2024;Estojo;41;64.65;Paraíba
+19/02/2024;Marcador;31;133.43;Tocantins
+19/02/2024;Caneta;23;180.48;Acre
+19/02/2024;Caderno;91;156.32;Acre
+19/02/2024;Caderno;68;68.4;Tocantins
+20/02/2024;Régua;8;14.41;Piauí
+20/02/2024;Régua;11;76.62;Sergipe
+20/02/2024;Agenda;58;61.34;Amazonas
+20/02/2024;Lápis;78;43.2;Maranhão
+20/02/2024;Lápis;4;47.71;Minas Gerais
+20/02/2024;Agenda;86;76.73;Minas Gerais
+20/02/2024;Caneta;6;154.18;Tocantins
+20/02/2024;Lápis;16;31.03;Mato Grosso do Sul
+21/02/2024;Lápis;56;32.52;Acre
+21/02/2024;Agenda;66;105.48;Piauí
+21/02/2024;Caderno;6;94.18;Piauí
+21/02/2024;Lápis;73;20.17;Amazonas
+21/02/2024;Caderno;24;95.09;Mato Grosso do Sul
+21/02/2024;Caneta;3;53.95;Pará
+21/02/2024;Régua;77;91.05;Mato Grosso
+22/02/2024;Lápis;49;113.65;Bahia
+22/02/2024;Caneta;66;175.33;Amazonas
+22/02/2024;Agenda;92;61.16;Amazonas
+22/02/2024;Marcador;64;163.99;Maranhão
+22/02/2024;Agenda;35;55.69;Sergipe
+22/02/2024;Marcador;61;162.57;Pernambuco
+22/02/2024;Caneta;41;88.58;Mato Grosso
+22/02/2024;Caderno;16;68.77;Rio Grande do Norte
+22/02/2024;Marcador;66;45.08;Rio Grande do Norte
+22/02/2024;Lápis;94;78.36;Rio Grande do Norte
+22/02/2024;Estojo;13;105.77;Piauí
+22/02/2024;Marcador;45;47.27;São Paulo
+22/02/2024;Agenda;77;24.03;Rio Grande do Norte
+22/02/2024;Caderno;55;128.53;Distrito Federal
+23/02/2024;Lápis;72;100.51;Espírito Santo
+23/02/2024;Caneta;87;17.05;Rio Grande do Sul
+23/02/2024;Caderno;65;151.96;Mato Grosso do Sul
+23/02/2024;Agenda;51;174.86;Goiás
+23/02/2024;Caderno;16;198.21;Amazonas
+23/02/2024;Caneta;15;153.31;Rio Grande do Norte
+23/02/2024;Régua;79;151.2;Tocantins
+23/02/2024;Lápis;48;89.65;Rio Grande do Sul
+23/02/2024;Lápis;41;146.14;Rondônia
+23/02/2024;Lápis;95;139.4;Mato Grosso do Sul
+23/02/2024;Borracha;14;79.67;Piauí
+23/02/2024;Régua;77;138.85;Roraima
+23/02/2024;Marcador;91;145.89;Minas Gerais
+23/02/2024;Régua;45;196.5;Acre
+23/02/2024;Lápis;94;110.85;Bahia
+24/02/2024;Estojo;83;145.14;Espírito Santo
+24/02/2024;Agenda;74;24.88;Santa Catarina
+24/02/2024;Caneta;77;151.15;Espírito Santo
+24/02/2024;Régua;39;150.16;Pernambuco
+24/02/2024;Marcador;62;132.24;Ceará
+24/02/2024;Lápis;87;22.57;Distrito Federal
+24/02/2024;Caneta;80;29.47;Mato Grosso
+24/02/2024;Agenda;33;41.86;Santa Catarina
+25/02/2024;Régua;85;154.06;Minas Gerais
+25/02/2024;Marcador;52;19.31;Pará
+25/02/2024;Marcador;96;14.67;Rio de Janeiro
+25/02/2024;Caderno;40;145.96;Pernambuco
+25/02/2024;Caderno;9;34.04;Maranhão
+25/02/2024;Agenda;43;8.64;Goiás
+25/02/2024;Borracha;36;122.76;Distrito Federal
+25/02/2024;Marcador;65;172.76;Mato Grosso
+25/02/2024;Agenda;18;132.41;Sergipe
+26/02/2024;Marcador;47;168.24;Paraíba
+26/02/2024;Régua;81;99.41;Espírito Santo
+26/02/2024;Caderno;4;69.7;Amazonas
+26/02/2024;Estojo;19;109.39;Goiás
+26/02/2024;Régua;87;111.92;Rio de Janeiro
+26/02/2024;Caneta;57;19.95;Ceará
+26/02/2024;Marcador;24;60.26;Piauí
+26/02/2024;Marcador;38;106.23;Roraima
+26/02/2024;Régua;20;52.39;Mato Grosso
+26/02/2024;Estojo;57;17.91;Rio Grande do Sul
+26/02/2024;Borracha;90;31.3;Minas Gerais
+26/02/2024;Borracha;17;143.56;Pará
+27/02/2024;Marcador;45;83.3;Santa Catarina
+27/02/2024;Régua;46;86.65;Rio Grande do Norte
+27/02/2024;Caneta;28;105.89;Espírito Santo
+27/02/2024;Estojo;63;134.03;Mato Grosso do Sul
+27/02/2024;Agenda;45;114.71;Amazonas
+27/02/2024;Estojo;23;37.25;Maranhão
+28/02/2024;Lápis;62;111.69;Piauí
+28/02/2024;Caderno;72;179.09;Amapá
+28/02/2024;Marcador;75;25.42;Mato Grosso
+28/02/2024;Régua;36;7.34;Goiás
+28/02/2024;Agenda;33;165.9;Tocantins
+28/02/2024;Caderno;45;102.71;Acre
+28/02/2024;Lápis;73;110.36;Mato Grosso
+28/02/2024;Caderno;41;41.67;Mato Grosso
+28/02/2024;Estojo;71;193.14;Goiás
+29/02/2024;Marcador;28;61.12;Amazonas
+29/02/2024;Caderno;19;184.11;Piauí
+29/02/2024;Régua;46;177.16;Maranhão
+29/02/2024;Estojo;27;75.61;Alagoas
+29/02/2024;Estojo;66;160.67;Sergipe
+29/02/2024;Lápis;96;74.01;Santa Catarina
+29/02/2024;Agenda;95;151.68;Amapá
+29/02/2024;Agenda;70;44.37;São Paulo
+01/03/2024;Borracha;70;196.29;Rio Grande do Sul
+01/03/2024;Caderno;74;162.17;Pernambuco
+01/03/2024;Borracha;15;47.13;Paraná
+01/03/2024;Marcador;100;163.09;Paraíba
+01/03/2024;Agenda;49;51.66;Pernambuco
+01/03/2024;Borracha;1;36.64;Rio Grande do Sul
+01/03/2024;Caderno;22;131.15;Sergipe
+01/03/2024;Régua;48;5.91;São Paulo
+01/03/2024;Estojo;34;75.91;Minas Gerais
+01/03/2024;Caderno;95;12.99;Mato Grosso do Sul
+01/03/2024;Marcador;24;25.98;Goiás
+01/03/2024;Caneta;23;103.09;Rio Grande do Sul
+01/03/2024;Caneta;48;15.12;Espírito Santo
+01/03/2024;Marcador;65;109.86;Paraná
+01/03/2024;Caderno;30;108.7;Mato Grosso do Sul
+02/03/2024;Caneta;16;91.15;Mato Grosso
+02/03/2024;Agenda;96;130.88;Mato Grosso
+02/03/2024;Marcador;4;104.44;Rio Grande do Sul
+02/03/2024;Caderno;45;15.71;Sergipe
+02/03/2024;Borracha;29;40.59;Paraná
+02/03/2024;Régua;10;61.75;Mato Grosso do Sul
+02/03/2024;Estojo;65;36.59;Minas Gerais
+02/03/2024;Agenda;15;36.97;Ceará
+03/03/2024;Marcador;99;28.2;Espírito Santo
+03/03/2024;Caderno;2;72.66;Rondônia
+03/03/2024;Régua;46;140.02;Rondônia
+03/03/2024;Borracha;37;188.61;Piauí
+03/03/2024;Estojo;50;112.22;Sergipe
+03/03/2024;Lápis;97;45.64;Alagoas
+03/03/2024;Borracha;5;69.11;Distrito Federal
+03/03/2024;Estojo;36;171.45;Pará
+03/03/2024;Lápis;84;141.99;Rondônia
+03/03/2024;Caderno;66;55.79;Mato Grosso
+03/03/2024;Estojo;26;45.45;Rio Grande do Norte
+03/03/2024;Marcador;97;49.21;Santa Catarina
+04/03/2024;Régua;98;47.19;Paraná
+04/03/2024;Estojo;38;151.8;Pernambuco
+04/03/2024;Borracha;92;162.75;Rio de Janeiro
+04/03/2024;Borracha;90;199.6;Pernambuco
+04/03/2024;Estojo;1;109.04;Paraná
+04/03/2024;Estojo;12;76.56;Pernambuco
+04/03/2024;Caderno;94;81.08;Tocantins
+05/03/2024;Borracha;64;61.59;São Paulo
+05/03/2024;Caneta;75;171.03;Piauí
+05/03/2024;Lápis;35;26.06;Mato Grosso
+05/03/2024;Caneta;48;133.27;Mato Grosso do Sul
+05/03/2024;Caderno;88;64.83;Sergipe
+05/03/2024;Lápis;39;58.25;Rio Grande do Norte
+05/03/2024;Lápis;65;9.58;Rio Grande do Norte
+05/03/2024;Agenda;85;199.18;Paraíba
+06/03/2024;Marcador;93;21.09;Rio de Janeiro
+06/03/2024;Régua;90;19.81;Santa Catarina
+06/03/2024;Borracha;20;22.01;Rio de Janeiro
+06/03/2024;Marcador;31;174.74;Amapá
+06/03/2024;Régua;55;94.62;São Paulo
+06/03/2024;Borracha;63;13.28;Pernambuco
+06/03/2024;Régua;18;101.37;Distrito Federal
+06/03/2024;Caneta;91;79.38;São Paulo
+06/03/2024;Lápis;10;57.5;Ceará
+07/03/2024;Lápis;68;172.18;Mato Grosso
+07/03/2024;Régua;29;177.33;Amazonas
+07/03/2024;Caderno;1;24.76;São Paulo
+07/03/2024;Agenda;64;10.67;Rio Grande do Sul
+07/03/2024;Estojo;20;192.16;Paraíba
+07/03/2024;Estojo;54;193.56;Acre
+07/03/2024;Borracha;81;45.69;Tocantins
+08/03/2024;Lápis;16;108.29;Piauí
+08/03/2024;Borracha;51;62.08;Tocantins
+08/03/2024;Régua;53;197.72;Santa Catarina
+08/03/2024;Estojo;13;163.2;Bahia
+08/03/2024;Agenda;87;103.55;Espírito Santo
+08/03/2024;Estojo;67;138.41;Rio Grande do Norte
+08/03/2024;Caneta;40;47.96;São Paulo
+08/03/2024;Estojo;1;112.42;Pará
+08/03/2024;Estojo;52;129.49;Paraíba
+09/03/2024;Borracha;82;159.2;Piauí
+09/03/2024;Lápis;6;177.19;Rondônia
+09/03/2024;Lápis;26;27.49;Rondônia
+09/03/2024;Estojo;63;135.78;Pará
+09/03/2024;Régua;45;107.12;Ceará
+09/03/2024;Estojo;54;9.29;Distrito Federal
+09/03/2024;Marcador;43;195.69;Amazonas
+09/03/2024;Régua;43;90.11;Rondônia
+09/03/2024;Borracha;93;77.09;Distrito Federal
+09/03/2024;Régua;19;51.6;Sergipe
+09/03/2024;Régua;66;149.48;Paraíba
+10/03/2024;Estojo;83;162.5;Maranhão
+10/03/2024;Lápis;43;119.16;Mato Grosso
+10/03/2024;Régua;37;19.19;Pará
+10/03/2024;Estojo;59;59.55;Santa Catarina
+10/03/2024;Lápis;73;144.49;Pernambuco
+11/03/2024;Agenda;21;50.75;Distrito Federal
+11/03/2024;Agenda;49;148.6;Ceará
+11/03/2024;Marcador;14;126.15;Maranhão
+11/03/2024;Régua;28;173.32;Paraíba
+11/03/2024;Agenda;76;66.67;Rio Grande do Sul
+11/03/2024;Agenda;68;48.68;Rio Grande do Sul
+11/03/2024;Marcador;90;137.16;Amapá
+11/03/2024;Agenda;94;139.64;Paraíba
+11/03/2024;Caderno;28;96.46;Pernambuco
+11/03/2024;Caneta;91;57.9;Tocantins
+12/03/2024;Caderno;56;63.14;Espírito Santo
+12/03/2024;Caneta;35;73.84;Roraima
+12/03/2024;Régua;61;166.3;Santa Catarina
+12/03/2024;Marcador;11;61.84;Piauí
+12/03/2024;Marcador;25;189.41;Santa Catarina
+12/03/2024;Marcador;7;9.76;Sergipe
+12/03/2024;Borracha;51;48.77;Rio Grande do Norte
+12/03/2024;Borracha;88;92.3;Tocantins
+12/03/2024;Caneta;85;60.39;Tocantins
+12/03/2024;Estojo;8;153.97;Paraíba
+12/03/2024;Régua;52;133.29;Pernambuco
+12/03/2024;Caderno;51;118.46;Rondônia
+12/03/2024;Caneta;78;108.22;Bahia
+13/03/2024;Borracha;28;29.66;Rio Grande do Norte
+13/03/2024;Lápis;82;40.49;Mato Grosso do Sul
+13/03/2024;Borracha;66;102.68;Minas Gerais
+13/03/2024;Régua;71;53.41;Santa Catarina
+13/03/2024;Caderno;40;186.15;Maranhão
+13/03/2024;Agenda;49;48.86;Tocantins
+13/03/2024;Caneta;44;31.36;Pará
+13/03/2024;Borracha;45;95.59;Amapá
+13/03/2024;Marcador;53;110.7;Paraíba
+13/03/2024;Caderno;6;79.86;Acre
+13/03/2024;Marcador;97;42.82;Bahia
+14/03/2024;Caneta;20;150.32;Rio Grande do Sul
+14/03/2024;Caderno;62;64.62;Pernambuco
+14/03/2024;Marcador;21;131.38;Minas Gerais
+14/03/2024;Lápis;62;181.51;Santa Catarina
+14/03/2024;Régua;61;151.06;Alagoas
+15/03/2024;Borracha;55;79.63;Ceará
+15/03/2024;Borracha;39;91.53;Goiás
+15/03/2024;Agenda;21;179.58;Pernambuco
+15/03/2024;Caderno;50;64.27;Rio de Janeiro
+15/03/2024;Caneta;54;169;Rio Grande do Sul
+15/03/2024;Agenda;52;147.22;Tocantins
+15/03/2024;Régua;55;93.24;Roraima
+15/03/2024;Agenda;9;168.11;Mato Grosso do Sul
+16/03/2024;Régua;63;11.76;Tocantins
+16/03/2024;Régua;34;93.9;Piauí
+16/03/2024;Estojo;16;86.62;Amapá
+16/03/2024;Marcador;60;90.95;Amazonas
+16/03/2024;Borracha;35;72.47;Mato Grosso do Sul
+16/03/2024;Caderno;7;69.23;Goiás
+16/03/2024;Estojo;98;59.7;Rondônia
+17/03/2024;Lápis;61;88.43;Distrito Federal
+17/03/2024;Estojo;1;46.55;Paraíba
+17/03/2024;Estojo;97;93.26;Amazonas
+17/03/2024;Marcador;86;182.24;Roraima
+17/03/2024;Estojo;70;190.12;Rio de Janeiro
+17/03/2024;Régua;19;90.63;Minas Gerais
+17/03/2024;Estojo;55;71.43;Mato Grosso do Sul
+17/03/2024;Borracha;83;72.52;Mato Grosso do Sul
+18/03/2024;Marcador;89;96.95;Ceará
+18/03/2024;Lápis;69;115.52;Piauí
+18/03/2024;Marcador;1;108.87;Pará
+18/03/2024;Estojo;12;12.87;Piauí
+18/03/2024;Marcador;45;92.9;São Paulo
+18/03/2024;Agenda;100;48.15;São Paulo
+18/03/2024;Caderno;21;114.3;Tocantins
+18/03/2024;Marcador;99;196.86;São Paulo
+18/03/2024;Marcador;74;156.56;Bahia
+19/03/2024;Lápis;86;103.81;Tocantins
+19/03/2024;Estojo;78;66.62;Maranhão
+19/03/2024;Caderno;24;96.93;Rio de Janeiro
+19/03/2024;Agenda;85;35.25;Mato Grosso do Sul
+19/03/2024;Lápis;76;193.93;Espírito Santo
+19/03/2024;Caneta;94;199.76;Paraná
+19/03/2024;Marcador;78;191.77;Sergipe
+19/03/2024;Borracha;51;70.38;Distrito Federal
+20/03/2024;Estojo;82;136.08;Acre
+20/03/2024;Marcador;85;46.72;Paraíba
+20/03/2024;Borracha;50;126.29;Tocantins
+20/03/2024;Lápis;15;71.92;Alagoas
+20/03/2024;Marcador;52;117.03;Goiás
+20/03/2024;Régua;29;112.02;Amapá
+20/03/2024;Agenda;12;120.99;Rio de Janeiro
+20/03/2024;Marcador;85;150.35;Alagoas
+20/03/2024;Borracha;14;35.29;Acre
+20/03/2024;Agenda;13;194.6;Rio Grande do Norte
+20/03/2024;Caderno;89;153.82;Distrito Federal
+20/03/2024;Marcador;33;171.33;Rio Grande do Sul
+20/03/2024;Caderno;26;174.46;Pará
+21/03/2024;Estojo;48;72.14;Paraíba
+21/03/2024;Marcador;60;159.07;Rio Grande do Norte
+21/03/2024;Régua;99;170.5;Amapá
+21/03/2024;Régua;75;197.52;Sergipe
+21/03/2024;Caderno;53;79.03;Amazonas
+21/03/2024;Borracha;15;105.85;Roraima
+21/03/2024;Agenda;79;66.72;Maranhão
+21/03/2024;Borracha;85;57.54;Amapá
+22/03/2024;Lápis;48;13.7;Roraima
+22/03/2024;Borracha;7;8.27;Amazonas
+22/03/2024;Borracha;2;163.81;Pernambuco
+22/03/2024;Régua;75;165.81;Amapá
+22/03/2024;Caderno;24;125.15;Rio de Janeiro
+22/03/2024;Lápis;25;37.13;Acre
+22/03/2024;Borracha;52;189.21;Tocantins
+22/03/2024;Régua;75;189.67;Maranhão
+22/03/2024;Caneta;7;138.49;Roraima
+22/03/2024;Lápis;87;101.18;Mato Grosso
+23/03/2024;Agenda;84;51.51;Pará
+23/03/2024;Agenda;87;133.23;Tocantins
+23/03/2024;Régua;43;112.35;São Paulo
+23/03/2024;Estojo;10;180.69;Amazonas
+23/03/2024;Marcador;100;167.68;Distrito Federal
+23/03/2024;Lápis;23;165.38;Rio Grande do Norte
+24/03/2024;Régua;51;110.33;Sergipe
+24/03/2024;Estojo;74;88.69;Paraíba
+24/03/2024;Borracha;9;82.21;Amazonas
+24/03/2024;Lápis;33;6.84;Goiás
+24/03/2024;Lápis;32;50.55;Rondônia
+24/03/2024;Régua;29;12.02;Rio Grande do Sul
+24/03/2024;Marcador;2;100.43;Sergipe
+24/03/2024;Caneta;31;21.43;Pará
+24/03/2024;Caneta;24;188.34;Rio de Janeiro
+24/03/2024;Lápis;58;113.22;Rondônia
+24/03/2024;Caderno;44;105.8;Bahia
+24/03/2024;Estojo;36;178.47;Goiás
+24/03/2024;Agenda;9;86.75;Amapá
+25/03/2024;Lápis;82;192.26;Rio Grande do Sul
+25/03/2024;Caderno;66;34.41;Acre
+25/03/2024;Estojo;85;157.98;Pará
+25/03/2024;Borracha;43;168.65;Bahia
+25/03/2024;Caderno;60;9.03;Maranhão
+25/03/2024;Régua;80;82.97;Ceará
+25/03/2024;Caneta;28;125.92;Rio Grande do Norte
+25/03/2024;Agenda;98;80.3;São Paulo
+25/03/2024;Caneta;75;45.06;Minas Gerais
+25/03/2024;Agenda;63;193.93;Pernambuco
+25/03/2024;Lápis;82;176.02;Alagoas
+25/03/2024;Régua;71;140.17;Roraima
+25/03/2024;Lápis;64;192.62;Paraíba
+25/03/2024;Marcador;48;146.83;Amazonas
+25/03/2024;Caderno;43;143;Acre
+26/03/2024;Agenda;23;152.83;Amazonas
+26/03/2024;Caderno;62;52.46;Distrito Federal
+26/03/2024;Borracha;98;130.06;Rio de Janeiro
+26/03/2024;Marcador;40;128.56;Distrito Federal
+26/03/2024;Régua;48;20.52;Pernambuco
+27/03/2024;Agenda;13;75.29;Tocantins
+27/03/2024;Marcador;18;35.29;Piauí
+27/03/2024;Lápis;81;53.46;Ceará
+27/03/2024;Lápis;74;81.05;Santa Catarina
+27/03/2024;Régua;31;104.84;Santa Catarina
+27/03/2024;Régua;80;146.17;Ceará
+27/03/2024;Agenda;80;72.93;Ceará
+27/03/2024;Estojo;78;174.64;Mato Grosso do Sul
+27/03/2024;Marcador;21;81.64;Amapá
+28/03/2024;Borracha;41;144.38;São Paulo
+28/03/2024;Caderno;26;191.31;Goiás
+28/03/2024;Marcador;62;196.63;São Paulo
+28/03/2024;Estojo;36;150.98;Paraná
+28/03/2024;Caneta;10;85.33;Tocantins
+29/03/2024;Estojo;63;177.8;Bahia
+29/03/2024;Estojo;94;113.84;Ceará
+29/03/2024;Borracha;100;68.58;Maranhão
+29/03/2024;Estojo;88;186.44;Bahia
+29/03/2024;Marcador;94;62.81;Mato Grosso
+29/03/2024;Caneta;97;42.03;Rio Grande do Norte
+29/03/2024;Caneta;7;179.71;São Paulo
+29/03/2024;Régua;9;196.22;Acre
+29/03/2024;Caneta;24;76.54;Pará
+30/03/2024;Caderno;34;28.9;Distrito Federal
+30/03/2024;Estojo;70;106.23;Rio de Janeiro
+30/03/2024;Estojo;6;122.58;Rio de Janeiro
+30/03/2024;Lápis;54;110.91;Paraná
+30/03/2024;Borracha;31;73.47;Mato Grosso
+30/03/2024;Lápis;63;55.13;Goiás
+30/03/2024;Marcador;60;168.3;Amazonas
+30/03/2024;Régua;55;144.02;Roraima
+30/03/2024;Régua;77;163.88;Mato Grosso
+30/03/2024;Estojo;36;52.52;Amazonas
+30/03/2024;Lápis;74;120.14;Paraná
+30/03/2024;Agenda;45;63.75;Pernambuco
+30/03/2024;Caderno;53;120.16;Alagoas
+31/03/2024;Estojo;91;108.93;Rio de Janeiro
+31/03/2024;Marcador;30;23.36;Rondônia
+31/03/2024;Caderno;19;126.8;Paraná
+31/03/2024;Caderno;72;66.69;Goiás
+31/03/2024;Lápis;28;79.14;Goiás
+31/03/2024;Agenda;10;39.57;Goiás
+31/03/2024;Estojo;57;40.05;Paraíba
+31/03/2024;Régua;6;24.91;Piauí
+01/04/2024;Estojo;66;141.53;Piauí
+01/04/2024;Agenda;21;21.5;Alagoas
+01/04/2024;Régua;59;62.15;Acre
+01/04/2024;Caneta;50;184.25;Roraima
+01/04/2024;Lápis;11;41.56;Espírito Santo
+02/04/2024;Estojo;75;62.27;Rio Grande do Norte
+02/04/2024;Marcador;7;168.64;Ceará
+02/04/2024;Caneta;54;60.17;Pará
+02/04/2024;Caderno;68;127.84;São Paulo
+02/04/2024;Borracha;43;72.52;Santa Catarina
+02/04/2024;Lápis;55;139.66;Goiás
+02/04/2024;Lápis;27;196.12;Amapá
+02/04/2024;Marcador;40;31.66;Distrito Federal
+02/04/2024;Borracha;87;8.55;Acre
+02/04/2024;Estojo;58;53.6;Mato Grosso
+02/04/2024;Lápis;31;19.04;Pernambuco
+02/04/2024;Caderno;76;138.91;Rondônia
+03/04/2024;Lápis;55;79.16;Sergipe
+03/04/2024;Borracha;88;73.27;Rio Grande do Norte
+03/04/2024;Régua;41;146.91;São Paulo
+03/04/2024;Agenda;64;151.99;São Paulo
+03/04/2024;Caderno;72;9.84;Amazonas
+03/04/2024;Borracha;30;178.43;Amazonas
+03/04/2024;Borracha;50;41.53;Paraíba
+03/04/2024;Régua;24;72.55;Pernambuco
+04/04/2024;Régua;95;25.93;Roraima
+04/04/2024;Borracha;18;80.54;Minas Gerais
+04/04/2024;Estojo;88;155.85;Espírito Santo
+04/04/2024;Lápis;96;132.61;Rio de Janeiro
+04/04/2024;Caneta;82;193.77;Rio Grande do Sul
+04/04/2024;Estojo;53;54.58;Pará
+04/04/2024;Régua;55;90.55;Santa Catarina
+04/04/2024;Caderno;55;18.55;Amapá
+04/04/2024;Lápis;25;37.52;Amazonas
+04/04/2024;Régua;70;74.33;Espírito Santo
+04/04/2024;Lápis;38;79.47;Alagoas
+04/04/2024;Lápis;26;73.15;Bahia
+04/04/2024;Marcador;86;121.53;Maranhão
+05/04/2024;Marcador;38;122.32;Pernambuco
+05/04/2024;Marcador;4;92.48;Rio de Janeiro
+05/04/2024;Caneta;37;58.29;Mato Grosso
+05/04/2024;Marcador;93;124.95;Acre
+05/04/2024;Caneta;43;159.93;Acre
+05/04/2024;Caderno;58;112.51;São Paulo
+05/04/2024;Caderno;31;159.24;Pernambuco
+05/04/2024;Agenda;89;157.39;Goiás
+05/04/2024;Caderno;91;110.79;Rio de Janeiro
+05/04/2024;Régua;9;97.5;Goiás
+06/04/2024;Caderno;53;198.49;Tocantins
+06/04/2024;Régua;33;76.1;Rio Grande do Norte
+06/04/2024;Régua;42;124.52;Goiás
+06/04/2024;Caderno;54;131.39;Pernambuco
+06/04/2024;Caneta;54;145.32;Goiás
+06/04/2024;Caderno;30;74.16;Rio Grande do Sul
+06/04/2024;Régua;62;128.06;Ceará
+06/04/2024;Marcador;33;117.29;Pernambuco
+06/04/2024;Caderno;25;161.63;Acre
+06/04/2024;Caneta;76;190.11;Distrito Federal
+06/04/2024;Caderno;43;110;Sergipe
+07/04/2024;Régua;84;129.17;Mato Grosso
+07/04/2024;Régua;23;26.28;Mato Grosso
+07/04/2024;Caderno;82;109.84;Bahia
+07/04/2024;Caneta;84;103.5;Santa Catarina
+07/04/2024;Lápis;100;138.1;Maranhão
+07/04/2024;Lápis;55;74.27;Paraná
+07/04/2024;Lápis;14;71.29;Pernambuco
+07/04/2024;Marcador;21;45.84;São Paulo
+07/04/2024;Borracha;71;102.16;Ceará
+07/04/2024;Marcador;74;110.93;Pará
+08/04/2024;Lápis;36;96.31;Rio Grande do Norte
+08/04/2024;Caneta;24;154.41;Rio Grande do Norte
+08/04/2024;Caderno;21;154.12;Mato Grosso do Sul
+08/04/2024;Agenda;83;112.76;Paraíba
+08/04/2024;Agenda;94;81.14;Rio Grande do Sul
+08/04/2024;Agenda;9;114.64;Acre
+08/04/2024;Caneta;43;71.93;Sergipe
+08/04/2024;Caneta;89;157.03;Amapá
+08/04/2024;Lápis;24;41.21;Maranhão
+08/04/2024;Caneta;64;25.55;Roraima
+08/04/2024;Lápis;4;14.3;Piauí
+09/04/2024;Agenda;86;39.35;Mato Grosso
+09/04/2024;Estojo;67;48.3;São Paulo
+09/04/2024;Régua;32;65.1;Espírito Santo
+09/04/2024;Marcador;2;81.17;Minas Gerais
+09/04/2024;Caneta;21;9.07;Acre
+09/04/2024;Caderno;46;100.28;Acre
+09/04/2024;Régua;27;120.99;Rondônia
+09/04/2024;Marcador;25;182.25;Acre
+09/04/2024;Lápis;46;22.28;Amazonas
+09/04/2024;Régua;34;56.78;Mato Grosso
+09/04/2024;Borracha;77;139.97;Tocantins
+09/04/2024;Caneta;51;159.44;Rondônia
+09/04/2024;Agenda;93;169.96;Amapá
+09/04/2024;Caneta;91;192.1;Amazonas
+10/04/2024;Borracha;70;58.33;Tocantins
+10/04/2024;Borracha;37;70.61;Pará
+10/04/2024;Estojo;16;110.56;Maranhão
+10/04/2024;Lápis;52;158.65;Rio de Janeiro
+10/04/2024;Agenda;31;155.09;Bahia
+10/04/2024;Borracha;59;54.6;Sergipe
+10/04/2024;Régua;66;117.64;Rio de Janeiro
+10/04/2024;Estojo;68;195.94;Goiás
+11/04/2024;Marcador;68;162.3;Pará
+11/04/2024;Estojo;32;110.37;Rio Grande do Sul
+11/04/2024;Marcador;42;178.52;Rio Grande do Norte
+11/04/2024;Borracha;16;99.96;Piauí
+11/04/2024;Borracha;23;107.96;Minas Gerais
+11/04/2024;Marcador;49;159.15;Mato Grosso do Sul
+12/04/2024;Caderno;22;149.19;Bahia
+12/04/2024;Borracha;88;176.12;Paraná
+12/04/2024;Estojo;8;23.34;Ceará
+12/04/2024;Agenda;22;135;Paraíba
+12/04/2024;Régua;83;190.42;Minas Gerais
+12/04/2024;Borracha;96;19.53;Alagoas
+12/04/2024;Estojo;14;15.96;Amapá
+12/04/2024;Régua;88;69.52;Maranhão
+12/04/2024;Régua;1;102.34;Rondônia
+12/04/2024;Borracha;90;145.8;Alagoas
+12/04/2024;Lápis;28;22.85;Alagoas
+12/04/2024;Lápis;39;107.34;Mato Grosso do Sul
+13/04/2024;Caderno;79;106.26;Espírito Santo
+13/04/2024;Caderno;84;46.79;Amazonas
+13/04/2024;Borracha;92;45.25;Ceará
+13/04/2024;Lápis;56;77.72;Rio Grande do Norte
+13/04/2024;Régua;16;153.16;Roraima
+13/04/2024;Borracha;67;112.2;Santa Catarina
+13/04/2024;Marcador;2;153.61;Santa Catarina
+13/04/2024;Caneta;62;40.96;Rio Grande do Norte
+13/04/2024;Borracha;98;130.19;Rondônia
+13/04/2024;Marcador;94;145.33;Rio de Janeiro
+13/04/2024;Lápis;86;12.92;Mato Grosso
+13/04/2024;Lápis;26;93.15;Ceará
+13/04/2024;Caneta;68;192.01;Distrito Federal
+13/04/2024;Marcador;1;13.47;Paraná
+13/04/2024;Borracha;84;34.34;Rio de Janeiro
+14/04/2024;Marcador;61;36.5;Rio Grande do Norte
+14/04/2024;Régua;19;6.77;Distrito Federal
+14/04/2024;Estojo;93;62.17;Rio Grande do Sul
+14/04/2024;Caderno;50;151.4;Tocantins
+14/04/2024;Caneta;64;137.49;Sergipe
+14/04/2024;Caderno;10;186.77;Acre
+14/04/2024;Borracha;35;34.55;Paraíba
+14/04/2024;Estojo;37;24.17;Minas Gerais
+14/04/2024;Caderno;45;178.81;Pará
+14/04/2024;Lápis;60;177.03;Amapá
+14/04/2024;Caneta;49;107.72;Minas Gerais
+14/04/2024;Régua;50;90.73;Minas Gerais
+14/04/2024;Agenda;57;151.08;Goiás
+15/04/2024;Borracha;27;33.18;Amazonas
+15/04/2024;Caneta;36;123.9;Espírito Santo
+15/04/2024;Agenda;6;169.89;Piauí
+15/04/2024;Borracha;31;80.9;Espírito Santo
+15/04/2024;Marcador;70;19.95;Rio Grande do Norte
+15/04/2024;Marcador;23;197.39;Amapá
+15/04/2024;Régua;46;42.99;Acre
+15/04/2024;Régua;81;96.06;São Paulo
+16/04/2024;Caderno;55;94.32;Acre
+16/04/2024;Estojo;20;124.53;Rio Grande do Sul
+16/04/2024;Estojo;5;16;Alagoas
+16/04/2024;Agenda;65;184.29;Distrito Federal
+16/04/2024;Régua;58;185.74;Amazonas
+16/04/2024;Agenda;79;121.75;Maranhão
+16/04/2024;Agenda;98;123.98;Roraima
+16/04/2024;Estojo;21;119.7;Pernambuco
+16/04/2024;Agenda;22;165.9;Bahia
+16/04/2024;Caderno;43;50.91;Bahia
+16/04/2024;Agenda;16;168.52;Espírito Santo
+16/04/2024;Caneta;15;158.8;Distrito Federal
+17/04/2024;Estojo;48;71.48;São Paulo
+17/04/2024;Borracha;31;21.16;Mato Grosso
+17/04/2024;Lápis;63;175.17;Ceará
+17/04/2024;Lápis;49;10.32;Bahia
+17/04/2024;Borracha;99;192.13;Pernambuco
+17/04/2024;Agenda;17;135.76;Paraná
+17/04/2024;Marcador;9;159.29;Acre
+17/04/2024;Agenda;46;10.82;Sergipe
+17/04/2024;Lápis;99;183.22;Paraná
+18/04/2024;Régua;24;163.79;Maranhão
+18/04/2024;Caderno;20;26.36;Rio Grande do Norte
+18/04/2024;Caderno;78;111.15;Acre
+18/04/2024;Borracha;53;41.88;Roraima
+18/04/2024;Agenda;63;115.45;Mato Grosso do Sul
+18/04/2024;Marcador;62;106.44;Paraíba
+18/04/2024;Borracha;13;56.58;Bahia
+18/04/2024;Estojo;84;125.64;Paraná
+18/04/2024;Borracha;60;104.62;Ceará
+18/04/2024;Borracha;16;82.11;Amapá
+18/04/2024;Caderno;71;174.88;Maranhão
+19/04/2024;Borracha;51;45.78;Maranhão
+19/04/2024;Caneta;65;161.41;Pernambuco
+19/04/2024;Agenda;88;38.62;Alagoas
+19/04/2024;Caderno;84;55.04;Minas Gerais
+19/04/2024;Caderno;61;62.18;Goiás
+19/04/2024;Lápis;94;189.89;Rio Grande do Norte
+19/04/2024;Lápis;63;105.7;Acre
+20/04/2024;Régua;76;175.76;Espírito Santo
+20/04/2024;Estojo;20;21.29;Ceará
+20/04/2024;Lápis;94;141.51;Tocantins
+20/04/2024;Régua;87;13.39;São Paulo
+20/04/2024;Caderno;42;132.64;Sergipe
+20/04/2024;Lápis;62;173.8;Rondônia
+20/04/2024;Borracha;62;72.03;Mato Grosso do Sul
+20/04/2024;Caneta;38;87.3;Acre
+20/04/2024;Borracha;39;52.45;Goiás
+20/04/2024;Agenda;78;43.36;Paraíba
+20/04/2024;Agenda;41;110.13;Pernambuco
+20/04/2024;Estojo;78;75.46;Paraíba
+20/04/2024;Marcador;69;105.17;Rio Grande do Norte
+20/04/2024;Estojo;58;94.86;Roraima
+20/04/2024;Caderno;6;122.76;Piauí
+21/04/2024;Caneta;98;88.99;Minas Gerais
+21/04/2024;Lápis;37;99.58;Amazonas
+21/04/2024;Caderno;70;77.41;Sergipe
+21/04/2024;Caneta;45;149.72;Tocantins
+21/04/2024;Lápis;95;119.54;Amazonas
+21/04/2024;Agenda;83;88.98;Amapá
+21/04/2024;Borracha;1;141.65;Ceará
+21/04/2024;Marcador;64;109.75;Rio Grande do Norte
+21/04/2024;Lápis;82;110.33;Rondônia
+21/04/2024;Caderno;40;83.91;Espírito Santo
+21/04/2024;Lápis;8;51.77;Amapá
+21/04/2024;Agenda;72;136.76;Roraima
+22/04/2024;Agenda;88;176.54;Bahia
+22/04/2024;Caneta;2;81.52;Rio Grande do Sul
+22/04/2024;Agenda;87;171.55;Distrito Federal
+22/04/2024;Caderno;11;156.91;São Paulo
+22/04/2024;Caneta;23;105.14;Tocantins
+22/04/2024;Caderno;91;77.16;Piauí
+23/04/2024;Marcador;51;172.62;Rio Grande do Norte
+23/04/2024;Régua;94;54.99;Distrito Federal
+23/04/2024;Estojo;23;108.51;Piauí
+23/04/2024;Régua;50;173.49;Amazonas
+23/04/2024;Lápis;50;101.67;Mato Grosso do Sul
+23/04/2024;Caneta;87;57.64;Roraima
+23/04/2024;Marcador;45;144.18;Espírito Santo
+23/04/2024;Caderno;7;110.3;Mato Grosso
+23/04/2024;Marcador;69;90.72;Rio Grande do Sul
+23/04/2024;Régua;90;155.77;Mato Grosso do Sul
+23/04/2024;Régua;67;85.32;Maranhão
+23/04/2024;Agenda;78;152.65;Maranhão
+23/04/2024;Agenda;31;148.49;Sergipe
+23/04/2024;Estojo;93;150.88;Distrito Federal
+23/04/2024;Borracha;50;99.48;Rondônia
+24/04/2024;Caderno;85;40.18;Rio Grande do Sul
+24/04/2024;Borracha;22;91.5;Rondônia
+24/04/2024;Caneta;24;16.43;Bahia
+24/04/2024;Borracha;67;130.65;Rio Grande do Sul
+24/04/2024;Marcador;5;170.92;Rio Grande do Norte
+24/04/2024;Régua;100;19.44;Roraima
+24/04/2024;Régua;22;94.11;Acre
+24/04/2024;Marcador;90;161.47;Amazonas
+24/04/2024;Borracha;56;156.11;Maranhão
+24/04/2024;Lápis;53;98.88;Amapá
+24/04/2024;Estojo;57;134.96;Tocantins
+24/04/2024;Régua;56;195.17;Acre
+24/04/2024;Caneta;58;131.59;Minas Gerais
+25/04/2024;Borracha;12;74.5;Paraíba
+25/04/2024;Marcador;41;182.75;Mato Grosso do Sul
+25/04/2024;Caderno;7;99.92;Mato Grosso do Sul
+25/04/2024;Caderno;93;54.63;Mato Grosso
+25/04/2024;Borracha;37;113.89;Santa Catarina
+25/04/2024;Agenda;37;91.61;Maranhão
+25/04/2024;Agenda;36;150.67;Paraná
+25/04/2024;Régua;5;130.72;Rio Grande do Sul
+25/04/2024;Caneta;41;69.06;Pará
+25/04/2024;Marcador;59;89.99;Mato Grosso
+26/04/2024;Estojo;49;30.24;Alagoas
+26/04/2024;Borracha;50;99.45;Ceará
+26/04/2024;Borracha;64;79.6;Bahia
+26/04/2024;Caneta;51;63.07;Amapá
+26/04/2024;Borracha;52;175.77;Maranhão
+26/04/2024;Borracha;36;97.25;Rio Grande do Norte
+26/04/2024;Estojo;56;115.09;Pernambuco
+26/04/2024;Agenda;42;96.27;Paraíba
+26/04/2024;Caneta;6;73.59;Mato Grosso
+26/04/2024;Agenda;99;141.87;Roraima
+26/04/2024;Estojo;74;41.32;Alagoas
+26/04/2024;Borracha;66;117.35;Rio Grande do Norte
+26/04/2024;Borracha;7;150.05;Ceará
+27/04/2024;Marcador;58;138.13;Rondônia
+27/04/2024;Agenda;28;67.9;Rio Grande do Norte
+27/04/2024;Agenda;6;6.13;Maranhão
+27/04/2024;Régua;83;34.47;Pernambuco
+27/04/2024;Estojo;5;123.34;Paraná
+27/04/2024;Caderno;94;148.12;Santa Catarina
+27/04/2024;Marcador;42;139.26;Amazonas
+28/04/2024;Agenda;4;7.01;Acre
+28/04/2024;Marcador;75;141.74;Roraima
+28/04/2024;Lápis;29;89.29;Pernambuco
+28/04/2024;Régua;14;7.92;Mato Grosso
+28/04/2024;Lápis;55;79.65;Distrito Federal
+28/04/2024;Borracha;72;26.44;Mato Grosso
+28/04/2024;Estojo;81;134.94;Roraima
+29/04/2024;Caderno;68;22.76;Santa Catarina
+29/04/2024;Borracha;13;191.1;Maranhão
+29/04/2024;Borracha;55;134.66;Santa Catarina
+29/04/2024;Marcador;69;198.96;Mato Grosso
+29/04/2024;Marcador;50;140.87;Alagoas
+29/04/2024;Caderno;11;129.54;Pará
+29/04/2024;Borracha;20;103.98;Distrito Federal
+29/04/2024;Caderno;13;85.93;Mato Grosso do Sul
+29/04/2024;Borracha;47;48.96;Acre
+29/04/2024;Régua;97;165.08;Distrito Federal
+30/04/2024;Marcador;86;20.75;Paraíba
+30/04/2024;Borracha;13;40.62;Bahia
+30/04/2024;Agenda;76;102.48;Paraná
+30/04/2024;Lápis;7;13.9;Pará
+30/04/2024;Estojo;23;157.9;Distrito Federal
+30/04/2024;Marcador;17;196.4;Rio Grande do Norte
+01/05/2024;Lápis;45;185.39;Paraíba
+01/05/2024;Estojo;81;129;Rio Grande do Sul
+01/05/2024;Borracha;8;180.51;Paraíba
+01/05/2024;Agenda;50;30.17;Paraíba
+01/05/2024;Marcador;51;169.27;Tocantins
+01/05/2024;Marcador;62;69.53;Acre
+01/05/2024;Borracha;29;62.54;Tocantins
+02/05/2024;Lápis;12;37.96;Pará
+02/05/2024;Caderno;71;171.03;Paraná
+02/05/2024;Estojo;68;192.42;Rondônia
+02/05/2024;Caderno;81;21.86;Tocantins
+02/05/2024;Marcador;20;17.47;Minas Gerais
+02/05/2024;Lápis;10;84.58;Pernambuco
+02/05/2024;Agenda;42;113.88;Roraima
+02/05/2024;Estojo;78;91.51;Mato Grosso do Sul
+02/05/2024;Borracha;3;75.83;Rio de Janeiro
+03/05/2024;Agenda;26;6.81;Ceará
+03/05/2024;Caderno;16;80.65;Bahia
+03/05/2024;Caneta;89;15.68;Acre
+03/05/2024;Caderno;28;118.73;Sergipe
+03/05/2024;Régua;36;87.34;Sergipe
+03/05/2024;Caneta;21;18.07;Espírito Santo
+03/05/2024;Régua;100;111.23;Mato Grosso
+03/05/2024;Caneta;33;175.25;Alagoas
+03/05/2024;Caneta;33;49.8;Rio de Janeiro
+03/05/2024;Agenda;92;148.65;Minas Gerais
+03/05/2024;Agenda;92;13.32;Mato Grosso do Sul
+03/05/2024;Lápis;85;78.12;São Paulo
+03/05/2024;Marcador;70;180;Amazonas
+04/05/2024;Estojo;52;146.09;Mato Grosso
+04/05/2024;Agenda;31;123.67;Paraná
+04/05/2024;Caneta;92;32.77;Paraná
+04/05/2024;Borracha;19;26.44;Amazonas
+04/05/2024;Marcador;11;192.81;Pará
+04/05/2024;Caneta;27;125.27;São Paulo
+05/05/2024;Caderno;8;177.51;Pará
+05/05/2024;Régua;33;11.11;Mato Grosso do Sul
+05/05/2024;Caneta;21;66.46;Alagoas
+05/05/2024;Agenda;32;33.06;Pernambuco
+05/05/2024;Marcador;8;151.26;Paraíba
+05/05/2024;Régua;22;73.25;Bahia
+06/05/2024;Marcador;89;87.34;Ceará
+06/05/2024;Estojo;21;48.6;Piauí
+06/05/2024;Lápis;88;111.96;Rondônia
+06/05/2024;Caneta;6;92.09;Sergipe
+06/05/2024;Lápis;69;16.09;Mato Grosso
+06/05/2024;Marcador;28;106.84;Pernambuco
+06/05/2024;Agenda;22;189.21;Santa Catarina
+06/05/2024;Marcador;10;106.79;Paraíba
+07/05/2024;Lápis;97;51.42;Mato Grosso do Sul
+07/05/2024;Agenda;82;197.05;Piauí
+07/05/2024;Régua;9;134.6;Rondônia
+07/05/2024;Lápis;21;91.94;Rio Grande do Sul
+07/05/2024;Caneta;24;15.33;Paraíba
+07/05/2024;Marcador;70;22.96;Minas Gerais
+08/05/2024;Estojo;66;146.54;Espírito Santo
+08/05/2024;Lápis;36;17.21;Minas Gerais
+08/05/2024;Agenda;3;10.3;Paraíba
+08/05/2024;Estojo;50;146.09;Mato Grosso do Sul
+08/05/2024;Caderno;23;145.48;Rio de Janeiro
+08/05/2024;Régua;7;166.89;Tocantins
+08/05/2024;Agenda;63;64.09;Sergipe
+08/05/2024;Régua;85;107.7;Ceará
+09/05/2024;Régua;56;105.54;Tocantins
+09/05/2024;Caderno;29;79.03;Mato Grosso
+09/05/2024;Estojo;61;196.02;São Paulo
+09/05/2024;Marcador;31;35.83;Piauí
+09/05/2024;Estojo;100;149.35;Maranhão
+09/05/2024;Régua;87;109.65;Distrito Federal
+09/05/2024;Caneta;87;121.7;São Paulo
+09/05/2024;Agenda;57;173.48;Alagoas
+09/05/2024;Caneta;61;145.49;Espírito Santo
+10/05/2024;Marcador;23;187.74;Maranhão
+10/05/2024;Agenda;49;23.51;Roraima
+10/05/2024;Caderno;85;127.41;Minas Gerais
+10/05/2024;Régua;16;172.71;Amapá
+10/05/2024;Caneta;36;130.18;Rio de Janeiro
+10/05/2024;Caderno;78;171.49;Piauí
+10/05/2024;Borracha;38;137.24;Distrito Federal
+10/05/2024;Marcador;57;127.85;Rio de Janeiro
+10/05/2024;Marcador;66;68.19;Sergipe
+11/05/2024;Régua;8;131.74;Rio Grande do Norte
+11/05/2024;Marcador;100;195.94;Pernambuco
+11/05/2024;Marcador;22;189.56;Ceará
+11/05/2024;Lápis;49;52.96;Mato Grosso do Sul
+11/05/2024;Lápis;19;181.26;Tocantins
+11/05/2024;Lápis;81;102.61;Bahia
+11/05/2024;Borracha;25;186.04;Rondônia
+11/05/2024;Agenda;27;72.29;Minas Gerais
+11/05/2024;Marcador;61;44.19;Tocantins
+11/05/2024;Lápis;26;99.72;Maranhão
+11/05/2024;Marcador;89;134.58;Paraíba
+11/05/2024;Marcador;53;183.66;Amapá
+11/05/2024;Agenda;73;190.97;Amazonas
+12/05/2024;Marcador;52;97.84;Pará
+12/05/2024;Lápis;15;177.27;Tocantins
+12/05/2024;Régua;23;94.78;Amapá
+12/05/2024;Estojo;12;28.71;Mato Grosso
+12/05/2024;Régua;27;69.37;Paraná
+12/05/2024;Borracha;23;63.13;Acre
+12/05/2024;Lápis;96;82.03;Minas Gerais
+12/05/2024;Borracha;58;10.33;Pernambuco
+12/05/2024;Estojo;81;180.98;Santa Catarina
+13/05/2024;Agenda;74;57.38;Tocantins
+13/05/2024;Marcador;9;149.96;Amapá
+13/05/2024;Marcador;56;133.36;Bahia
+13/05/2024;Régua;50;103.92;Mato Grosso
+13/05/2024;Caneta;63;18.92;Sergipe
+13/05/2024;Caderno;50;14.86;Goiás
+13/05/2024;Régua;82;98.16;Mato Grosso do Sul
+13/05/2024;Caneta;2;167.21;Acre
+13/05/2024;Marcador;78;14.51;Pará
+13/05/2024;Marcador;96;112.31;Rio de Janeiro
+13/05/2024;Lápis;51;167.6;São Paulo
+13/05/2024;Lápis;21;193.34;Roraima
+13/05/2024;Caderno;8;182.29;Rio Grande do Norte
+13/05/2024;Borracha;12;178.53;Pernambuco
+14/05/2024;Agenda;7;139.91;Ceará
+14/05/2024;Borracha;57;96.47;Rio Grande do Sul
+14/05/2024;Régua;93;108.23;Piauí
+14/05/2024;Agenda;8;43.37;Roraima
+14/05/2024;Agenda;97;53.52;Amapá
+14/05/2024;Estojo;46;14.4;Minas Gerais
+14/05/2024;Agenda;24;117.52;Roraima
+15/05/2024;Marcador;7;26.59;Piauí
+15/05/2024;Agenda;50;127.67;Pernambuco
+15/05/2024;Borracha;55;17.2;Amapá
+15/05/2024;Agenda;69;105.61;Amazonas
+15/05/2024;Lápis;90;159.37;Rio de Janeiro
+15/05/2024;Estojo;52;46.67;Pernambuco
+15/05/2024;Marcador;17;65.85;Rio Grande do Norte
+15/05/2024;Borracha;38;155.16;Roraima
+15/05/2024;Agenda;43;171.05;Acre
+15/05/2024;Agenda;12;131.52;Paraíba
+15/05/2024;Marcador;4;161.74;Piauí
+15/05/2024;Borracha;14;148.15;Paraíba
+16/05/2024;Marcador;71;181.65;Rio Grande do Sul
+16/05/2024;Marcador;31;39.05;Rondônia
+16/05/2024;Estojo;68;189.02;Goiás
+16/05/2024;Régua;58;74.35;Minas Gerais
+16/05/2024;Caderno;53;30.06;Rondônia
+16/05/2024;Estojo;62;149.79;São Paulo
+16/05/2024;Borracha;1;183.02;Acre
+17/05/2024;Marcador;100;102.45;Sergipe
+17/05/2024;Borracha;53;15.77;Pará
+17/05/2024;Estojo;82;160.99;Amazonas
+17/05/2024;Agenda;49;113.99;Rio Grande do Sul
+17/05/2024;Marcador;39;146.82;Mato Grosso
+17/05/2024;Régua;26;56.73;Goiás
+17/05/2024;Borracha;34;49.46;Amazonas
+17/05/2024;Caneta;71;75.16;Amazonas
+17/05/2024;Lápis;69;189.26;Roraima
+17/05/2024;Marcador;71;13.59;Ceará
+17/05/2024;Agenda;7;127.08;Acre
+17/05/2024;Régua;66;91.75;Paraíba
+17/05/2024;Régua;92;159.57;Amapá
+17/05/2024;Marcador;76;106.91;Rio de Janeiro
+18/05/2024;Marcador;94;122.89;Maranhão
+18/05/2024;Agenda;3;189.66;Santa Catarina
+18/05/2024;Estojo;85;8.41;Amapá
+18/05/2024;Agenda;22;44.3;Distrito Federal
+18/05/2024;Régua;54;193.72;Amapá
+18/05/2024;Régua;26;142.37;Ceará
+19/05/2024;Lápis;42;84;Santa Catarina
+19/05/2024;Marcador;5;186.52;Roraima
+19/05/2024;Caneta;40;160.16;Acre
+19/05/2024;Marcador;94;98.26;São Paulo
+19/05/2024;Estojo;71;104.3;Mato Grosso
+20/05/2024;Marcador;96;63.94;Espírito Santo
+20/05/2024;Borracha;29;142.97;Mato Grosso
+20/05/2024;Caneta;30;128.14;Mato Grosso
+20/05/2024;Estojo;29;31.87;Paraná
+20/05/2024;Caneta;64;118.61;Maranhão
+20/05/2024;Lápis;52;61.39;Espírito Santo
+20/05/2024;Lápis;95;41.18;Mato Grosso do Sul
+20/05/2024;Régua;99;34.39;Mato Grosso do Sul
+20/05/2024;Agenda;97;118.77;Santa Catarina
+20/05/2024;Borracha;38;39.35;Paraíba
+20/05/2024;Caneta;93;195.66;São Paulo
+20/05/2024;Estojo;72;20.26;Minas Gerais
+20/05/2024;Marcador;32;70.69;Mato Grosso
+21/05/2024;Caneta;94;101.18;Santa Catarina
+21/05/2024;Borracha;78;136.9;Mato Grosso do Sul
+21/05/2024;Caderno;53;150.61;Paraíba
+21/05/2024;Lápis;41;184.91;Pará
+21/05/2024;Agenda;25;119.83;Acre
+21/05/2024;Lápis;75;18.68;Distrito Federal
+21/05/2024;Borracha;53;145.44;Tocantins
+21/05/2024;Caderno;9;51.59;Ceará
+21/05/2024;Caneta;69;14.74;Rio Grande do Sul
+21/05/2024;Estojo;46;137.41;Minas Gerais
+21/05/2024;Marcador;42;50.86;Ceará
+21/05/2024;Caderno;1;105.04;Rondônia
+21/05/2024;Borracha;77;186.33;Amazonas
+21/05/2024;Marcador;50;123.96;Espírito Santo
+21/05/2024;Estojo;84;108.87;Sergipe
+22/05/2024;Borracha;20;26.56;Pernambuco
+22/05/2024;Marcador;33;196.12;Santa Catarina
+22/05/2024;Régua;30;176.88;Rio de Janeiro
+22/05/2024;Marcador;31;168.06;Roraima
+22/05/2024;Lápis;88;154.06;Piauí
+22/05/2024;Lápis;96;153.13;Mato Grosso
+22/05/2024;Régua;65;76.93;Distrito Federal
+22/05/2024;Caneta;15;44.72;Piauí
+22/05/2024;Lápis;76;6.77;Tocantins
+23/05/2024;Borracha;79;84.85;Tocantins
+23/05/2024;Caneta;75;58.4;Ceará
+23/05/2024;Agenda;18;195.52;Acre
+23/05/2024;Lápis;97;115.47;Minas Gerais
+23/05/2024;Marcador;23;70.43;Sergipe
+23/05/2024;Caneta;99;43.18;Sergipe
+23/05/2024;Agenda;87;43.21;Pernambuco
+23/05/2024;Borracha;71;97.67;Rio de Janeiro
+23/05/2024;Caderno;61;90.65;Amapá
+23/05/2024;Agenda;45;39.93;Rondônia
+23/05/2024;Caneta;79;76.41;Pernambuco
+23/05/2024;Borracha;37;135.61;Acre
+24/05/2024;Régua;38;40.01;Amazonas
+24/05/2024;Régua;95;100.99;Tocantins
+24/05/2024;Régua;79;13.42;Tocantins
+24/05/2024;Caderno;81;38.11;Bahia
+24/05/2024;Régua;6;90.88;Paraná
+25/05/2024;Borracha;79;32.99;Rio Grande do Norte
+25/05/2024;Caderno;87;125.01;Rondônia
+25/05/2024;Marcador;18;149.37;Rondônia
+25/05/2024;Estojo;27;118.36;Acre
+25/05/2024;Borracha;73;24.04;Amazonas
+25/05/2024;Lápis;71;105.14;São Paulo
+25/05/2024;Estojo;55;124.72;Paraná
+25/05/2024;Régua;79;28.04;São Paulo
+25/05/2024;Marcador;72;67.49;Maranhão
+25/05/2024;Caneta;72;135.46;Acre
+25/05/2024;Caderno;44;22.04;Espírito Santo
+25/05/2024;Marcador;4;143.43;Paraná
+25/05/2024;Caneta;41;86.15;Paraná
+25/05/2024;Marcador;23;77.56;Rondônia
+25/05/2024;Régua;74;53.88;Tocantins
+26/05/2024;Marcador;98;155.86;Paraíba
+26/05/2024;Lápis;82;14.59;Rio Grande do Norte
+26/05/2024;Caderno;48;132.96;Bahia
+26/05/2024;Borracha;94;55.33;Santa Catarina
+26/05/2024;Borracha;21;16.75;Sergipe
+27/05/2024;Régua;92;199.13;Mato Grosso do Sul
+27/05/2024;Agenda;20;30.36;Minas Gerais
+27/05/2024;Borracha;32;17.68;Mato Grosso
+27/05/2024;Estojo;66;146.98;Rio Grande do Norte
+27/05/2024;Caneta;59;54.95;Santa Catarina
+27/05/2024;Borracha;83;44.31;Tocantins
+27/05/2024;Régua;33;193.72;Mato Grosso
+27/05/2024;Lápis;65;56.11;Goiás
+28/05/2024;Régua;82;84.43;Paraíba
+28/05/2024;Borracha;69;163.17;Roraima
+28/05/2024;Lápis;34;65.27;Tocantins
+28/05/2024;Lápis;94;159.83;Tocantins
+28/05/2024;Agenda;19;76.47;Piauí
+28/05/2024;Borracha;90;87.99;Santa Catarina
+29/05/2024;Régua;73;26.7;Bahia
+29/05/2024;Agenda;76;111.46;Ceará
+29/05/2024;Caderno;15;115.23;São Paulo
+29/05/2024;Régua;8;174.29;São Paulo
+29/05/2024;Caneta;22;90.42;Rio Grande do Norte
+30/05/2024;Caneta;88;128.57;Roraima
+30/05/2024;Caderno;59;120.93;Maranhão
+30/05/2024;Agenda;94;128;Roraima
+30/05/2024;Borracha;80;63.77;Pernambuco
+30/05/2024;Marcador;15;40.41;Acre
+30/05/2024;Agenda;66;128.29;Minas Gerais
+30/05/2024;Caneta;87;85.77;Rondônia
+30/05/2024;Borracha;55;101.23;Piauí
+30/05/2024;Estojo;49;97.35;Pernambuco
+30/05/2024;Caneta;56;149.25;Amazonas
+30/05/2024;Lápis;95;88.15;Pará
+30/05/2024;Marcador;63;12.94;São Paulo
+31/05/2024;Agenda;96;193.79;Ceará
+31/05/2024;Agenda;73;84.1;Santa Catarina
+31/05/2024;Régua;97;189.33;Mato Grosso
+31/05/2024;Caderno;15;184.16;Pará
+31/05/2024;Estojo;84;81.43;Pernambuco
+31/05/2024;Borracha;47;129.11;Ceará
+31/05/2024;Caderno;71;82.06;Acre
+31/05/2024;Caneta;75;11.42;Pará
+31/05/2024;Lápis;61;111.58;Paraíba
+01/06/2024;Régua;44;33.97;Tocantins
+01/06/2024;Régua;44;62.81;Espírito Santo
+01/06/2024;Lápis;60;91.17;Paraíba
+01/06/2024;Caneta;22;134.42;Maranhão
+01/06/2024;Estojo;1;151.77;Sergipe
+01/06/2024;Borracha;83;119.82;Bahia
+01/06/2024;Caneta;6;176.68;Bahia
+01/06/2024;Caneta;89;52.51;Rondônia
+01/06/2024;Lápis;27;112.92;Bahia
+02/06/2024;Régua;59;48.82;São Paulo
+02/06/2024;Agenda;36;166.17;Mato Grosso do Sul
+02/06/2024;Caderno;63;176.5;São Paulo
+02/06/2024;Lápis;98;198.37;São Paulo
+02/06/2024;Estojo;81;83.39;Mato Grosso do Sul
+02/06/2024;Lápis;6;189.13;Sergipe
+02/06/2024;Régua;47;96.45;Roraima
+03/06/2024;Caneta;16;94.2;Espírito Santo
+03/06/2024;Lápis;16;137.65;São Paulo
+03/06/2024;Régua;12;147;Minas Gerais
+03/06/2024;Lápis;62;129.11;Rio Grande do Norte
+03/06/2024;Agenda;48;62.09;Alagoas
+03/06/2024;Caneta;53;140.77;Alagoas
+04/06/2024;Borracha;54;198.09;Rio Grande do Norte
+04/06/2024;Régua;77;136.4;São Paulo
+04/06/2024;Régua;48;12.83;Pará
+04/06/2024;Régua;89;191.39;Minas Gerais
+04/06/2024;Régua;63;194.58;Mato Grosso do Sul
+04/06/2024;Marcador;82;139.62;Distrito Federal
+04/06/2024;Caneta;24;128.99;Pará
+04/06/2024;Lápis;27;180.04;Acre
+04/06/2024;Marcador;32;39.11;Rio Grande do Sul
+04/06/2024;Lápis;24;187.75;Rondônia
+04/06/2024;Caderno;100;23.24;Mato Grosso
+04/06/2024;Borracha;64;141.26;Rio de Janeiro
+04/06/2024;Régua;49;28.09;Piauí
+04/06/2024;Caderno;44;72.33;Pernambuco
+04/06/2024;Caneta;77;165.66;Ceará
+05/06/2024;Estojo;61;188.3;Roraima
+05/06/2024;Caderno;76;156.86;Rio Grande do Sul
+05/06/2024;Borracha;71;44;Minas Gerais
+05/06/2024;Caneta;46;177.45;Alagoas
+05/06/2024;Estojo;42;174.98;Ceará
+05/06/2024;Lápis;52;124.41;Pernambuco
+06/06/2024;Marcador;26;109.88;Ceará
+06/06/2024;Régua;54;41.64;Mato Grosso
+06/06/2024;Caderno;40;161.91;Rio Grande do Norte
+06/06/2024;Borracha;86;161.37;Bahia
+06/06/2024;Lápis;18;174.57;Rio Grande do Norte
+06/06/2024;Borracha;62;159.83;Piauí
+06/06/2024;Lápis;34;94.12;Mato Grosso do Sul
+06/06/2024;Caneta;87;199.12;Amazonas
+06/06/2024;Borracha;100;66.84;São Paulo
+06/06/2024;Caderno;51;92.62;Rio de Janeiro
+07/06/2024;Lápis;21;26.49;Sergipe
+07/06/2024;Marcador;59;198.66;Acre
+07/06/2024;Régua;23;35.38;Pará
+07/06/2024;Caneta;41;111.42;Maranhão
+07/06/2024;Borracha;81;119.38;Rondônia
+07/06/2024;Lápis;50;51.25;Minas Gerais
+07/06/2024;Lápis;17;100.67;Paraíba
+07/06/2024;Régua;8;71.54;Espírito Santo
+07/06/2024;Lápis;18;111.56;Amapá
+08/06/2024;Lápis;51;117.95;Acre
+08/06/2024;Marcador;76;37.1;Piauí
+08/06/2024;Marcador;39;88.47;Bahia
+08/06/2024;Agenda;1;198.94;Sergipe
+08/06/2024;Caderno;13;56.73;Paraíba
+08/06/2024;Caneta;80;154.09;Mato Grosso do Sul
+08/06/2024;Régua;31;191.84;Rio Grande do Sul
+08/06/2024;Borracha;29;101.65;Amazonas
+08/06/2024;Agenda;51;172.8;Paraíba
+08/06/2024;Caderno;65;189.57;Amapá
+08/06/2024;Régua;15;158.44;Sergipe
+09/06/2024;Borracha;39;64.83;Goiás
+09/06/2024;Marcador;22;77.6;Piauí
+09/06/2024;Caderno;20;141.22;Alagoas
+09/06/2024;Régua;63;100.93;Sergipe
+09/06/2024;Marcador;84;184.88;Alagoas
+09/06/2024;Estojo;37;52.21;Roraima
+09/06/2024;Caderno;95;76.71;Maranhão
+09/06/2024;Caneta;20;43.35;Distrito Federal
+09/06/2024;Agenda;94;107.74;Alagoas
+09/06/2024;Borracha;93;87.07;Pernambuco
+09/06/2024;Caneta;23;155.12;Goiás
+10/06/2024;Lápis;89;81.53;Rio Grande do Sul
+10/06/2024;Lápis;65;138.26;Pará
+10/06/2024;Estojo;63;33.05;São Paulo
+10/06/2024;Agenda;90;46.17;Bahia
+10/06/2024;Régua;48;187.57;Amazonas
+10/06/2024;Marcador;2;11.25;Sergipe
+11/06/2024;Agenda;45;52.27;Goiás
+11/06/2024;Caderno;34;167.61;Bahia
+11/06/2024;Estojo;23;117.73;São Paulo
+11/06/2024;Estojo;58;27.97;Rio Grande do Sul
+11/06/2024;Borracha;99;184;Rio de Janeiro
+11/06/2024;Estojo;79;187.06;Paraíba
+11/06/2024;Régua;83;109.45;Tocantins
+11/06/2024;Caderno;7;52.03;Roraima
+12/06/2024;Agenda;9;48.81;Acre
+12/06/2024;Lápis;83;47.91;Rio Grande do Norte
+12/06/2024;Lápis;99;32.22;Amapá
+12/06/2024;Caderno;88;48.48;Santa Catarina
+12/06/2024;Agenda;81;173.63;Pará
+12/06/2024;Marcador;73;8.74;Sergipe
+12/06/2024;Lápis;32;105.26;Rio Grande do Sul
+12/06/2024;Caderno;68;122.21;Rondônia
+12/06/2024;Estojo;17;183.22;Paraíba
+12/06/2024;Marcador;47;6.78;Amapá
+12/06/2024;Caderno;3;17.78;Santa Catarina
+12/06/2024;Marcador;6;192.08;Paraíba
+12/06/2024;Lápis;90;79.78;Paraíba
+13/06/2024;Caderno;16;135.23;Minas Gerais
+13/06/2024;Lápis;67;87.11;Paraná
+13/06/2024;Borracha;90;160.91;Paraná
+13/06/2024;Marcador;71;13.65;Espírito Santo
+13/06/2024;Estojo;76;133.56;Rondônia
+13/06/2024;Régua;28;102.7;Ceará
+13/06/2024;Caderno;10;196.26;Pará
+14/06/2024;Régua;35;72.84;Rondônia
+14/06/2024;Estojo;51;196.2;Rio Grande do Sul
+14/06/2024;Borracha;55;48.65;Roraima
+14/06/2024;Estojo;13;71.33;Distrito Federal
+14/06/2024;Caneta;77;151.25;Maranhão
+14/06/2024;Marcador;23;170.9;Alagoas
+14/06/2024;Marcador;93;193.53;Acre
+14/06/2024;Lápis;15;64.09;Goiás
+14/06/2024;Lápis;93;96.21;Acre
+14/06/2024;Agenda;62;199.35;Distrito Federal
+14/06/2024;Régua;52;63.59;Rio de Janeiro
+14/06/2024;Caneta;60;24.99;Roraima
+14/06/2024;Caderno;81;48.62;Minas Gerais
+14/06/2024;Marcador;24;52.18;Paraná
+14/06/2024;Estojo;28;175.12;Goiás
+15/06/2024;Marcador;11;54.47;Alagoas
+15/06/2024;Marcador;20;133.39;Piauí
+15/06/2024;Marcador;82;74.95;Minas Gerais
+15/06/2024;Régua;3;21.22;Bahia
+15/06/2024;Régua;47;6.44;Ceará
+15/06/2024;Estojo;44;28.46;Pernambuco
+15/06/2024;Lápis;37;12.37;Amapá
+15/06/2024;Caneta;34;133.11;Tocantins
+15/06/2024;Agenda;2;6.35;São Paulo
+15/06/2024;Régua;19;164.29;Tocantins
+15/06/2024;Marcador;79;72.44;Rio de Janeiro
+15/06/2024;Estojo;31;81.98;Rondônia
+15/06/2024;Marcador;84;101.02;Goiás
+16/06/2024;Agenda;99;162.17;Pará
+16/06/2024;Agenda;36;72.5;Alagoas
+16/06/2024;Caderno;71;88.22;Mato Grosso
+16/06/2024;Caderno;97;151.59;Maranhão
+16/06/2024;Agenda;6;52.46;Acre
+16/06/2024;Lápis;37;156.16;Ceará
+16/06/2024;Lápis;59;138.78;Goiás
+16/06/2024;Caderno;100;90.11;Sergipe
+16/06/2024;Lápis;37;156.97;Pernambuco
+16/06/2024;Caderno;9;185.04;Mato Grosso
+16/06/2024;Agenda;70;178.48;Sergipe
+16/06/2024;Régua;26;122.79;Tocantins
+17/06/2024;Marcador;54;124.77;Piauí
+17/06/2024;Caderno;18;117.67;Amapá
+17/06/2024;Lápis;82;133.32;Rio Grande do Norte
+17/06/2024;Borracha;9;82.86;Tocantins
+17/06/2024;Caneta;64;22.09;Piauí
+17/06/2024;Agenda;68;198.78;Acre
+17/06/2024;Agenda;24;62.04;Tocantins
+17/06/2024;Lápis;66;15.21;Maranhão
+17/06/2024;Lápis;94;67.72;Paraíba
+17/06/2024;Estojo;92;99.36;Paraná
+17/06/2024;Caneta;68;132.85;Pernambuco
+18/06/2024;Agenda;12;142;Pernambuco
+18/06/2024;Caneta;65;11.38;Paraná
+18/06/2024;Borracha;12;42.91;Tocantins
+18/06/2024;Agenda;59;127.79;Roraima
+18/06/2024;Caderno;88;191.73;Rio Grande do Norte
+18/06/2024;Agenda;61;102.36;Paraná
+18/06/2024;Estojo;62;126.44;Amapá
+18/06/2024;Caneta;38;179.8;Acre
+19/06/2024;Régua;50;181.04;Mato Grosso
+19/06/2024;Agenda;12;15.1;Ceará
+19/06/2024;Borracha;30;153.37;Rio de Janeiro
+19/06/2024;Marcador;69;8.01;Espírito Santo
+19/06/2024;Lápis;99;61.83;Distrito Federal
+19/06/2024;Caderno;17;178.37;Sergipe
+19/06/2024;Caneta;9;172.34;Pará
+19/06/2024;Estojo;25;141.68;Amazonas
+19/06/2024;Borracha;89;108.54;Alagoas
+19/06/2024;Marcador;47;49.59;Rondônia
+19/06/2024;Lápis;36;74.04;Bahia
+20/06/2024;Caderno;98;138.45;Ceará
+20/06/2024;Borracha;45;37.52;Rio Grande do Norte
+20/06/2024;Lápis;97;11.56;São Paulo
+20/06/2024;Lápis;82;164.37;Alagoas
+20/06/2024;Caderno;96;9.74;Pernambuco
+20/06/2024;Borracha;64;153.11;Distrito Federal
+21/06/2024;Caneta;79;195.82;Bahia
+21/06/2024;Borracha;23;178.97;Amapá
+21/06/2024;Lápis;85;99.01;Distrito Federal
+21/06/2024;Régua;66;41.06;Pará
+21/06/2024;Agenda;49;129.71;Pará
+21/06/2024;Borracha;98;98.06;Paraíba
+21/06/2024;Estojo;6;44.16;Santa Catarina
+22/06/2024;Agenda;100;26.25;Paraná
+22/06/2024;Caderno;38;34.16;Sergipe
+22/06/2024;Lápis;5;142.88;Bahia
+22/06/2024;Agenda;66;190.55;Distrito Federal
+22/06/2024;Caneta;61;125.26;São Paulo
+22/06/2024;Estojo;35;148.49;Rio de Janeiro
+22/06/2024;Marcador;70;28.15;Ceará
+22/06/2024;Agenda;9;61.54;Amazonas
+22/06/2024;Borracha;31;83.34;Goiás
+22/06/2024;Lápis;62;149.97;Goiás
+23/06/2024;Caneta;22;148.76;Mato Grosso
+23/06/2024;Caderno;26;41.04;Rondônia
+23/06/2024;Agenda;34;185.51;Paraíba
+23/06/2024;Agenda;67;140.18;Minas Gerais
+23/06/2024;Borracha;93;51.91;Mato Grosso do Sul
+23/06/2024;Régua;94;172.31;Paraná
+24/06/2024;Lápis;61;138.2;Acre
+24/06/2024;Agenda;1;139.25;Paraná
+24/06/2024;Régua;68;82.16;Paraíba
+24/06/2024;Agenda;48;41.69;Piauí
+24/06/2024;Estojo;71;79.32;Rio Grande do Sul
+24/06/2024;Agenda;46;164.89;São Paulo
+24/06/2024;Lápis;5;35.31;São Paulo
+24/06/2024;Estojo;12;185.63;Goiás
+24/06/2024;Agenda;13;179.11;Roraima
+24/06/2024;Régua;71;99.06;Roraima
+24/06/2024;Borracha;47;95.57;Rio Grande do Sul
+25/06/2024;Lápis;13;166.17;Tocantins
+25/06/2024;Caderno;1;75.87;Santa Catarina
+25/06/2024;Agenda;65;116.04;Ceará
+25/06/2024;Estojo;5;130.86;Piauí
+25/06/2024;Lápis;34;112.47;Amapá
+25/06/2024;Agenda;86;133.4;Rio Grande do Sul
+25/06/2024;Caderno;60;173.48;Goiás
+25/06/2024;Caderno;16;166.73;Mato Grosso
+26/06/2024;Lápis;16;188.05;Amazonas
+26/06/2024;Lápis;5;149.79;Minas Gerais
+26/06/2024;Estojo;87;194.16;Amapá
+26/06/2024;Régua;51;90.85;Minas Gerais
+26/06/2024;Estojo;40;159.37;Pará
+26/06/2024;Estojo;100;12.46;Sergipe
+26/06/2024;Borracha;45;137.18;Paraíba
+26/06/2024;Agenda;33;158.84;Rondônia
+26/06/2024;Agenda;99;8.16;Pernambuco
+26/06/2024;Marcador;56;73.45;São Paulo
+26/06/2024;Borracha;97;119.68;Ceará
+26/06/2024;Lápis;95;137.96;Rio Grande do Norte
+27/06/2024;Caneta;61;96.3;Maranhão
+27/06/2024;Lápis;53;42.83;Sergipe
+27/06/2024;Régua;20;158.37;Paraíba
+27/06/2024;Régua;80;132.62;São Paulo
+27/06/2024;Marcador;36;120.34;Rondônia
+28/06/2024;Caderno;8;33.73;Sergipe
+28/06/2024;Lápis;94;105.58;Roraima
+28/06/2024;Lápis;53;12.95;Espírito Santo
+28/06/2024;Estojo;50;38.78;Tocantins
+28/06/2024;Estojo;76;129.44;Pernambuco
+28/06/2024;Caderno;18;77.83;Roraima
+28/06/2024;Estojo;20;47.01;Pernambuco
+29/06/2024;Marcador;90;62.19;Tocantins
+29/06/2024;Estojo;54;134.67;Piauí
+29/06/2024;Agenda;100;23.96;Bahia
+29/06/2024;Caneta;40;124.27;Tocantins
+29/06/2024;Régua;20;64.81;Roraima
+30/06/2024;Caneta;46;73.68;Amapá
+30/06/2024;Régua;19;61.74;Espírito Santo
+30/06/2024;Caderno;45;96.79;Alagoas
+30/06/2024;Caderno;92;150.42;Rio Grande do Norte
+30/06/2024;Lápis;58;114.63;Bahia
+01/07/2024;Lápis;18;176.21;Paraná
+01/07/2024;Caderno;63;191.42;Santa Catarina
+01/07/2024;Borracha;80;79.8;Maranhão
+01/07/2024;Lápis;84;53.27;Acre
+01/07/2024;Régua;52;86.49;Paraná
+02/07/2024;Lápis;10;51.51;Mato Grosso
+02/07/2024;Agenda;48;152.14;Acre
+02/07/2024;Régua;82;167.89;Mato Grosso
+02/07/2024;Borracha;26;72.98;Roraima
+02/07/2024;Caderno;47;103.36;Minas Gerais
+02/07/2024;Borracha;74;120.33;Rondônia
+02/07/2024;Borracha;26;16.75;Alagoas
+03/07/2024;Caneta;94;109.35;Sergipe
+03/07/2024;Estojo;56;45.12;Sergipe
+03/07/2024;Marcador;69;47.04;Sergipe
+03/07/2024;Marcador;94;81.61;Piauí
+03/07/2024;Caderno;40;46.92;Acre
+03/07/2024;Estojo;10;58.43;Mato Grosso
+03/07/2024;Agenda;42;93.66;Rio Grande do Norte
+03/07/2024;Lápis;58;161.51;Rio Grande do Sul
+03/07/2024;Borracha;85;35.6;Distrito Federal
+03/07/2024;Caderno;68;13.91;Rio de Janeiro
+03/07/2024;Caderno;15;31.86;Roraima
+03/07/2024;Lápis;81;18.78;Amapá
+03/07/2024;Estojo;45;98.23;Paraíba
+03/07/2024;Caneta;53;25.89;Pará
+03/07/2024;Caderno;29;75.25;Rio de Janeiro
+04/07/2024;Lápis;43;89.9;Mato Grosso
+04/07/2024;Agenda;44;179.26;Pernambuco
+04/07/2024;Agenda;76;86.13;Amapá
+04/07/2024;Régua;70;69.11;Rio de Janeiro
+04/07/2024;Estojo;56;134.57;Minas Gerais
+04/07/2024;Marcador;12;113.47;Tocantins
+04/07/2024;Borracha;37;185.34;Pernambuco
+04/07/2024;Estojo;39;22.34;Bahia
+04/07/2024;Caneta;97;68.7;Espírito Santo
+04/07/2024;Régua;30;166.31;Rio Grande do Sul
+04/07/2024;Caderno;44;38.51;Distrito Federal
+04/07/2024;Régua;44;40.64;Rio de Janeiro
+04/07/2024;Régua;25;151.29;Amapá
+05/07/2024;Marcador;91;145.39;Goiás
+05/07/2024;Caneta;87;89.29;Rio Grande do Sul
+05/07/2024;Borracha;32;113.29;Rio Grande do Sul
+05/07/2024;Caderno;84;32.55;Roraima
+05/07/2024;Régua;88;192.84;Tocantins
+05/07/2024;Lápis;13;168.77;Rio Grande do Sul
+05/07/2024;Lápis;35;173.24;Pernambuco
+05/07/2024;Caderno;69;73.44;Espírito Santo
+05/07/2024;Agenda;69;148.53;Goiás
+06/07/2024;Agenda;47;81.1;Rio de Janeiro
+06/07/2024;Borracha;100;62.58;Rio Grande do Norte
+06/07/2024;Caneta;55;100.26;Mato Grosso do Sul
+06/07/2024;Marcador;90;155.6;Amapá
+06/07/2024;Agenda;69;195.2;Distrito Federal
+06/07/2024;Agenda;62;95.39;Distrito Federal
+06/07/2024;Estojo;34;107.69;Piauí
+06/07/2024;Lápis;80;79.11;Distrito Federal
+06/07/2024;Régua;8;25.81;Alagoas
+06/07/2024;Marcador;20;87.47;Maranhão
+06/07/2024;Marcador;8;192.81;Roraima
+06/07/2024;Borracha;41;114.07;Rondônia
+06/07/2024;Régua;91;67.88;Sergipe
+07/07/2024;Estojo;13;45.48;Maranhão
+07/07/2024;Régua;17;83.5;Rio Grande do Sul
+07/07/2024;Caderno;56;11.25;Pará
+07/07/2024;Lápis;20;70.86;Alagoas
+07/07/2024;Caneta;85;173.93;Espírito Santo
+07/07/2024;Estojo;71;57.79;Distrito Federal
+08/07/2024;Agenda;32;124.25;Tocantins
+08/07/2024;Caderno;33;59.16;Pernambuco
+08/07/2024;Agenda;72;152.93;Pernambuco
+08/07/2024;Borracha;7;12.88;Rondônia
+08/07/2024;Caderno;92;117.55;Mato Grosso do Sul
+08/07/2024;Caderno;9;87.66;Minas Gerais
+08/07/2024;Lápis;85;196.32;Santa Catarina
+09/07/2024;Borracha;50;176.25;Pará
+09/07/2024;Agenda;67;28.31;Distrito Federal
+09/07/2024;Estojo;22;191.21;Pernambuco
+09/07/2024;Caderno;97;185.58;Amazonas
+09/07/2024;Régua;20;130.13;Bahia
+09/07/2024;Marcador;76;170.59;Rio Grande do Sul
+09/07/2024;Caneta;87;31.51;Sergipe
+09/07/2024;Agenda;71;93.17;Amapá
+09/07/2024;Caneta;4;110.32;Goiás
+09/07/2024;Caneta;91;109.73;Minas Gerais
+09/07/2024;Régua;13;79.48;Ceará
+09/07/2024;Régua;8;20.32;Pernambuco
+09/07/2024;Marcador;63;184.13;Amazonas
+09/07/2024;Caderno;58;111.7;Roraima
+09/07/2024;Agenda;33;7.64;Maranhão
+10/07/2024;Caderno;92;75.84;Roraima
+10/07/2024;Régua;27;43.03;Mato Grosso do Sul
+10/07/2024;Agenda;34;21.04;Rio Grande do Sul
+10/07/2024;Estojo;34;109.37;Roraima
+10/07/2024;Borracha;90;15.67;Distrito Federal
+10/07/2024;Caderno;2;175.79;Pernambuco
+10/07/2024;Borracha;22;136.53;Espírito Santo
+10/07/2024;Lápis;58;132.46;Pará
+10/07/2024;Borracha;13;31.34;Alagoas
+10/07/2024;Lápis;22;145.4;Paraíba
+10/07/2024;Borracha;77;29.3;Goiás
+10/07/2024;Marcador;95;32.42;Espírito Santo
+10/07/2024;Marcador;63;153.4;Ceará
+10/07/2024;Caderno;63;156.6;Piauí
+10/07/2024;Régua;97;34.12;Mato Grosso
+11/07/2024;Caderno;23;159.94;Mato Grosso
+11/07/2024;Régua;88;187.43;Paraíba
+11/07/2024;Borracha;86;158.96;Maranhão
+11/07/2024;Régua;3;162.36;Roraima
+11/07/2024;Caderno;86;47.77;Goiás
+11/07/2024;Lápis;72;100.7;Amapá
+11/07/2024;Marcador;71;64.15;Distrito Federal
+11/07/2024;Régua;4;120.28;Amazonas
+11/07/2024;Lápis;58;9.02;Paraná
+11/07/2024;Marcador;72;75.14;Amazonas
+12/07/2024;Agenda;94;138.4;São Paulo
+12/07/2024;Régua;69;47.12;Sergipe
+12/07/2024;Caderno;13;91.28;São Paulo
+12/07/2024;Caneta;22;173.78;Rio Grande do Norte
+12/07/2024;Régua;15;22.06;Acre
+12/07/2024;Caneta;92;106.48;Pará
+12/07/2024;Agenda;8;178.81;Mato Grosso
+12/07/2024;Lápis;22;79.09;Tocantins
+13/07/2024;Régua;93;197.25;Santa Catarina
+13/07/2024;Marcador;11;156.31;Rio Grande do Norte
+13/07/2024;Caderno;79;199.56;Santa Catarina
+13/07/2024;Régua;100;9.77;Pará
+13/07/2024;Estojo;19;71.91;Ceará
+13/07/2024;Estojo;90;184.93;Paraná
+13/07/2024;Caderno;24;185.38;Alagoas
+13/07/2024;Estojo;68;40.87;Espírito Santo
+13/07/2024;Caderno;94;107.07;Distrito Federal
+13/07/2024;Estojo;55;152.36;Minas Gerais
+13/07/2024;Caderno;86;130.18;Paraná
+13/07/2024;Agenda;11;195.31;Distrito Federal
+13/07/2024;Lápis;52;172.06;Paraíba
+14/07/2024;Borracha;9;23.06;Mato Grosso do Sul
+14/07/2024;Régua;37;82.1;Alagoas
+14/07/2024;Marcador;97;28.47;Mato Grosso
+14/07/2024;Régua;43;122.61;Mato Grosso do Sul
+14/07/2024;Agenda;40;52.18;Alagoas
+14/07/2024;Caneta;37;49.1;Tocantins
+15/07/2024;Régua;55;49.57;Paraíba
+15/07/2024;Caderno;83;5.15;Rio Grande do Norte
+15/07/2024;Lápis;86;163.36;Sergipe
+15/07/2024;Caderno;66;183.08;Pará
+15/07/2024;Agenda;19;74.19;Espírito Santo
+15/07/2024;Caneta;5;166.04;Bahia
+15/07/2024;Caneta;8;141.48;Rio Grande do Sul
+15/07/2024;Marcador;80;53.83;Espírito Santo
+15/07/2024;Lápis;89;141.71;Espírito Santo
+16/07/2024;Lápis;73;68.95;Roraima
+16/07/2024;Estojo;82;81.49;Mato Grosso
+16/07/2024;Borracha;88;20.23;São Paulo
+16/07/2024;Caneta;14;164.43;Goiás
+16/07/2024;Lápis;63;140.49;Sergipe
+16/07/2024;Lápis;30;141.06;Rondônia
+16/07/2024;Marcador;93;93.36;Pernambuco
+16/07/2024;Agenda;89;27.41;Pará
+16/07/2024;Marcador;40;115.44;Maranhão
+16/07/2024;Borracha;63;79.53;Espírito Santo
+16/07/2024;Caderno;92;32.23;Acre
+16/07/2024;Agenda;7;143.12;Sergipe
+17/07/2024;Régua;88;94.85;Roraima
+17/07/2024;Estojo;21;57.69;Pernambuco
+17/07/2024;Agenda;47;53.19;Sergipe
+17/07/2024;Borracha;99;149.5;Paraná
+17/07/2024;Régua;46;66.43;Acre
+17/07/2024;Régua;15;191.39;Rio de Janeiro
+17/07/2024;Régua;63;117.58;Piauí
+17/07/2024;Estojo;86;20.6;Rio Grande do Sul
+17/07/2024;Lápis;90;153.63;Rio Grande do Sul
+17/07/2024;Caderno;55;21.36;Rio Grande do Sul
+17/07/2024;Borracha;54;14.27;Goiás
+18/07/2024;Agenda;24;152.18;Rio Grande do Sul
+18/07/2024;Régua;36;104.61;Piauí
+18/07/2024;Régua;96;88.34;Sergipe
+18/07/2024;Borracha;99;53.36;Roraima
+18/07/2024;Agenda;13;184.09;Rondônia
+18/07/2024;Lápis;100;158.09;Rio de Janeiro
+18/07/2024;Estojo;64;77.4;Roraima
+18/07/2024;Estojo;97;72.29;Pará
+18/07/2024;Caneta;21;80.37;Santa Catarina
+19/07/2024;Régua;19;40.27;Distrito Federal
+19/07/2024;Borracha;94;33.87;Santa Catarina
+19/07/2024;Lápis;78;80.5;Acre
+19/07/2024;Caneta;49;97.08;Piauí
+19/07/2024;Caneta;71;157.95;Rio Grande do Norte
+19/07/2024;Caderno;56;142.07;Mato Grosso
+19/07/2024;Caderno;84;173.41;Rio de Janeiro
+19/07/2024;Régua;95;183.48;Rio de Janeiro
+19/07/2024;Lápis;50;8.12;Sergipe
+19/07/2024;Régua;80;170.14;Pará
+20/07/2024;Estojo;52;67.38;Espírito Santo
+20/07/2024;Caneta;30;125.16;Minas Gerais
+20/07/2024;Caneta;49;108.18;Rondônia
+20/07/2024;Agenda;67;44.71;Minas Gerais
+20/07/2024;Marcador;37;189.31;Maranhão
+20/07/2024;Borracha;81;21.68;Tocantins
+20/07/2024;Lápis;73;72.92;Amapá
+21/07/2024;Caderno;36;167.59;Paraná
+21/07/2024;Agenda;13;35.2;Rio de Janeiro
+21/07/2024;Caderno;6;125.7;Tocantins
+21/07/2024;Borracha;6;35.2;Mato Grosso
+21/07/2024;Marcador;82;36.78;Pará
+22/07/2024;Borracha;14;86.55;Bahia
+22/07/2024;Borracha;17;101.48;Pernambuco
+22/07/2024;Estojo;57;99.4;Amapá
+22/07/2024;Agenda;14;198.51;Sergipe
+22/07/2024;Estojo;5;64.02;São Paulo
+22/07/2024;Borracha;79;194.68;Tocantins
+22/07/2024;Borracha;12;150.77;Acre
+22/07/2024;Régua;30;65.02;Rondônia
+23/07/2024;Estojo;73;52.23;Paraná
+23/07/2024;Caderno;75;89.95;São Paulo
+23/07/2024;Estojo;87;118.86;Espírito Santo
+23/07/2024;Caneta;18;106.7;Goiás
+23/07/2024;Régua;42;8.44;Espírito Santo
+23/07/2024;Caneta;87;94.25;Piauí
+23/07/2024;Agenda;42;56.49;Acre
+24/07/2024;Estojo;92;11.13;Rondônia
+24/07/2024;Borracha;39;54.4;Rio de Janeiro
+24/07/2024;Agenda;22;84.28;Rondônia
+24/07/2024;Lápis;76;42.58;Bahia
+24/07/2024;Agenda;66;56.64;Goiás
+24/07/2024;Agenda;39;137.28;Tocantins
+25/07/2024;Estojo;87;194.66;Rio de Janeiro
+25/07/2024;Borracha;68;144.77;Mato Grosso do Sul
+25/07/2024;Caderno;100;103.95;Alagoas
+25/07/2024;Régua;32;155.45;Rio de Janeiro
+25/07/2024;Marcador;10;93.66;Espírito Santo
+26/07/2024;Borracha;18;82.09;Ceará
+26/07/2024;Régua;69;40.77;Piauí
+26/07/2024;Lápis;44;119.66;Rio de Janeiro
+26/07/2024;Régua;23;44.17;Paraíba
+26/07/2024;Régua;52;112.79;Minas Gerais
+26/07/2024;Estojo;96;118.54;Rio de Janeiro
+26/07/2024;Régua;100;135.5;Acre
+26/07/2024;Lápis;91;46.4;Espírito Santo
+27/07/2024;Caderno;97;198.28;Minas Gerais
+27/07/2024;Borracha;95;35.69;Pernambuco
+27/07/2024;Marcador;96;123.62;Amapá
+27/07/2024;Régua;16;180.17;Santa Catarina
+27/07/2024;Borracha;91;22.65;Alagoas
+27/07/2024;Agenda;39;25.55;Pará
+27/07/2024;Marcador;56;154.11;Acre
+27/07/2024;Agenda;6;169.12;Roraima
+27/07/2024;Borracha;50;80.31;Rio Grande do Sul
+27/07/2024;Marcador;97;52.31;Tocantins
+27/07/2024;Agenda;35;52.29;Paraíba
+27/07/2024;Agenda;59;31.07;Rondônia
+27/07/2024;Caneta;26;93.18;Paraná
+27/07/2024;Lápis;86;170.4;Rio Grande do Norte
+28/07/2024;Lápis;82;90.92;Alagoas
+28/07/2024;Caneta;96;73.8;Acre
+28/07/2024;Marcador;97;71.52;Mato Grosso
+28/07/2024;Borracha;51;163.88;Santa Catarina
+28/07/2024;Régua;45;109.35;Rondônia
+28/07/2024;Lápis;52;149.34;Rondônia
+28/07/2024;Régua;29;167.65;Rondônia
+28/07/2024;Borracha;77;145.47;Mato Grosso do Sul
+28/07/2024;Caneta;28;74.65;Paraíba
+28/07/2024;Caderno;60;192.56;Rio de Janeiro
+28/07/2024;Marcador;11;132.55;Rio de Janeiro
+28/07/2024;Caneta;27;113.3;Acre
+29/07/2024;Marcador;72;150.98;Rio Grande do Norte
+29/07/2024;Agenda;2;55.58;Alagoas
+29/07/2024;Marcador;63;157.59;Sergipe
+29/07/2024;Marcador;77;62.25;Paraná
+29/07/2024;Régua;86;183.9;Pará
+30/07/2024;Lápis;29;12.52;Ceará
+30/07/2024;Borracha;68;8.63;São Paulo
+30/07/2024;Agenda;74;139.48;Rio de Janeiro
+30/07/2024;Estojo;13;16.43;Sergipe
+30/07/2024;Borracha;65;145.91;Pará
+30/07/2024;Marcador;9;77.04;Maranhão
+30/07/2024;Marcador;78;8.36;Mato Grosso
+31/07/2024;Régua;67;132.75;Pará
+31/07/2024;Régua;86;68.72;Amazonas
+31/07/2024;Lápis;77;173.23;Ceará
+31/07/2024;Agenda;28;136.58;Paraíba
+31/07/2024;Caneta;34;154.07;Amapá
+31/07/2024;Estojo;70;133.16;Tocantins
+31/07/2024;Agenda;76;37.14;Maranhão
+31/07/2024;Marcador;92;138.7;Rondônia
+01/08/2024;Borracha;24;123.59;Rondônia
+01/08/2024;Régua;53;102;Pará
+01/08/2024;Marcador;37;161.96;Distrito Federal
+01/08/2024;Estojo;39;105.95;Rio Grande do Sul
+01/08/2024;Caneta;91;133.9;Pará
+01/08/2024;Marcador;81;37.89;Mato Grosso do Sul
+01/08/2024;Estojo;64;105.48;Paraná
+01/08/2024;Caneta;40;118.37;Mato Grosso do Sul
+01/08/2024;Caneta;7;16.92;Goiás
+01/08/2024;Estojo;13;122.18;Mato Grosso
+01/08/2024;Borracha;16;56.09;Sergipe
+01/08/2024;Caneta;13;109.06;Rondônia
+01/08/2024;Marcador;70;105.55;Rio Grande do Sul
+01/08/2024;Marcador;76;153.49;Rio Grande do Norte
+01/08/2024;Estojo;79;141.88;Santa Catarina
+02/08/2024;Régua;10;95.47;Pernambuco
+02/08/2024;Lápis;93;86.8;Rio de Janeiro
+02/08/2024;Régua;10;66.43;Paraná
+02/08/2024;Lápis;52;101.22;Minas Gerais
+02/08/2024;Lápis;5;64.97;Piauí
+02/08/2024;Régua;15;69.04;Goiás
+02/08/2024;Marcador;41;106.41;Ceará
+02/08/2024;Borracha;11;52.29;Rio Grande do Sul
+02/08/2024;Caderno;62;5.17;Tocantins
+02/08/2024;Borracha;100;74.23;Pernambuco
+02/08/2024;Régua;67;184.42;Pará
+03/08/2024;Lápis;11;69.83;Espírito Santo
+03/08/2024;Caneta;68;12.97;Pernambuco
+03/08/2024;Estojo;91;29.46;Distrito Federal
+03/08/2024;Lápis;53;132.69;Pará
+03/08/2024;Régua;56;14.95;Amazonas
+03/08/2024;Borracha;93;31.83;Ceará
+03/08/2024;Caneta;10;96.88;Minas Gerais
+03/08/2024;Régua;37;58.02;Distrito Federal
+03/08/2024;Marcador;94;124.18;Maranhão
+03/08/2024;Estojo;5;71.69;Rio Grande do Sul
+03/08/2024;Borracha;30;99.41;Goiás
+03/08/2024;Lápis;27;124.48;Santa Catarina
+03/08/2024;Caneta;57;57.32;Amazonas
+03/08/2024;Marcador;48;183.06;Piauí
+04/08/2024;Régua;67;120.43;Bahia
+04/08/2024;Borracha;80;194.78;Ceará
+04/08/2024;Caderno;83;23.71;Espírito Santo
+04/08/2024;Borracha;4;156.82;Pará
+04/08/2024;Lápis;74;103.02;Amazonas
+04/08/2024;Caderno;31;179.18;Sergipe
+04/08/2024;Estojo;64;132.64;Paraíba
+05/08/2024;Régua;65;188.52;Pará
+05/08/2024;Marcador;57;144.35;Minas Gerais
+05/08/2024;Lápis;77;199.53;Mato Grosso
+05/08/2024;Estojo;86;189.99;Paraná
+05/08/2024;Marcador;67;175.43;Tocantins
+05/08/2024;Lápis;26;116.9;Tocantins
+05/08/2024;Caderno;25;49.86;Rio Grande do Norte
+05/08/2024;Caderno;22;155.14;Rio de Janeiro
+05/08/2024;Caderno;53;136.59;Rio de Janeiro
+05/08/2024;Borracha;59;123.93;Roraima
+06/08/2024;Estojo;70;47.07;Roraima
+06/08/2024;Lápis;19;40.72;Goiás
+06/08/2024;Caderno;50;97.86;Pernambuco
+06/08/2024;Borracha;50;88.37;Paraná
+06/08/2024;Caderno;70;69.05;Alagoas
+06/08/2024;Lápis;3;112.54;Tocantins
+06/08/2024;Régua;100;133.45;Roraima
+06/08/2024;Agenda;54;11.71;Rio de Janeiro
+06/08/2024;Régua;42;180.11;Amapá
+06/08/2024;Régua;52;88.07;São Paulo
+07/08/2024;Caneta;84;152.54;Paraná
+07/08/2024;Lápis;90;154.14;Piauí
+07/08/2024;Marcador;38;9.88;Santa Catarina
+07/08/2024;Estojo;37;51.72;Piauí
+07/08/2024;Caneta;69;55.72;Pernambuco
+07/08/2024;Régua;94;16.4;Mato Grosso
+07/08/2024;Lápis;39;55.4;Rio Grande do Sul
+07/08/2024;Borracha;49;32.1;Tocantins
+07/08/2024;Régua;6;21.15;Ceará
+07/08/2024;Borracha;50;70.06;Distrito Federal
+08/08/2024;Lápis;15;185.47;Piauí
+08/08/2024;Lápis;40;78.94;Amazonas
+08/08/2024;Lápis;79;8.32;Paraíba
+08/08/2024;Lápis;27;55.02;Distrito Federal
+08/08/2024;Lápis;80;53.83;Amazonas
+08/08/2024;Agenda;14;187.04;Paraíba
+08/08/2024;Lápis;88;6.33;Rio Grande do Norte
+09/08/2024;Borracha;43;145.73;Rio Grande do Norte
+09/08/2024;Régua;79;14.64;Mato Grosso
+09/08/2024;Estojo;61;27.22;São Paulo
+09/08/2024;Lápis;6;87.12;Minas Gerais
+09/08/2024;Borracha;72;186.12;São Paulo
+09/08/2024;Marcador;54;93.34;São Paulo
+09/08/2024;Lápis;4;19.72;Rio Grande do Sul
+09/08/2024;Caneta;83;147.32;Paraná
+10/08/2024;Caneta;30;93.49;Rio de Janeiro
+10/08/2024;Marcador;71;185.65;Tocantins
+10/08/2024;Caneta;84;199.01;Mato Grosso
+10/08/2024;Agenda;91;21.88;Ceará
+10/08/2024;Caneta;90;199.83;Rio Grande do Norte
+10/08/2024;Estojo;76;169.9;Roraima
+10/08/2024;Marcador;54;41.65;Amapá
+10/08/2024;Lápis;12;60.54;Alagoas
+10/08/2024;Caneta;32;31.36;Paraná
+10/08/2024;Caderno;4;196.55;Roraima
+11/08/2024;Estojo;50;44.25;Paraíba
+11/08/2024;Caderno;62;127.79;Paraíba
+11/08/2024;Caneta;77;87.2;Acre
+11/08/2024;Régua;85;190.13;Rondônia
+11/08/2024;Marcador;2;127.23;Rio Grande do Norte
+12/08/2024;Borracha;53;20.32;Piauí
+12/08/2024;Caderno;7;46.4;Santa Catarina
+12/08/2024;Borracha;9;108.85;Paraíba
+12/08/2024;Lápis;61;26.84;Amapá
+12/08/2024;Régua;95;111.65;Goiás
+13/08/2024;Agenda;57;166.42;Pernambuco
+13/08/2024;Caneta;64;133.23;Paraíba
+13/08/2024;Régua;18;117.8;Tocantins
+13/08/2024;Régua;87;152;Amapá
+13/08/2024;Caderno;88;83.56;Minas Gerais
+13/08/2024;Marcador;80;35.85;Paraíba
+14/08/2024;Régua;83;39.7;Rio de Janeiro
+14/08/2024;Marcador;52;60.98;Tocantins
+14/08/2024;Borracha;27;40.7;São Paulo
+14/08/2024;Marcador;70;44.17;Distrito Federal
+14/08/2024;Caneta;72;69.08;Paraíba
+14/08/2024;Caderno;18;139.05;Rio Grande do Sul
+14/08/2024;Borracha;61;39.23;Rio Grande do Sul
+14/08/2024;Lápis;66;44.77;Tocantins
+14/08/2024;Agenda;20;31.68;Piauí
+14/08/2024;Estojo;10;8.29;Sergipe
+15/08/2024;Marcador;1;108.45;Pará
+15/08/2024;Lápis;75;55.91;Rio Grande do Norte
+15/08/2024;Caderno;24;120.94;Tocantins
+15/08/2024;Caneta;82;41.69;Alagoas
+15/08/2024;Borracha;14;8.4;Mato Grosso do Sul
+15/08/2024;Marcador;14;163.8;Sergipe
+15/08/2024;Borracha;48;28.64;Piauí
+16/08/2024;Régua;24;162.4;Rondônia
+16/08/2024;Marcador;79;105.63;São Paulo
+16/08/2024;Caneta;79;7.75;Santa Catarina
+16/08/2024;Régua;27;178.34;Roraima
+16/08/2024;Caneta;66;150.21;Maranhão
+16/08/2024;Marcador;77;101.44;Santa Catarina
+16/08/2024;Agenda;92;76.96;Bahia
+16/08/2024;Agenda;46;60.43;Santa Catarina
+17/08/2024;Caneta;44;58.43;Roraima
+17/08/2024;Estojo;76;193.09;Bahia
+17/08/2024;Lápis;94;158.39;Maranhão
+17/08/2024;Agenda;96;103.27;Piauí
+17/08/2024;Lápis;60;116.29;Bahia
+17/08/2024;Estojo;81;154.21;Santa Catarina
+17/08/2024;Estojo;12;147.96;Pará
+17/08/2024;Borracha;16;153.72;Rio de Janeiro
+18/08/2024;Régua;47;10.14;Rio Grande do Sul
+18/08/2024;Caderno;59;74.64;Rio de Janeiro
+18/08/2024;Borracha;49;131.26;Bahia
+18/08/2024;Estojo;82;67.84;Paraíba
+18/08/2024;Caderno;5;197.15;Rio Grande do Norte
+18/08/2024;Régua;55;82.65;Amazonas
+18/08/2024;Agenda;79;88.44;Pernambuco
+19/08/2024;Régua;17;108.91;Mato Grosso do Sul
+19/08/2024;Borracha;17;121.31;Acre
+19/08/2024;Lápis;56;63.97;Mato Grosso do Sul
+19/08/2024;Marcador;1;70.35;Mato Grosso
+19/08/2024;Agenda;39;195.28;Mato Grosso
+19/08/2024;Agenda;1;186.78;Espírito Santo
+19/08/2024;Borracha;20;25.83;Sergipe
+19/08/2024;Régua;5;34.57;Rio de Janeiro
+19/08/2024;Estojo;36;173.22;Roraima
+19/08/2024;Caneta;56;6.83;Maranhão
+19/08/2024;Marcador;12;105.32;Amapá
+19/08/2024;Agenda;36;127.69;Goiás
+19/08/2024;Lápis;63;180.29;Pará
+20/08/2024;Caneta;70;139.88;Sergipe
+20/08/2024;Régua;23;38.42;Distrito Federal
+20/08/2024;Lápis;37;121.36;São Paulo
+20/08/2024;Caneta;19;97.81;Rondônia
+20/08/2024;Lápis;57;149.06;Paraná
+20/08/2024;Caderno;43;90.31;Rondônia
+20/08/2024;Estojo;84;172.58;Tocantins
+20/08/2024;Lápis;95;102.29;São Paulo
+20/08/2024;Régua;15;121.63;Mato Grosso do Sul
+21/08/2024;Marcador;88;191.16;Rio de Janeiro
+21/08/2024;Caneta;19;166.15;Pernambuco
+21/08/2024;Caderno;87;85.36;Distrito Federal
+21/08/2024;Marcador;14;193.48;Maranhão
+21/08/2024;Agenda;32;112.08;Rio de Janeiro
+21/08/2024;Lápis;3;125.56;Alagoas
+21/08/2024;Caderno;67;113.74;Espírito Santo
+21/08/2024;Caderno;95;60.51;Bahia
+22/08/2024;Borracha;87;6.44;Paraná
+22/08/2024;Caneta;61;62.53;Amazonas
+22/08/2024;Agenda;100;150.68;Goiás
+22/08/2024;Borracha;21;98.84;Mato Grosso
+22/08/2024;Estojo;15;151.46;Rondônia
+22/08/2024;Caneta;77;39.77;Rondônia
+22/08/2024;Régua;99;137.71;Maranhão
+22/08/2024;Borracha;68;59.56;Sergipe
+23/08/2024;Borracha;54;155.87;Amapá
+23/08/2024;Caneta;78;97.63;Mato Grosso
+23/08/2024;Régua;57;148.62;Santa Catarina
+23/08/2024;Marcador;11;100.35;Tocantins
+23/08/2024;Estojo;46;125.75;Espírito Santo
+23/08/2024;Agenda;48;139.71;Espírito Santo
+24/08/2024;Régua;3;98.86;Rio Grande do Norte
+24/08/2024;Borracha;79;187.95;Acre
+24/08/2024;Estojo;44;126.89;Amazonas
+24/08/2024;Caneta;92;170.69;Santa Catarina
+24/08/2024;Caderno;86;145.15;Rio Grande do Sul
+24/08/2024;Lápis;50;45.53;Distrito Federal
+24/08/2024;Lápis;1;100.06;Pernambuco
+24/08/2024;Caderno;40;112.32;Roraima
+24/08/2024;Régua;24;51.97;Santa Catarina
+24/08/2024;Borracha;5;6.7;Ceará
+24/08/2024;Caneta;96;161.66;Goiás
+24/08/2024;Borracha;85;121.4;Santa Catarina
+25/08/2024;Régua;49;171.17;Amazonas
+25/08/2024;Régua;65;72.45;Mato Grosso
+25/08/2024;Estojo;62;155.64;Sergipe
+25/08/2024;Estojo;7;96.22;Paraná
+25/08/2024;Lápis;82;141.17;Rondônia
+25/08/2024;Lápis;71;139.34;Ceará
+25/08/2024;Borracha;7;124.74;Piauí
+25/08/2024;Caderno;93;147.7;Bahia
+26/08/2024;Lápis;14;81.43;Acre
+26/08/2024;Borracha;39;46.77;Distrito Federal
+26/08/2024;Estojo;68;80.6;Bahia
+26/08/2024;Caderno;32;62.07;Ceará
+26/08/2024;Estojo;79;48.52;Ceará
+27/08/2024;Caneta;35;195.37;Amapá
+27/08/2024;Régua;20;186.36;Rio Grande do Norte
+27/08/2024;Borracha;45;46.21;Alagoas
+27/08/2024;Estojo;43;35.69;Mato Grosso
+27/08/2024;Caneta;79;148.97;Pernambuco
+27/08/2024;Caneta;1;162.65;Alagoas
+27/08/2024;Estojo;27;109.44;Pará
+27/08/2024;Marcador;82;155.06;Maranhão
+27/08/2024;Estojo;72;92.06;Piauí
+28/08/2024;Régua;65;168.03;Mato Grosso
+28/08/2024;Lápis;7;97.47;Amazonas
+28/08/2024;Lápis;27;52.95;Rio Grande do Sul
+28/08/2024;Estojo;93;127.89;Rio Grande do Norte
+28/08/2024;Régua;52;124.53;Ceará
+28/08/2024;Caderno;47;9.41;Tocantins
+28/08/2024;Caneta;71;176.87;Rondônia
+28/08/2024;Régua;14;104.68;Sergipe
+28/08/2024;Régua;94;91.8;Santa Catarina
+28/08/2024;Agenda;58;46.83;Pará
+28/08/2024;Borracha;94;144.78;São Paulo
+28/08/2024;Régua;96;92.29;Tocantins
+29/08/2024;Lápis;41;127.74;Rio Grande do Norte
+29/08/2024;Lápis;33;123.98;Tocantins
+29/08/2024;Caneta;65;108.42;Espírito Santo
+29/08/2024;Estojo;13;13.52;Mato Grosso do Sul
+29/08/2024;Estojo;40;149.17;Espírito Santo
+29/08/2024;Agenda;44;88.83;Tocantins
+29/08/2024;Caneta;47;150.31;Amazonas
+29/08/2024;Lápis;16;64.99;Ceará
+29/08/2024;Marcador;28;128.15;Rio Grande do Norte
+29/08/2024;Estojo;93;30.41;Rio Grande do Norte
+29/08/2024;Marcador;23;172.19;Sergipe
+29/08/2024;Agenda;6;81.98;Mato Grosso
+29/08/2024;Caneta;75;99.42;Amapá
+29/08/2024;Caderno;59;26.63;Maranhão
+30/08/2024;Estojo;50;81.23;Espírito Santo
+30/08/2024;Estojo;88;155.13;Roraima
+30/08/2024;Agenda;69;29.54;Amazonas
+30/08/2024;Marcador;6;44.83;Acre
+30/08/2024;Caneta;3;74.35;Santa Catarina
+30/08/2024;Régua;85;136.2;Pernambuco
+30/08/2024;Caderno;58;15.04;Pará
+30/08/2024;Caderno;20;147.21;Rio Grande do Norte
+30/08/2024;Estojo;41;97.89;Roraima
+30/08/2024;Borracha;32;195.94;Amapá
+30/08/2024;Caderno;79;153.98;Santa Catarina
+30/08/2024;Régua;64;22.94;Amapá
+30/08/2024;Régua;14;153.48;Tocantins
+30/08/2024;Caderno;31;34.66;Roraima
+31/08/2024;Marcador;90;112.28;Tocantins
+31/08/2024;Régua;36;152.6;Bahia
+31/08/2024;Caderno;12;171.37;Paraná
+31/08/2024;Régua;24;109.45;Rio de Janeiro
+31/08/2024;Caderno;3;164.17;Rio de Janeiro
+31/08/2024;Lápis;54;113.75;Sergipe
+31/08/2024;Marcador;94;77.29;Rio Grande do Sul
+31/08/2024;Estojo;3;6.67;Paraná
+31/08/2024;Régua;47;149.24;Pernambuco
+31/08/2024;Estojo;32;60.69;Espírito Santo
+31/08/2024;Régua;93;31.3;Acre
+31/08/2024;Caderno;46;95.33;Mato Grosso
+01/09/2024;Lápis;86;135.63;Acre
+01/09/2024;Marcador;75;62.63;Santa Catarina
+01/09/2024;Estojo;24;61.57;Pernambuco
+01/09/2024;Marcador;70;133.25;Distrito Federal
+01/09/2024;Régua;95;24.32;Paraíba
+01/09/2024;Borracha;35;167.55;Pará
+01/09/2024;Caneta;82;128.11;Rondônia
+01/09/2024;Agenda;83;8.83;Bahia
+01/09/2024;Caderno;26;166.1;Rondônia
+01/09/2024;Borracha;87;196.58;Roraima
+01/09/2024;Caneta;24;147.99;Paraná
+02/09/2024;Marcador;46;164.24;Goiás
+02/09/2024;Marcador;4;67.36;Mato Grosso do Sul
+02/09/2024;Caneta;2;118.15;Bahia
+02/09/2024;Caderno;13;173.44;Ceará
+02/09/2024;Estojo;90;107.9;Mato Grosso
+02/09/2024;Borracha;48;122.8;São Paulo
+02/09/2024;Agenda;20;142.85;Amazonas
+02/09/2024;Agenda;3;88.82;Santa Catarina
+02/09/2024;Estojo;48;168.42;Goiás
+02/09/2024;Marcador;4;34.94;Rondônia
+02/09/2024;Caderno;35;136.19;Piauí
+02/09/2024;Agenda;94;179.36;Distrito Federal
+02/09/2024;Lápis;77;75.88;Amazonas
+02/09/2024;Estojo;43;134.75;Rio Grande do Sul
+03/09/2024;Estojo;87;70.43;Goiás
+03/09/2024;Estojo;57;81;Minas Gerais
+03/09/2024;Borracha;79;188.92;Amazonas
+03/09/2024;Agenda;92;194.29;Distrito Federal
+03/09/2024;Borracha;93;147.99;Amazonas
+03/09/2024;Caneta;91;184.31;Sergipe
+03/09/2024;Caderno;13;156.67;Santa Catarina
+03/09/2024;Borracha;27;149.38;Amazonas
+04/09/2024;Marcador;86;87.04;Rio Grande do Norte
+04/09/2024;Régua;89;173.63;Goiás
+04/09/2024;Caneta;22;20.32;Ceará
+04/09/2024;Caderno;86;66.03;Maranhão
+04/09/2024;Lápis;34;75.36;Acre
+04/09/2024;Agenda;28;186.77;Maranhão
+04/09/2024;Caderno;87;138.77;Goiás
+04/09/2024;Caneta;77;62.82;Amapá
+04/09/2024;Borracha;23;10.98;Pará
+04/09/2024;Caderno;64;37.05;Maranhão
+04/09/2024;Estojo;92;95.81;Rio Grande do Sul
+04/09/2024;Régua;13;6.6;Distrito Federal
+04/09/2024;Lápis;30;93.62;Amazonas
+05/09/2024;Caderno;54;106.1;Mato Grosso do Sul
+05/09/2024;Caneta;87;188.69;Paraná
+05/09/2024;Marcador;21;111.55;Roraima
+05/09/2024;Lápis;37;99.22;Alagoas
+05/09/2024;Caneta;61;178.07;Mato Grosso do Sul
+05/09/2024;Estojo;7;29.85;Espírito Santo
+05/09/2024;Marcador;49;112.58;Rondônia
+05/09/2024;Agenda;42;113.02;Pará
+05/09/2024;Caneta;78;10.11;Rondônia
+06/09/2024;Estojo;49;52.02;Pará
+06/09/2024;Marcador;66;6.37;Roraima
+06/09/2024;Estojo;53;118.14;Tocantins
+06/09/2024;Régua;6;105.15;Bahia
+06/09/2024;Lápis;53;51.64;Rio de Janeiro
+06/09/2024;Caderno;70;188.07;Mato Grosso do Sul
+06/09/2024;Borracha;38;31.28;Paraíba
+07/09/2024;Agenda;3;15.37;Bahia
+07/09/2024;Estojo;30;126.6;São Paulo
+07/09/2024;Caderno;89;110.68;Minas Gerais
+07/09/2024;Agenda;98;42.29;Ceará
+07/09/2024;Marcador;4;154.39;Tocantins
+07/09/2024;Régua;10;56;Mato Grosso
+07/09/2024;Marcador;2;24.44;Pará
+07/09/2024;Lápis;33;29.92;Amapá
+07/09/2024;Caneta;67;14.32;Rio Grande do Sul
+07/09/2024;Marcador;68;26.58;Piauí
+07/09/2024;Agenda;34;153.91;Goiás
+07/09/2024;Borracha;39;179;Rio Grande do Norte
+08/09/2024;Marcador;68;127.98;Rondônia
+08/09/2024;Estojo;44;14.2;São Paulo
+08/09/2024;Estojo;61;110.02;Sergipe
+08/09/2024;Agenda;58;115.64;Roraima
+08/09/2024;Estojo;78;144.67;São Paulo
+08/09/2024;Lápis;75;11.68;Rio Grande do Norte
+08/09/2024;Borracha;41;188.07;Distrito Federal
+08/09/2024;Caderno;8;17.82;Roraima
+08/09/2024;Caderno;20;37.74;Amapá
+08/09/2024;Régua;40;174.81;Distrito Federal
+08/09/2024;Régua;95;13.43;Pernambuco
+08/09/2024;Régua;78;11.39;Pará
+08/09/2024;Caderno;92;144.71;Goiás
+09/09/2024;Borracha;88;28.89;Sergipe
+09/09/2024;Estojo;76;34.98;Alagoas
+09/09/2024;Caneta;47;13.37;Amapá
+09/09/2024;Caderno;42;91.63;Amapá
+09/09/2024;Lápis;89;164.21;Piauí
+09/09/2024;Régua;4;52.82;Tocantins
+09/09/2024;Caneta;10;20.59;Espírito Santo
+09/09/2024;Caneta;8;21.06;Mato Grosso do Sul
+09/09/2024;Marcador;41;125.86;Piauí
+09/09/2024;Agenda;83;23.85;Ceará
+10/09/2024;Borracha;76;170.94;Piauí
+10/09/2024;Estojo;84;186.81;Acre
+10/09/2024;Caneta;86;118.4;Rio Grande do Sul
+10/09/2024;Marcador;28;72.94;Mato Grosso
+10/09/2024;Lápis;65;149.44;Piauí
+10/09/2024;Régua;93;122.9;Pará
+10/09/2024;Borracha;3;82.57;Minas Gerais
+10/09/2024;Caneta;41;9.27;Sergipe
+10/09/2024;Borracha;15;196.2;Goiás
+10/09/2024;Caderno;97;41.24;Rondônia
+11/09/2024;Caneta;13;173.02;Amazonas
+11/09/2024;Borracha;59;116.07;Pernambuco
+11/09/2024;Agenda;89;195.58;Rio de Janeiro
+11/09/2024;Marcador;72;151.61;Piauí
+11/09/2024;Caderno;66;101.57;Rio Grande do Sul
+11/09/2024;Régua;39;78.78;Acre
+11/09/2024;Lápis;11;6.66;Paraná
+12/09/2024;Lápis;35;75.8;Pernambuco
+12/09/2024;Estojo;83;11.5;Mato Grosso
+12/09/2024;Marcador;85;157.32;Goiás
+12/09/2024;Estojo;14;7.7;São Paulo
+12/09/2024;Régua;16;31.53;Amazonas
+12/09/2024;Caneta;5;188.97;Rio Grande do Sul
+12/09/2024;Régua;80;198.68;São Paulo
+13/09/2024;Estojo;92;11.64;Rondônia
+13/09/2024;Estojo;7;159.34;Mato Grosso do Sul
+13/09/2024;Régua;86;169.92;Amazonas
+13/09/2024;Lápis;30;74.75;Tocantins
+13/09/2024;Marcador;15;43.51;Paraíba
+13/09/2024;Marcador;69;158.51;Rio de Janeiro
+13/09/2024;Borracha;35;163.31;São Paulo
+13/09/2024;Caneta;49;70.63;Paraná
+13/09/2024;Caneta;59;145.65;Alagoas
+13/09/2024;Régua;37;34.22;Acre
+13/09/2024;Agenda;23;197.51;Mato Grosso
+13/09/2024;Caderno;99;73.12;Mato Grosso do Sul
+13/09/2024;Agenda;40;118.64;Distrito Federal
+14/09/2024;Lápis;19;133.67;Roraima
+14/09/2024;Borracha;28;104.15;Mato Grosso do Sul
+14/09/2024;Estojo;31;48.08;Pará
+14/09/2024;Estojo;7;174.99;Minas Gerais
+14/09/2024;Marcador;76;86.21;Alagoas
+14/09/2024;Lápis;2;148.11;Pernambuco
+14/09/2024;Estojo;80;99.81;Espírito Santo
+14/09/2024;Borracha;56;18.03;Alagoas
+14/09/2024;Caneta;69;168.53;Ceará
+15/09/2024;Caneta;91;88.09;Rio Grande do Norte
+15/09/2024;Caneta;62;197.75;Rio Grande do Sul
+15/09/2024;Marcador;26;102.26;Maranhão
+15/09/2024;Caderno;57;142.65;Paraná
+15/09/2024;Régua;51;96.63;Alagoas
+15/09/2024;Agenda;68;111.57;Acre
+15/09/2024;Caneta;76;36.34;Pernambuco
+15/09/2024;Caneta;12;114.4;Mato Grosso
+15/09/2024;Agenda;52;118.57;Ceará
+15/09/2024;Caneta;43;52.63;São Paulo
+15/09/2024;Estojo;9;71.8;Amapá
+16/09/2024;Lápis;23;141.54;Piauí
+16/09/2024;Agenda;76;18.41;Distrito Federal
+16/09/2024;Caderno;83;71.24;Rio Grande do Norte
+16/09/2024;Marcador;15;96.12;Goiás
+16/09/2024;Caderno;31;95.88;Maranhão
+16/09/2024;Estojo;40;48.12;Sergipe
+16/09/2024;Régua;93;32.17;Distrito Federal
+16/09/2024;Agenda;55;106.25;Amazonas
+16/09/2024;Agenda;67;179.88;Pará
+16/09/2024;Estojo;91;9.57;Rio de Janeiro
+17/09/2024;Estojo;80;112.6;Piauí
+17/09/2024;Régua;58;139.35;Paraná
+17/09/2024;Régua;33;43.21;Paraná
+17/09/2024;Lápis;41;128.05;Rio Grande do Norte
+17/09/2024;Caderno;44;186.81;Minas Gerais
+17/09/2024;Régua;7;46.57;Rio Grande do Norte
+17/09/2024;Régua;90;27.72;Amapá
+17/09/2024;Régua;77;88.92;Minas Gerais
+17/09/2024;Marcador;65;97.65;Rondônia
+17/09/2024;Agenda;49;11.68;Santa Catarina
+17/09/2024;Agenda;13;155.48;Acre
+17/09/2024;Caderno;73;56.02;Ceará
+18/09/2024;Régua;45;159.93;Mato Grosso
+18/09/2024;Agenda;49;45.41;Rio de Janeiro
+18/09/2024;Marcador;36;171.56;Amapá
+18/09/2024;Marcador;95;122.05;Amapá
+18/09/2024;Caderno;30;174.89;Paraíba
+19/09/2024;Caderno;98;10.24;Rio de Janeiro
+19/09/2024;Régua;100;125.53;Santa Catarina
+19/09/2024;Lápis;35;14.6;Santa Catarina
+19/09/2024;Caderno;98;149.07;Ceará
+19/09/2024;Caderno;59;31.78;Minas Gerais
+19/09/2024;Régua;98;65.14;Bahia
+19/09/2024;Marcador;69;54.1;Paraná
+19/09/2024;Agenda;82;188.68;Piauí
+19/09/2024;Marcador;52;106.9;Espírito Santo
+20/09/2024;Régua;64;63.09;Rio de Janeiro
+20/09/2024;Caderno;17;46.46;São Paulo
+20/09/2024;Estojo;87;55.57;Ceará
+20/09/2024;Marcador;53;28.77;Acre
+20/09/2024;Caneta;29;102.09;Sergipe
+20/09/2024;Régua;14;63.69;Bahia
+20/09/2024;Marcador;62;93.44;Paraná
+20/09/2024;Caneta;88;93.65;Roraima
+20/09/2024;Marcador;82;184.34;Distrito Federal
+20/09/2024;Lápis;82;19.18;Amapá
+20/09/2024;Caneta;76;193.17;Mato Grosso do Sul
+20/09/2024;Régua;63;177.24;São Paulo
+20/09/2024;Lápis;44;30.56;Goiás
+21/09/2024;Lápis;72;193.06;Rio de Janeiro
+21/09/2024;Régua;52;87.7;Goiás
+21/09/2024;Régua;70;182.94;Santa Catarina
+21/09/2024;Agenda;71;6.93;Paraíba
+21/09/2024;Borracha;59;91.97;Alagoas
+21/09/2024;Caneta;34;44.84;Maranhão
+21/09/2024;Estojo;88;53.72;Distrito Federal
+21/09/2024;Estojo;53;153.63;Rondônia
+21/09/2024;Borracha;18;8.88;Roraima
+21/09/2024;Borracha;52;112.98;Santa Catarina
+21/09/2024;Régua;83;72.97;Distrito Federal
+22/09/2024;Borracha;64;55.33;Rio Grande do Sul
+22/09/2024;Borracha;9;92.11;Sergipe
+22/09/2024;Lápis;97;121;Rio de Janeiro
+22/09/2024;Caderno;75;144.65;Espírito Santo
+22/09/2024;Borracha;82;178.87;Mato Grosso do Sul
+22/09/2024;Lápis;14;87.63;Alagoas
+23/09/2024;Estojo;66;194.3;Alagoas
+23/09/2024;Caneta;30;12.69;Pará
+23/09/2024;Caderno;61;148.17;Santa Catarina
+23/09/2024;Agenda;47;20.62;Acre
+23/09/2024;Lápis;37;67.73;São Paulo
+23/09/2024;Estojo;50;184.71;Santa Catarina
+23/09/2024;Caneta;51;56.91;Amazonas
+23/09/2024;Caderno;47;83.25;Alagoas
+23/09/2024;Caderno;7;87.15;Goiás
+23/09/2024;Marcador;13;19.3;Sergipe
+23/09/2024;Caneta;90;125.32;Paraíba
+24/09/2024;Borracha;83;123.35;Minas Gerais
+24/09/2024;Estojo;14;6.22;Maranhão
+24/09/2024;Borracha;66;46.94;Amapá
+24/09/2024;Agenda;35;137.64;Pernambuco
+24/09/2024;Borracha;96;122.13;Rio de Janeiro
+24/09/2024;Borracha;11;141.3;Rio Grande do Norte
+24/09/2024;Caneta;26;133.71;Tocantins
+24/09/2024;Caderno;13;27.06;Amapá
+24/09/2024;Lápis;98;36.05;Sergipe
+24/09/2024;Agenda;19;188.29;Maranhão
+25/09/2024;Lápis;69;113.44;Rio de Janeiro
+25/09/2024;Régua;38;50.3;Tocantins
+25/09/2024;Caderno;36;36.72;Paraíba
+25/09/2024;Caderno;86;198.7;Alagoas
+25/09/2024;Marcador;67;141.33;Acre
+25/09/2024;Borracha;94;144.52;Paraíba
+25/09/2024;Caderno;99;198.79;Mato Grosso do Sul
+25/09/2024;Régua;87;110.56;Tocantins
+25/09/2024;Estojo;14;129.27;Paraíba
+25/09/2024;Lápis;81;41.35;Rio Grande do Norte
+25/09/2024;Caneta;15;119.66;Paraná
+25/09/2024;Régua;30;140.85;Maranhão
+25/09/2024;Caneta;15;70.19;Amazonas
+25/09/2024;Agenda;96;139.93;Pernambuco
+25/09/2024;Régua;74;16.03;Espírito Santo
+26/09/2024;Marcador;42;131.49;Roraima
+26/09/2024;Agenda;50;32.69;Ceará
+26/09/2024;Borracha;52;67.45;Minas Gerais
+26/09/2024;Régua;48;90.08;Tocantins
+26/09/2024;Borracha;1;172.68;Espírito Santo
+26/09/2024;Marcador;89;128.22;Mato Grosso do Sul
+26/09/2024;Agenda;48;172.58;Espírito Santo
+26/09/2024;Agenda;96;84.1;Santa Catarina
+27/09/2024;Lápis;69;75.5;Santa Catarina
+27/09/2024;Marcador;85;196.59;Minas Gerais
+27/09/2024;Borracha;13;191.51;Rio Grande do Sul
+27/09/2024;Agenda;51;52.78;Amazonas
+27/09/2024;Régua;27;55.45;Santa Catarina
+28/09/2024;Caderno;86;112.93;São Paulo
+28/09/2024;Régua;74;158.41;Goiás
+28/09/2024;Estojo;87;89.48;Mato Grosso
+28/09/2024;Caneta;35;16.61;Rio Grande do Sul
+28/09/2024;Estojo;7;192.68;Paraná
+28/09/2024;Agenda;66;133.91;Roraima
+29/09/2024;Régua;16;98.75;Goiás
+29/09/2024;Agenda;35;144.74;Amazonas
+29/09/2024;Borracha;100;160.8;Mato Grosso do Sul
+29/09/2024;Estojo;47;93.97;Pará
+29/09/2024;Caneta;47;138.84;Espírito Santo
+29/09/2024;Caneta;27;22.34;Mato Grosso do Sul
+29/09/2024;Estojo;1;149.04;Rio de Janeiro
+29/09/2024;Caneta;87;26.6;Maranhão
+30/09/2024;Estojo;56;24.15;Tocantins
+30/09/2024;Agenda;90;21.35;Distrito Federal
+30/09/2024;Borracha;64;128.7;Sergipe
+30/09/2024;Agenda;73;67.28;Bahia
+30/09/2024;Marcador;86;33.98;Sergipe
+30/09/2024;Caderno;64;122.55;Alagoas
+30/09/2024;Lápis;46;68.81;Mato Grosso do Sul
+30/09/2024;Marcador;80;45.41;Pernambuco
+30/09/2024;Marcador;95;146.97;Amapá
+30/09/2024;Caderno;49;120.83;Acre
+30/09/2024;Lápis;27;148.89;Tocantins
+30/09/2024;Lápis;31;86.2;Mato Grosso do Sul
+01/10/2024;Lápis;73;173.65;Pará
+01/10/2024;Caneta;98;172.13;São Paulo
+01/10/2024;Caderno;83;167.44;Espírito Santo
+01/10/2024;Régua;45;23.41;Roraima
+01/10/2024;Régua;85;108.94;Piauí
+02/10/2024;Agenda;51;127.65;Rio Grande do Norte
+02/10/2024;Régua;38;195.27;Rondônia
+02/10/2024;Agenda;29;185.13;Amapá
+02/10/2024;Marcador;61;70.34;Pará
+02/10/2024;Agenda;68;67.5;Pará
+02/10/2024;Agenda;23;120.76;Goiás
+02/10/2024;Lápis;67;62.94;Maranhão
+02/10/2024;Caderno;62;55.97;Bahia
+02/10/2024;Caneta;87;30.95;Roraima
+02/10/2024;Régua;74;33.75;Tocantins
+02/10/2024;Estojo;38;151.54;Roraima
+03/10/2024;Lápis;67;6.46;Rondônia
+03/10/2024;Régua;35;130.66;Pernambuco
+03/10/2024;Caderno;14;43.82;Paraíba
+03/10/2024;Borracha;79;65.61;Sergipe
+03/10/2024;Borracha;74;155.9;Santa Catarina
+03/10/2024;Caneta;68;56.34;Espírito Santo
+03/10/2024;Régua;85;166.07;Bahia
+03/10/2024;Caderno;47;90.02;Pará
+03/10/2024;Régua;45;47.89;Santa Catarina
+03/10/2024;Marcador;89;90.18;Acre
+04/10/2024;Caneta;78;192.22;Pará
+04/10/2024;Borracha;49;29.54;Amazonas
+04/10/2024;Marcador;16;147.51;Roraima
+04/10/2024;Agenda;68;114.96;Acre
+04/10/2024;Agenda;32;79.27;Rio Grande do Norte
+05/10/2024;Caneta;62;135.97;São Paulo
+05/10/2024;Caneta;97;135.61;Tocantins
+05/10/2024;Marcador;86;137.65;Amapá
+05/10/2024;Lápis;5;50.13;Tocantins
+05/10/2024;Lápis;6;28.12;Rio Grande do Sul
+05/10/2024;Marcador;56;72.23;Rio de Janeiro
+05/10/2024;Marcador;96;15.8;Rio Grande do Norte
+06/10/2024;Caderno;13;183.12;Piauí
+06/10/2024;Lápis;41;135.12;Roraima
+06/10/2024;Borracha;81;197.02;Roraima
+06/10/2024;Caneta;8;166.27;Goiás
+06/10/2024;Lápis;67;178.07;Espírito Santo
+07/10/2024;Caderno;75;67.1;Rondônia
+07/10/2024;Caderno;52;116.29;Distrito Federal
+07/10/2024;Caneta;41;66.31;Alagoas
+07/10/2024;Agenda;35;144.46;Espírito Santo
+07/10/2024;Caderno;21;171.47;Rondônia
+07/10/2024;Lápis;40;11.88;Pernambuco
+07/10/2024;Lápis;51;102.44;Acre
+07/10/2024;Caneta;80;76.55;Distrito Federal
+07/10/2024;Borracha;22;38.55;Alagoas
+07/10/2024;Lápis;17;126.3;Bahia
+07/10/2024;Borracha;40;37.99;Rio Grande do Sul
+07/10/2024;Caderno;44;160.44;Pará
+07/10/2024;Caneta;84;140.83;Rondônia
+08/10/2024;Marcador;45;124.52;Paraná
+08/10/2024;Marcador;41;75.95;Paraíba
+08/10/2024;Agenda;28;83.92;Ceará
+08/10/2024;Caderno;65;12;Amapá
+08/10/2024;Caderno;54;80.03;Minas Gerais
+08/10/2024;Régua;63;80.34;Roraima
+08/10/2024;Marcador;20;16.67;Santa Catarina
+08/10/2024;Caneta;77;135.32;Rio Grande do Norte
+08/10/2024;Marcador;11;144.43;Mato Grosso
+08/10/2024;Marcador;44;72.43;Amapá
+08/10/2024;Caneta;61;143.18;Rondônia
+08/10/2024;Régua;25;11.36;Bahia
+09/10/2024;Régua;43;110.63;Tocantins
+09/10/2024;Estojo;1;144.6;Tocantins
+09/10/2024;Estojo;57;114.97;Espírito Santo
+09/10/2024;Lápis;39;147.56;Maranhão
+09/10/2024;Agenda;76;179.95;Alagoas
+09/10/2024;Marcador;52;24.75;Sergipe
+09/10/2024;Estojo;97;181.26;Acre
+09/10/2024;Agenda;88;194.51;Amapá
+10/10/2024;Régua;89;106.44;São Paulo
+10/10/2024;Marcador;80;71;Sergipe
+10/10/2024;Caneta;79;104.56;Sergipe
+10/10/2024;Caneta;38;22.53;Amazonas
+10/10/2024;Régua;2;84.33;Amapá
+10/10/2024;Estojo;7;150.01;Sergipe
+10/10/2024;Marcador;23;150.74;Alagoas
+10/10/2024;Marcador;71;148.82;Acre
+10/10/2024;Caderno;35;82.78;Roraima
+10/10/2024;Estojo;23;25.29;Acre
+10/10/2024;Caderno;12;198.37;Maranhão
+10/10/2024;Marcador;65;161.78;Tocantins
+10/10/2024;Estojo;11;136.95;Ceará
+11/10/2024;Marcador;93;132.2;Santa Catarina
+11/10/2024;Agenda;100;23.46;Paraná
+11/10/2024;Lápis;57;59.52;Tocantins
+11/10/2024;Estojo;67;132.11;São Paulo
+11/10/2024;Borracha;20;173.54;Mato Grosso do Sul
+11/10/2024;Estojo;83;166.83;Mato Grosso
+11/10/2024;Borracha;85;183.5;Sergipe
+11/10/2024;Caderno;36;15.8;Piauí
+11/10/2024;Lápis;2;186.82;Distrito Federal
+11/10/2024;Lápis;41;68.04;Ceará
+11/10/2024;Régua;7;161.54;Minas Gerais
+11/10/2024;Caderno;59;108.61;Paraná
+12/10/2024;Borracha;70;31.89;São Paulo
+12/10/2024;Caderno;61;192.64;Maranhão
+12/10/2024;Estojo;19;44.23;Paraíba
+12/10/2024;Borracha;65;10.55;Paraíba
+12/10/2024;Agenda;26;78.45;Amazonas
+12/10/2024;Caderno;35;58.97;Ceará
+12/10/2024;Lápis;28;144.41;Espírito Santo
+12/10/2024;Marcador;4;111.62;Tocantins
+12/10/2024;Régua;46;121.96;Rio Grande do Norte
+13/10/2024;Caneta;7;112.52;Mato Grosso
+13/10/2024;Marcador;68;20.87;Rio Grande do Norte
+13/10/2024;Régua;87;157.76;Mato Grosso do Sul
+13/10/2024;Borracha;27;78.21;Rio de Janeiro
+13/10/2024;Borracha;31;64.01;Goiás
+14/10/2024;Agenda;6;28.76;Rio de Janeiro
+14/10/2024;Agenda;50;190.47;Paraíba
+14/10/2024;Régua;3;55.49;Minas Gerais
+14/10/2024;Régua;89;6.6;Acre
+14/10/2024;Agenda;35;82.38;Rio Grande do Norte
+14/10/2024;Régua;94;88.19;Santa Catarina
+14/10/2024;Caneta;19;103.77;Alagoas
+14/10/2024;Estojo;24;73.68;Roraima
+14/10/2024;Caneta;79;136.99;Rio de Janeiro
+14/10/2024;Lápis;77;26.72;Rio de Janeiro
+14/10/2024;Estojo;94;6.59;Goiás
+14/10/2024;Borracha;90;41.01;Mato Grosso
+14/10/2024;Agenda;15;46.11;Mato Grosso do Sul
+14/10/2024;Régua;59;69.86;Minas Gerais
+15/10/2024;Caderno;20;100.04;Alagoas
+15/10/2024;Estojo;87;65.7;Minas Gerais
+15/10/2024;Caneta;30;96.55;Espírito Santo
+15/10/2024;Borracha;4;111.76;Alagoas
+15/10/2024;Borracha;8;154.71;Bahia
+15/10/2024;Estojo;95;181.76;Minas Gerais
+15/10/2024;Estojo;15;52.91;Bahia
+15/10/2024;Régua;64;163.77;Distrito Federal
+16/10/2024;Estojo;71;57.41;Paraíba
+16/10/2024;Marcador;74;122.5;Amapá
+16/10/2024;Lápis;100;33.46;Goiás
+16/10/2024;Agenda;18;109.39;Minas Gerais
+16/10/2024;Marcador;66;184.86;Alagoas
+16/10/2024;Caderno;25;146.53;Amazonas
+16/10/2024;Caderno;51;41.14;Espírito Santo
+16/10/2024;Régua;37;102.86;Paraíba
+16/10/2024;Caderno;13;176.97;São Paulo
+16/10/2024;Estojo;34;9.33;Rio Grande do Sul
+16/10/2024;Estojo;89;138.11;Goiás
+16/10/2024;Estojo;26;33.7;Amazonas
+16/10/2024;Estojo;10;165.14;Roraima
+16/10/2024;Estojo;98;16.08;Minas Gerais
+17/10/2024;Caneta;55;171.23;Espírito Santo
+17/10/2024;Caneta;29;151.8;Amapá
+17/10/2024;Caneta;80;181.42;Santa Catarina
+17/10/2024;Régua;41;123.21;Piauí
+17/10/2024;Estojo;32;5.4;Bahia
+17/10/2024;Agenda;64;146.41;Pará
+17/10/2024;Estojo;80;66.02;Goiás
+17/10/2024;Caderno;11;19.43;Rondônia
+17/10/2024;Caneta;52;100.54;São Paulo
+17/10/2024;Marcador;22;84.15;Mato Grosso do Sul
+17/10/2024;Borracha;3;188.61;Amapá
+17/10/2024;Borracha;70;190.48;Mato Grosso do Sul
+18/10/2024;Estojo;84;109.86;Rio Grande do Norte
+18/10/2024;Lápis;26;54.57;Pará
+18/10/2024;Lápis;39;134.23;Mato Grosso do Sul
+18/10/2024;Caderno;69;137.94;Maranhão
+18/10/2024;Estojo;3;179.51;Rio Grande do Norte
+18/10/2024;Borracha;39;73.26;Roraima
+19/10/2024;Lápis;45;140.8;Bahia
+19/10/2024;Caneta;42;21.29;Distrito Federal
+19/10/2024;Lápis;92;44.04;Rondônia
+19/10/2024;Marcador;68;184.41;Pernambuco
+19/10/2024;Lápis;29;153.05;Paraná
+20/10/2024;Estojo;43;133.68;Goiás
+20/10/2024;Borracha;55;155.08;Sergipe
+20/10/2024;Borracha;96;5.48;Bahia
+20/10/2024;Lápis;56;158.2;Bahia
+20/10/2024;Marcador;92;115.14;Paraná
+21/10/2024;Lápis;17;131.76;São Paulo
+21/10/2024;Marcador;73;51.21;Ceará
+21/10/2024;Agenda;86;91.14;São Paulo
+21/10/2024;Caderno;92;182.16;Ceará
+21/10/2024;Borracha;63;63.56;Mato Grosso
+21/10/2024;Régua;71;130.47;Rio Grande do Norte
+21/10/2024;Borracha;30;189.03;Bahia
+21/10/2024;Borracha;64;101.41;Maranhão
+21/10/2024;Caneta;15;50.02;Rio Grande do Sul
+21/10/2024;Borracha;15;193.82;Rio Grande do Sul
+22/10/2024;Estojo;72;64.81;Minas Gerais
+22/10/2024;Lápis;9;85.61;Alagoas
+22/10/2024;Régua;94;30.4;Piauí
+22/10/2024;Caderno;34;87.96;Distrito Federal
+22/10/2024;Borracha;97;21.47;Ceará
+22/10/2024;Caneta;30;174.34;Tocantins
+22/10/2024;Estojo;24;136.39;Rio de Janeiro
+23/10/2024;Agenda;49;170.6;Minas Gerais
+23/10/2024;Caderno;57;21.05;Espírito Santo
+23/10/2024;Caderno;47;16.86;Paraná
+23/10/2024;Régua;91;179.07;Rio Grande do Sul
+23/10/2024;Marcador;55;138.77;Bahia
+23/10/2024;Caneta;43;45.7;Mato Grosso do Sul
+23/10/2024;Estojo;71;133.3;Piauí
+23/10/2024;Marcador;73;121.6;São Paulo
+24/10/2024;Borracha;62;67.98;Bahia
+24/10/2024;Agenda;67;17.11;Rio de Janeiro
+24/10/2024;Marcador;16;122.91;Distrito Federal
+24/10/2024;Borracha;56;72.67;Alagoas
+24/10/2024;Caderno;7;54.17;Amazonas
+24/10/2024;Marcador;16;101.9;Paraíba
+24/10/2024;Caderno;43;90.76;Paraíba
+24/10/2024;Lápis;10;181.59;Distrito Federal
+24/10/2024;Caderno;94;169.35;Bahia
+25/10/2024;Lápis;70;40.48;Roraima
+25/10/2024;Régua;75;190.76;Piauí
+25/10/2024;Borracha;84;141.31;Mato Grosso
+25/10/2024;Caderno;21;59.27;Tocantins
+25/10/2024;Estojo;93;10.35;Distrito Federal
+25/10/2024;Estojo;73;146.49;Amazonas
+25/10/2024;Lápis;17;145.56;Sergipe
+25/10/2024;Marcador;7;5.94;Mato Grosso do Sul
+26/10/2024;Estojo;95;113.92;Rondônia
+26/10/2024;Caderno;58;143.39;Rio Grande do Norte
+26/10/2024;Caneta;72;125.86;Rio Grande do Norte
+26/10/2024;Régua;58;91.66;Rio Grande do Norte
+26/10/2024;Caderno;8;44.7;Rio de Janeiro
+26/10/2024;Agenda;89;128.04;Rio Grande do Norte
+26/10/2024;Estojo;45;130.06;Paraíba
+26/10/2024;Caderno;98;118.55;Sergipe
+26/10/2024;Marcador;26;131.61;Paraíba
+27/10/2024;Borracha;86;68.52;Bahia
+27/10/2024;Marcador;26;91.46;Amapá
+27/10/2024;Lápis;43;151.21;Santa Catarina
+27/10/2024;Marcador;28;35.57;Acre
+27/10/2024;Agenda;92;187.84;Distrito Federal
+27/10/2024;Marcador;57;108.92;Espírito Santo
+27/10/2024;Agenda;31;14.21;Amapá
+27/10/2024;Marcador;92;8.23;Bahia
+28/10/2024;Marcador;58;127.85;Bahia
+28/10/2024;Marcador;79;129.85;Goiás
+28/10/2024;Lápis;34;76.14;Pará
+28/10/2024;Agenda;37;132.57;Roraima
+28/10/2024;Estojo;78;183.19;Roraima
+28/10/2024;Agenda;71;26.06;Amazonas
+28/10/2024;Caderno;2;23.56;Rondônia
+28/10/2024;Borracha;97;74.39;Espírito Santo
+28/10/2024;Régua;66;67.63;Sergipe
+28/10/2024;Borracha;10;125.6;Santa Catarina
+28/10/2024;Estojo;51;68.36;Distrito Federal
+29/10/2024;Marcador;70;199.92;Santa Catarina
+29/10/2024;Agenda;66;26.75;Espírito Santo
+29/10/2024;Borracha;37;124.66;Ceará
+29/10/2024;Estojo;92;84.66;Alagoas
+29/10/2024;Estojo;77;121.23;São Paulo
+29/10/2024;Estojo;38;115.01;Minas Gerais
+29/10/2024;Borracha;48;173.36;Maranhão
+29/10/2024;Caneta;57;119.83;Rio de Janeiro
+29/10/2024;Régua;70;105.92;Mato Grosso do Sul
+29/10/2024;Marcador;46;73.18;Acre
+30/10/2024;Caderno;23;139.91;Pará
+30/10/2024;Borracha;76;62.07;Acre
+30/10/2024;Borracha;56;123.37;Espírito Santo
+30/10/2024;Caneta;69;110.19;Acre
+30/10/2024;Caderno;77;186.13;Bahia
+30/10/2024;Estojo;2;111.4;Ceará
+30/10/2024;Caneta;16;60.58;Espírito Santo
+30/10/2024;Estojo;16;84.94;Mato Grosso do Sul
+31/10/2024;Régua;87;83.97;Sergipe
+31/10/2024;Borracha;10;33.03;Santa Catarina
+31/10/2024;Marcador;78;115.71;Rio Grande do Sul
+31/10/2024;Lápis;32;195.12;Santa Catarina
+31/10/2024;Estojo;96;145.72;Maranhão
+01/11/2024;Lápis;35;88.7;Pernambuco
+01/11/2024;Borracha;69;103.25;Piauí
+01/11/2024;Marcador;92;52.73;Piauí
+01/11/2024;Régua;90;171.65;Rio de Janeiro
+01/11/2024;Caneta;93;22.48;Piauí
+02/11/2024;Marcador;74;36.13;Alagoas
+02/11/2024;Marcador;4;91.91;Rio Grande do Sul
+02/11/2024;Marcador;79;160.64;Alagoas
+02/11/2024;Caneta;49;196.39;Espírito Santo
+02/11/2024;Marcador;89;153.16;Distrito Federal
+02/11/2024;Régua;37;95.74;Bahia
+02/11/2024;Marcador;100;68.3;Mato Grosso
+03/11/2024;Caneta;30;155.94;Sergipe
+03/11/2024;Agenda;9;30.36;Pará
+03/11/2024;Marcador;24;30.18;São Paulo
+03/11/2024;Caneta;27;32.56;Ceará
+03/11/2024;Lápis;88;135.01;Piauí
+03/11/2024;Caderno;7;199.33;Paraíba
+03/11/2024;Régua;78;63.32;Rondônia
+03/11/2024;Caneta;75;50.08;Mato Grosso do Sul
+03/11/2024;Lápis;71;152.61;Minas Gerais
+03/11/2024;Lápis;76;73.89;Goiás
+03/11/2024;Caderno;13;66.78;Amapá
+03/11/2024;Lápis;76;39.31;Espírito Santo
+03/11/2024;Borracha;20;148.2;Amapá
+04/11/2024;Borracha;75;46.47;Tocantins
+04/11/2024;Agenda;68;26.95;Alagoas
+04/11/2024;Marcador;86;52.91;Amapá
+04/11/2024;Estojo;38;23.56;Distrito Federal
+04/11/2024;Estojo;80;35.9;Rio Grande do Sul
+04/11/2024;Marcador;93;177.89;Piauí
+04/11/2024;Lápis;44;11.34;Paraná
+04/11/2024;Lápis;77;150.39;Rio de Janeiro
+04/11/2024;Régua;59;112.64;Piauí
+05/11/2024;Marcador;29;100.37;Amapá
+05/11/2024;Estojo;25;47.01;Tocantins
+05/11/2024;Borracha;10;96.83;Pernambuco
+05/11/2024;Lápis;96;60.45;Paraíba
+05/11/2024;Caneta;71;138.35;Alagoas
+05/11/2024;Caneta;86;96.7;Rondônia
+05/11/2024;Lápis;95;56.73;Minas Gerais
+05/11/2024;Caderno;42;63.68;Roraima
+05/11/2024;Caderno;76;37.09;Santa Catarina
+05/11/2024;Caneta;91;120.21;São Paulo
+05/11/2024;Régua;29;189.44;Bahia
+06/11/2024;Régua;37;21.18;Rondônia
+06/11/2024;Estojo;56;27.13;Goiás
+06/11/2024;Borracha;98;22.73;Distrito Federal
+06/11/2024;Agenda;25;160.94;Amazonas
+06/11/2024;Borracha;75;66.75;Paraíba
+06/11/2024;Caderno;43;79.2;Paraná
+06/11/2024;Agenda;83;31.3;Tocantins
+06/11/2024;Caneta;67;56.02;Amapá
+06/11/2024;Régua;75;52.92;Sergipe
+06/11/2024;Lápis;42;88.88;São Paulo
+06/11/2024;Lápis;43;43.11;Goiás
+06/11/2024;Lápis;89;178.05;Amapá
+06/11/2024;Caneta;8;42.76;Rio Grande do Sul
+06/11/2024;Borracha;37;46.71;Rio de Janeiro
+07/11/2024;Régua;50;8.91;Bahia
+07/11/2024;Lápis;73;82.4;Mato Grosso do Sul
+07/11/2024;Marcador;17;167.97;Mato Grosso
+07/11/2024;Caderno;7;139.41;Goiás
+07/11/2024;Caneta;8;104.31;Tocantins
+07/11/2024;Régua;37;61.38;Acre
+07/11/2024;Agenda;75;189.28;Espírito Santo
+07/11/2024;Lápis;37;116;São Paulo
+07/11/2024;Estojo;90;41.73;Piauí
+07/11/2024;Lápis;18;7.63;Rio de Janeiro
+07/11/2024;Caderno;38;24.17;Rio de Janeiro
+07/11/2024;Caderno;90;50.89;Goiás
+07/11/2024;Borracha;87;41.07;Ceará
+08/11/2024;Caneta;2;157.6;Espírito Santo
+08/11/2024;Agenda;98;30.04;Mato Grosso
+08/11/2024;Estojo;47;74.1;São Paulo
+08/11/2024;Estojo;25;15.37;Rondônia
+08/11/2024;Agenda;8;124.76;Piauí
+08/11/2024;Caneta;38;157.65;Piauí
+08/11/2024;Marcador;49;66.95;Acre
+08/11/2024;Borracha;32;73.37;Rio de Janeiro
+09/11/2024;Agenda;25;6.88;Sergipe
+09/11/2024;Marcador;75;175.77;Bahia
+09/11/2024;Borracha;45;122.06;Amazonas
+09/11/2024;Lápis;100;190.23;Mato Grosso
+09/11/2024;Estojo;39;117.92;Tocantins
+10/11/2024;Agenda;72;159.22;Espírito Santo
+10/11/2024;Agenda;16;28.92;Espírito Santo
+10/11/2024;Caneta;56;45.5;Amazonas
+10/11/2024;Estojo;44;57.04;Espírito Santo
+10/11/2024;Caderno;14;159.61;Rio Grande do Sul
+11/11/2024;Régua;33;126.15;Rio de Janeiro
+11/11/2024;Lápis;31;185.42;Acre
+11/11/2024;Marcador;87;60.65;Rio Grande do Norte
+11/11/2024;Estojo;44;45.58;Amazonas
+11/11/2024;Lápis;94;64.66;Paraná
+11/11/2024;Marcador;94;189.47;São Paulo
+11/11/2024;Estojo;71;194.89;Rio Grande do Sul
+11/11/2024;Agenda;45;54.85;Distrito Federal
+11/11/2024;Régua;68;199.53;Paraná
+11/11/2024;Borracha;15;188.45;Minas Gerais
+11/11/2024;Estojo;35;162.57;Amapá
+12/11/2024;Caderno;40;83.76;Paraíba
+12/11/2024;Agenda;5;47.28;Mato Grosso do Sul
+12/11/2024;Marcador;66;23.1;Amapá
+12/11/2024;Caneta;84;114.66;Espírito Santo
+12/11/2024;Régua;49;109.71;Piauí
+12/11/2024;Agenda;96;199.85;Amapá
+12/11/2024;Caneta;16;50.7;Amazonas
+13/11/2024;Caneta;36;65.86;Goiás
+13/11/2024;Marcador;23;144.72;Bahia
+13/11/2024;Marcador;41;80.24;Goiás
+13/11/2024;Marcador;77;76.96;Rondônia
+13/11/2024;Estojo;19;97.93;Sergipe
+13/11/2024;Estojo;70;189.65;Rondônia
+13/11/2024;Lápis;90;195.78;Rio Grande do Sul
+13/11/2024;Régua;65;138.4;Rio Grande do Norte
+13/11/2024;Caderno;55;106.94;Sergipe
+14/11/2024;Caderno;32;116.75;Bahia
+14/11/2024;Agenda;35;87.97;Paraíba
+14/11/2024;Caderno;40;41.32;Espírito Santo
+14/11/2024;Marcador;17;144.13;Amapá
+14/11/2024;Régua;39;75.99;Ceará
+14/11/2024;Caneta;55;95.25;Piauí
+14/11/2024;Caneta;33;32.93;Distrito Federal
+15/11/2024;Borracha;86;137.56;Goiás
+15/11/2024;Marcador;61;192.69;Ceará
+15/11/2024;Estojo;96;194.31;Ceará
+15/11/2024;Caderno;61;120.21;Bahia
+15/11/2024;Lápis;24;122.99;Amazonas
+15/11/2024;Lápis;55;160.69;Santa Catarina
+15/11/2024;Agenda;40;68.89;Rio Grande do Norte
+15/11/2024;Marcador;69;71.68;Pará
+15/11/2024;Estojo;51;131.14;Ceará
+15/11/2024;Marcador;23;5.99;Distrito Federal
+15/11/2024;Agenda;89;162.18;Santa Catarina
+16/11/2024;Marcador;25;148.13;Espírito Santo
+16/11/2024;Borracha;62;130.35;Rio Grande do Sul
+16/11/2024;Lápis;59;20.62;Minas Gerais
+16/11/2024;Agenda;92;21.37;Amazonas
+16/11/2024;Régua;88;102.82;São Paulo
+16/11/2024;Caneta;100;156.05;Espírito Santo
+16/11/2024;Caderno;17;136.26;Espírito Santo
+16/11/2024;Lápis;60;18.48;Espírito Santo
+16/11/2024;Caderno;48;167.46;Pernambuco
+16/11/2024;Régua;50;174.01;Pará
+16/11/2024;Lápis;46;114.2;São Paulo
+16/11/2024;Lápis;99;10.03;Rio Grande do Sul
+17/11/2024;Marcador;50;59.83;Rio Grande do Sul
+17/11/2024;Borracha;37;156.51;Ceará
+17/11/2024;Agenda;71;98.65;Distrito Federal
+17/11/2024;Marcador;30;85.34;Santa Catarina
+17/11/2024;Estojo;21;104.96;Pernambuco
+17/11/2024;Caderno;80;80.58;Piauí
+17/11/2024;Caderno;64;184.99;Espírito Santo
+17/11/2024;Lápis;20;112.36;São Paulo
+17/11/2024;Borracha;64;37.54;Amazonas
+17/11/2024;Caderno;53;84.02;Santa Catarina
+18/11/2024;Agenda;22;36.83;Tocantins
+18/11/2024;Lápis;23;60.7;Paraíba
+18/11/2024;Caderno;21;180.14;Rondônia
+18/11/2024;Estojo;82;124.99;Acre
+18/11/2024;Estojo;15;25.26;Pernambuco
+18/11/2024;Lápis;21;131.23;Acre
+18/11/2024;Borracha;38;111.34;Espírito Santo
+18/11/2024;Régua;31;155;Acre
+18/11/2024;Agenda;43;51.18;Mato Grosso
+18/11/2024;Estojo;7;95.04;Paraíba
+19/11/2024;Marcador;18;125.1;Ceará
+19/11/2024;Marcador;13;158.82;Goiás
+19/11/2024;Régua;53;44.1;Rio Grande do Norte
+19/11/2024;Régua;34;159.97;Rio Grande do Sul
+19/11/2024;Borracha;7;144.81;Amapá
+19/11/2024;Caneta;44;156.64;Minas Gerais
+19/11/2024;Lápis;47;163.85;Mato Grosso
+19/11/2024;Régua;73;58.74;Rio de Janeiro
+19/11/2024;Borracha;8;132.6;Paraíba
+19/11/2024;Caderno;66;107.88;Paraná
+19/11/2024;Marcador;75;34.64;Distrito Federal
+19/11/2024;Marcador;43;123.25;Rio Grande do Sul
+19/11/2024;Régua;87;45.62;Acre
+20/11/2024;Régua;44;43.89;Minas Gerais
+20/11/2024;Lápis;86;15.69;Tocantins
+20/11/2024;Caderno;90;108.49;Acre
+20/11/2024;Régua;6;185.13;Bahia
+20/11/2024;Marcador;57;80.29;Roraima
+20/11/2024;Agenda;34;154.82;Santa Catarina
+20/11/2024;Estojo;83;38.93;Goiás
+20/11/2024;Caneta;97;67.18;Santa Catarina
+20/11/2024;Caderno;67;66.78;Mato Grosso do Sul
+20/11/2024;Agenda;28;5.59;Paraná
+20/11/2024;Agenda;99;44.96;Mato Grosso
+20/11/2024;Borracha;45;163.73;Roraima
+20/11/2024;Borracha;71;39.42;Espírito Santo
+21/11/2024;Borracha;45;133.48;Rondônia
+21/11/2024;Régua;96;175.08;Goiás
+21/11/2024;Marcador;72;193.67;Distrito Federal
+21/11/2024;Borracha;79;62.24;Paraíba
+21/11/2024;Agenda;8;102.16;Pará
+21/11/2024;Caderno;19;18.55;Ceará
+21/11/2024;Marcador;54;86.11;Espírito Santo
+21/11/2024;Agenda;54;157;Mato Grosso
+21/11/2024;Caneta;56;67.85;Rondônia
+21/11/2024;Agenda;21;151.63;Mato Grosso do Sul
+21/11/2024;Caneta;12;142.1;São Paulo
+21/11/2024;Borracha;51;57.64;Rio Grande do Norte
+21/11/2024;Caderno;50;84.83;Espírito Santo
+21/11/2024;Estojo;8;67.18;Tocantins
+22/11/2024;Régua;45;185.23;Pernambuco
+22/11/2024;Marcador;8;127.05;Ceará
+22/11/2024;Marcador;9;9.62;São Paulo
+22/11/2024;Régua;2;151.51;Bahia
+22/11/2024;Caneta;73;70.51;Bahia
+23/11/2024;Lápis;61;147.64;Alagoas
+23/11/2024;Borracha;78;21.83;Santa Catarina
+23/11/2024;Régua;31;104.56;Amazonas
+23/11/2024;Estojo;63;50.89;Ceará
+23/11/2024;Borracha;26;126.02;Santa Catarina
+23/11/2024;Agenda;75;6.21;Piauí
+24/11/2024;Borracha;94;149.04;Santa Catarina
+24/11/2024;Borracha;48;187.74;Rondônia
+24/11/2024;Régua;30;111.33;Mato Grosso do Sul
+24/11/2024;Lápis;81;118.07;Rio de Janeiro
+24/11/2024;Estojo;82;27.17;Amapá
+24/11/2024;Marcador;89;153.01;Rio de Janeiro
+25/11/2024;Régua;75;163.88;Piauí
+25/11/2024;Estojo;9;128.19;Goiás
+25/11/2024;Agenda;91;189.42;Distrito Federal
+25/11/2024;Lápis;3;39.68;Mato Grosso
+25/11/2024;Marcador;53;15.86;Ceará
+25/11/2024;Lápis;85;172.73;Roraima
+25/11/2024;Régua;62;126.39;Goiás
+25/11/2024;Borracha;12;9.55;Roraima
+25/11/2024;Marcador;53;13.66;Espírito Santo
+25/11/2024;Agenda;5;12.47;Rio Grande do Sul
+25/11/2024;Lápis;80;112.27;Paraná
+25/11/2024;Régua;34;52.58;São Paulo
+26/11/2024;Agenda;38;191.92;Sergipe
+26/11/2024;Agenda;93;116.13;Espírito Santo
+26/11/2024;Lápis;4;130.89;Mato Grosso
+26/11/2024;Agenda;57;61.62;Mato Grosso
+26/11/2024;Agenda;77;45.97;Alagoas
+26/11/2024;Marcador;73;70.9;Paraná
+26/11/2024;Borracha;8;25.3;Alagoas
+26/11/2024;Agenda;36;177.39;Rio Grande do Sul
+26/11/2024;Marcador;90;7.7;Acre
+26/11/2024;Estojo;64;199.85;Rio de Janeiro
+26/11/2024;Caneta;13;34.18;Amazonas
+26/11/2024;Régua;48;38.96;Roraima
+26/11/2024;Caneta;73;143.42;Acre
+26/11/2024;Lápis;37;84.7;Amazonas
+26/11/2024;Marcador;27;21.64;Minas Gerais
+27/11/2024;Estojo;70;61.27;Ceará
+27/11/2024;Lápis;97;197.7;Minas Gerais
+27/11/2024;Caneta;73;195.06;São Paulo
+27/11/2024;Estojo;27;137.05;Minas Gerais
+27/11/2024;Marcador;34;99.81;Maranhão
+27/11/2024;Agenda;93;32.14;Ceará
+27/11/2024;Estojo;47;57.79;Amazonas
+27/11/2024;Estojo;33;143.41;Sergipe
+27/11/2024;Régua;55;195.36;Rondônia
+27/11/2024;Régua;27;172.4;Rio Grande do Sul
+27/11/2024;Caneta;7;17.57;Santa Catarina
+27/11/2024;Lápis;94;59.45;Sergipe
+27/11/2024;Lápis;39;114.08;Minas Gerais
+27/11/2024;Caderno;67;57.34;Rio Grande do Norte
+27/11/2024;Caneta;23;85.13;São Paulo
+28/11/2024;Borracha;100;135.73;Sergipe
+28/11/2024;Caderno;33;13.89;Mato Grosso do Sul
+28/11/2024;Borracha;91;119.87;Mato Grosso
+28/11/2024;Caneta;69;10.56;Tocantins
+28/11/2024;Caneta;21;69.74;Espírito Santo
+28/11/2024;Caderno;80;199.39;Pernambuco
+28/11/2024;Estojo;50;87.15;Roraima
+28/11/2024;Estojo;17;163.53;Bahia
+28/11/2024;Estojo;64;104.81;Alagoas
+28/11/2024;Marcador;70;129.58;Maranhão
+28/11/2024;Borracha;20;6.04;Amazonas
+28/11/2024;Caderno;40;81.23;Bahia
+28/11/2024;Caneta;53;37.09;Rio Grande do Sul
+28/11/2024;Marcador;48;174.05;Acre
+28/11/2024;Borracha;86;145.06;Alagoas
+29/11/2024;Estojo;97;88.02;Tocantins
+29/11/2024;Caderno;23;175.92;Mato Grosso
+29/11/2024;Caderno;55;81.16;Rondônia
+29/11/2024;Marcador;49;47.39;Mato Grosso
+29/11/2024;Marcador;47;91.15;Santa Catarina
+29/11/2024;Lápis;42;135.78;Maranhão
+29/11/2024;Régua;42;8.71;Sergipe
+29/11/2024;Caderno;52;116.31;Piauí
+29/11/2024;Borracha;47;135.33;Rio Grande do Norte
+29/11/2024;Marcador;4;20.21;Rio de Janeiro
+29/11/2024;Lápis;15;197.88;Mato Grosso do Sul
+30/11/2024;Lápis;16;174.42;Alagoas
+30/11/2024;Estojo;19;114;Bahia
+30/11/2024;Marcador;77;156.7;Amazonas
+30/11/2024;Agenda;73;101.25;Roraima
+30/11/2024;Caneta;100;60.68;Distrito Federal
+30/11/2024;Régua;39;32.77;Rio Grande do Sul
+30/11/2024;Caderno;39;6.93;Distrito Federal
+30/11/2024;Borracha;34;41.69;Maranhão
+30/11/2024;Agenda;30;34.68;Distrito Federal
+30/11/2024;Régua;23;152.52;Rio Grande do Norte
+30/11/2024;Lápis;8;137.29;Rio de Janeiro
+30/11/2024;Estojo;72;161.63;Piauí
+01/12/2024;Régua;56;75.25;Paraíba
+01/12/2024;Régua;23;118.42;Acre
+01/12/2024;Lápis;46;52.61;Pará
+01/12/2024;Lápis;50;154.41;Pernambuco
+01/12/2024;Caneta;34;45.83;Piauí
+01/12/2024;Lápis;20;84.56;Minas Gerais
+01/12/2024;Borracha;19;196.96;Espírito Santo
+01/12/2024;Caneta;21;185.84;Mato Grosso do Sul
+01/12/2024;Lápis;57;190.34;Minas Gerais
+01/12/2024;Caneta;54;88.59;Rio Grande do Sul
+01/12/2024;Marcador;23;17.03;Goiás
+01/12/2024;Caneta;79;47.88;Tocantins
+02/12/2024;Estojo;65;66.63;Goiás
+02/12/2024;Caderno;67;130.22;Ceará
+02/12/2024;Estojo;85;24.45;São Paulo
+02/12/2024;Agenda;40;191.47;Mato Grosso do Sul
+02/12/2024;Caderno;82;166.87;Minas Gerais
+03/12/2024;Régua;23;32.58;São Paulo
+03/12/2024;Estojo;56;138.54;Rondônia
+03/12/2024;Régua;83;191.34;Santa Catarina
+03/12/2024;Régua;98;193.91;Espírito Santo
+03/12/2024;Lápis;3;119.34;Maranhão
+03/12/2024;Borracha;23;64.88;Bahia
+03/12/2024;Agenda;9;87.6;Maranhão
+03/12/2024;Marcador;95;43.27;Distrito Federal
+03/12/2024;Caderno;5;82.04;Rio Grande do Norte
+03/12/2024;Régua;91;194.59;Roraima
+04/12/2024;Caneta;31;181.5;Amapá
+04/12/2024;Régua;52;19.09;Paraíba
+04/12/2024;Agenda;68;14.5;Amazonas
+04/12/2024;Marcador;6;117.14;Goiás
+04/12/2024;Borracha;82;176.22;Tocantins
+04/12/2024;Estojo;48;74.82;Goiás
+04/12/2024;Caderno;68;17.76;Amazonas
+05/12/2024;Agenda;82;152.18;Roraima
+05/12/2024;Caneta;89;74.12;Ceará
+05/12/2024;Lápis;67;194.19;Ceará
+05/12/2024;Caderno;89;104.76;Rondônia
+05/12/2024;Régua;40;65.71;Amapá
+05/12/2024;Estojo;74;172.39;Piauí
+05/12/2024;Borracha;18;36.32;Tocantins
+05/12/2024;Lápis;56;16.05;Maranhão
+05/12/2024;Agenda;17;54.66;Rondônia
+05/12/2024;Lápis;22;128.52;Piauí
+05/12/2024;Estojo;100;195.86;Mato Grosso do Sul
+05/12/2024;Caderno;85;77.67;Pernambuco
+06/12/2024;Régua;17;19.54;Rio de Janeiro
+06/12/2024;Lápis;16;62.4;Distrito Federal
+06/12/2024;Caderno;49;73.71;Rondônia
+06/12/2024;Lápis;70;14.7;Goiás
+06/12/2024;Lápis;31;130.08;Rondônia
+06/12/2024;Estojo;47;91.72;Pará
+06/12/2024;Estojo;41;132.23;Tocantins
+06/12/2024;Lápis;50;167.17;Rio Grande do Sul
+06/12/2024;Lápis;76;133.61;Rio Grande do Sul
+06/12/2024;Borracha;70;75.76;Acre
+06/12/2024;Lápis;59;81.33;Espírito Santo
+06/12/2024;Lápis;39;30.85;Distrito Federal
+06/12/2024;Marcador;30;52.01;Rio Grande do Sul
+07/12/2024;Caderno;34;116.99;Bahia
+07/12/2024;Régua;42;52.01;Bahia
+07/12/2024;Caneta;15;175.6;Rondônia
+07/12/2024;Estojo;17;130.91;Bahia
+07/12/2024;Agenda;85;169.24;Piauí
+08/12/2024;Borracha;54;151.14;Santa Catarina
+08/12/2024;Régua;1;70.87;Paraíba
+08/12/2024;Estojo;56;107.42;Acre
+08/12/2024;Caderno;10;162.04;Minas Gerais
+08/12/2024;Régua;49;73.84;Goiás
+08/12/2024;Lápis;10;45.31;Sergipe
+09/12/2024;Estojo;19;36.23;Bahia
+09/12/2024;Estojo;71;118.02;Piauí
+09/12/2024;Borracha;4;184.96;Sergipe
+09/12/2024;Régua;83;50.36;Ceará
+09/12/2024;Caderno;87;165.13;Bahia
+09/12/2024;Estojo;30;103.07;Mato Grosso do Sul
+09/12/2024;Caneta;7;150.41;Amazonas
+09/12/2024;Borracha;56;61.46;Rio Grande do Norte
+09/12/2024;Estojo;72;86.06;Sergipe
+10/12/2024;Lápis;27;40.08;Distrito Federal
+10/12/2024;Marcador;39;182.13;Espírito Santo
+10/12/2024;Marcador;65;74;Minas Gerais
+10/12/2024;Marcador;33;129.55;Pernambuco
+10/12/2024;Marcador;92;168.33;Distrito Federal
+10/12/2024;Régua;16;34.65;Sergipe
+11/12/2024;Caderno;94;131.88;Amazonas
+11/12/2024;Caderno;12;175.25;Amazonas
+11/12/2024;Agenda;44;20.21;Rio Grande do Sul
+11/12/2024;Agenda;77;13.19;Mato Grosso
+11/12/2024;Régua;9;52.94;Espírito Santo
+12/12/2024;Marcador;31;27.13;Acre
+12/12/2024;Marcador;56;56.18;Mato Grosso do Sul
+12/12/2024;Agenda;85;51.66;Roraima
+12/12/2024;Régua;18;117.1;Piauí
+12/12/2024;Régua;92;159.66;Ceará
+12/12/2024;Borracha;90;93.55;Tocantins
+13/12/2024;Lápis;15;134.78;Rio de Janeiro
+13/12/2024;Régua;46;5.72;Goiás
+13/12/2024;Marcador;28;155.92;Rondônia
+13/12/2024;Caneta;19;38.66;Rio Grande do Sul
+13/12/2024;Caneta;74;117.56;Pará
+13/12/2024;Caneta;100;18.83;Mato Grosso do Sul
+13/12/2024;Caderno;11;128.34;Roraima
+13/12/2024;Agenda;41;119.75;Santa Catarina
+13/12/2024;Estojo;57;64.18;Sergipe
+13/12/2024;Caneta;80;196.6;São Paulo
+13/12/2024;Marcador;51;160.67;Rio Grande do Norte
+13/12/2024;Marcador;94;151.34;Paraíba
+13/12/2024;Régua;10;196.54;Goiás
+13/12/2024;Estojo;58;170.52;Minas Gerais
+14/12/2024;Lápis;9;131.04;Maranhão
+14/12/2024;Marcador;20;145.37;São Paulo
+14/12/2024;Caneta;14;172.99;Goiás
+14/12/2024;Lápis;95;116.4;Santa Catarina
+14/12/2024;Marcador;61;31.66;Rondônia
+15/12/2024;Marcador;25;165.09;Pará
+15/12/2024;Lápis;36;26.69;Espírito Santo
+15/12/2024;Borracha;23;166.79;Goiás
+15/12/2024;Estojo;28;163.19;Goiás
+15/12/2024;Estojo;19;8.09;Amazonas
+15/12/2024;Lápis;67;167.85;Amazonas
+15/12/2024;Régua;79;68.89;Rio Grande do Norte
+15/12/2024;Marcador;96;31.92;Ceará
+15/12/2024;Borracha;85;174.41;Santa Catarina
+15/12/2024;Borracha;17;55.63;Bahia
+16/12/2024;Marcador;75;19.78;Pará
+16/12/2024;Régua;12;70.06;Mato Grosso
+16/12/2024;Régua;17;129.35;Tocantins
+16/12/2024;Lápis;33;86.15;Amazonas
+16/12/2024;Caneta;17;132.72;Mato Grosso do Sul
+16/12/2024;Estojo;97;88.05;Ceará
+16/12/2024;Borracha;69;18.76;Mato Grosso do Sul
+16/12/2024;Caderno;56;144;Bahia
+16/12/2024;Caneta;69;153.04;Mato Grosso do Sul
+16/12/2024;Borracha;33;175.39;Alagoas
+16/12/2024;Caderno;54;112.86;Distrito Federal
+16/12/2024;Marcador;92;195.38;Minas Gerais
+16/12/2024;Caneta;44;62.66;Rio de Janeiro
+16/12/2024;Lápis;37;65.44;Amapá
+17/12/2024;Lápis;69;147.59;São Paulo
+17/12/2024;Caderno;79;137.64;Amazonas
+17/12/2024;Lápis;73;142.01;Sergipe
+17/12/2024;Caderno;68;180.46;Distrito Federal
+17/12/2024;Borracha;54;50.77;Amazonas
+17/12/2024;Estojo;99;104.03;Ceará
+17/12/2024;Borracha;21;103.73;Distrito Federal
+17/12/2024;Agenda;64;80.6;Alagoas
+17/12/2024;Agenda;73;190.72;Pernambuco
+18/12/2024;Caneta;58;178.29;Acre
+18/12/2024;Caneta;71;132.3;Paraíba
+18/12/2024;Caderno;18;165.31;Roraima
+18/12/2024;Caderno;30;72.84;Rio Grande do Sul
+18/12/2024;Lápis;93;27.09;Goiás
+19/12/2024;Caneta;86;22.73;Goiás
+19/12/2024;Marcador;21;168.56;Rio Grande do Norte
+19/12/2024;Caderno;90;128.54;Ceará
+19/12/2024;Estojo;29;62.05;Bahia
+19/12/2024;Agenda;31;165.76;Amazonas
+19/12/2024;Borracha;30;172.59;Paraná
+19/12/2024;Agenda;75;103.39;Pará
+19/12/2024;Caderno;96;94.97;Mato Grosso do Sul
+20/12/2024;Marcador;40;77.91;Rondônia
+20/12/2024;Estojo;49;149;Ceará
+20/12/2024;Régua;20;195.04;Piauí
+20/12/2024;Borracha;40;117.69;Distrito Federal
+20/12/2024;Borracha;39;176.63;Rondônia
+20/12/2024;Estojo;32;46.39;Goiás
+20/12/2024;Estojo;93;84.08;Pernambuco
+20/12/2024;Borracha;10;147.4;Mato Grosso
+20/12/2024;Lápis;65;107.76;Roraima
+21/12/2024;Marcador;25;123.25;Santa Catarina
+21/12/2024;Estojo;52;21.22;Tocantins
+21/12/2024;Estojo;24;154.06;Espírito Santo
+21/12/2024;Borracha;29;24.83;Santa Catarina
+21/12/2024;Lápis;19;68.33;Rio Grande do Norte
+21/12/2024;Caderno;42;121.88;Ceará
+22/12/2024;Borracha;64;91.43;Paraná
+22/12/2024;Caneta;55;132.4;Distrito Federal
+22/12/2024;Estojo;96;46.35;Minas Gerais
+22/12/2024;Borracha;53;178.51;Santa Catarina
+22/12/2024;Lápis;44;114.31;Roraima
+22/12/2024;Agenda;10;114.11;Bahia
+22/12/2024;Borracha;32;142.71;Ceará
+22/12/2024;Agenda;81;173.21;Distrito Federal
+22/12/2024;Lápis;39;7.08;Amapá
+22/12/2024;Caneta;43;146.24;Rio Grande do Norte
+22/12/2024;Lápis;31;156.15;Roraima
+22/12/2024;Estojo;32;113.31;Minas Gerais
+22/12/2024;Régua;91;188.98;Sergipe
+22/12/2024;Lápis;82;31.51;Sergipe
+23/12/2024;Borracha;61;196.63;Pernambuco
+23/12/2024;Marcador;74;43.03;Rio de Janeiro
+23/12/2024;Caderno;46;24.41;Tocantins
+23/12/2024;Caneta;58;9.33;Espírito Santo
+23/12/2024;Caneta;76;12.67;Amapá
+23/12/2024;Caneta;47;72.8;Paraná
+23/12/2024;Caderno;81;110;Alagoas
+23/12/2024;Marcador;89;129.38;Rio de Janeiro
+23/12/2024;Caneta;73;120.93;Sergipe
+23/12/2024;Régua;16;133.96;Rio Grande do Norte
+23/12/2024;Marcador;86;119.82;Minas Gerais
+23/12/2024;Lápis;25;86.02;Pernambuco
+23/12/2024;Lápis;36;51.96;Goiás
+24/12/2024;Caneta;31;118.13;Amazonas
+24/12/2024;Estojo;19;109.99;Distrito Federal
+24/12/2024;Agenda;41;58.43;Amazonas
+24/12/2024;Borracha;75;34.25;Piauí
+24/12/2024;Lápis;33;154.01;Pernambuco
+24/12/2024;Marcador;42;102.06;Pernambuco
+24/12/2024;Agenda;93;164;Santa Catarina
+24/12/2024;Marcador;17;60.48;Rio Grande do Sul
+25/12/2024;Lápis;7;9.55;Minas Gerais
+25/12/2024;Estojo;23;25.33;Piauí
+25/12/2024;Estojo;16;141.87;Mato Grosso
+25/12/2024;Régua;14;157.82;Mato Grosso do Sul
+25/12/2024;Estojo;42;71.62;Pará
+25/12/2024;Marcador;60;89.39;Rio de Janeiro
+26/12/2024;Lápis;53;193.57;Minas Gerais
+26/12/2024;Borracha;17;109.71;Amazonas
+26/12/2024;Lápis;61;73.58;Mato Grosso
+26/12/2024;Borracha;12;44.23;Espírito Santo
+26/12/2024;Caderno;41;33.38;Ceará
+26/12/2024;Régua;63;173.5;Bahia
+26/12/2024;Lápis;45;86.27;Rio Grande do Norte
+26/12/2024;Borracha;81;168.15;Rondônia
+26/12/2024;Caderno;5;57.71;Santa Catarina
+26/12/2024;Marcador;64;30.08;Tocantins
+26/12/2024;Caderno;83;74.09;Espírito Santo
+26/12/2024;Régua;14;79.52;Amazonas
+26/12/2024;Marcador;99;164.6;Mato Grosso
+27/12/2024;Marcador;63;38.57;Minas Gerais
+27/12/2024;Estojo;78;102.39;Mato Grosso
+27/12/2024;Régua;70;171.31;Paraná
+27/12/2024;Estojo;76;11.29;Maranhão
+27/12/2024;Agenda;100;78.97;Mato Grosso
+27/12/2024;Caneta;29;25.7;Sergipe
+27/12/2024;Borracha;58;148.37;Rio de Janeiro
+27/12/2024;Caneta;18;67.11;Santa Catarina
+27/12/2024;Borracha;97;45.41;Rio de Janeiro
+27/12/2024;Estojo;74;67.75;Minas Gerais
+27/12/2024;Régua;96;172.89;Rio Grande do Sul
+27/12/2024;Caderno;50;134.85;Tocantins
+27/12/2024;Borracha;30;163.77;Roraima
+28/12/2024;Estojo;26;120.37;Roraima
+28/12/2024;Borracha;14;130.14;Paraná
+28/12/2024;Régua;76;24.74;Mato Grosso
+28/12/2024;Régua;45;136.7;Mato Grosso
+28/12/2024;Agenda;18;137.61;Amapá
+28/12/2024;Estojo;43;158.81;Rondônia
+28/12/2024;Lápis;19;47;Amapá
+28/12/2024;Agenda;80;115.52;Rio Grande do Sul
+28/12/2024;Lápis;31;22.14;Bahia
+28/12/2024;Borracha;39;198.29;Paraná
+28/12/2024;Agenda;34;181.56;Rio Grande do Norte
+28/12/2024;Borracha;92;18.68;Mato Grosso
+28/12/2024;Caneta;87;189.85;Paraná
+28/12/2024;Marcador;79;47.39;Rio Grande do Sul
+28/12/2024;Caneta;19;94.55;Maranhão
+29/12/2024;Lápis;86;84.97;Mato Grosso
+29/12/2024;Caderno;95;131.17;Bahia
+29/12/2024;Caderno;81;112.61;Roraima
+29/12/2024;Régua;57;92.35;Ceará
+29/12/2024;Lápis;89;157.52;Alagoas
+29/12/2024;Lápis;40;120.9;Roraima
+29/12/2024;Agenda;70;42.5;Sergipe
+29/12/2024;Borracha;27;68.74;Mato Grosso
+30/12/2024;Caneta;56;171.15;Roraima
+30/12/2024;Estojo;30;46.86;Goiás
+30/12/2024;Caneta;78;111.31;Santa Catarina
+30/12/2024;Agenda;56;60.87;Santa Catarina
+30/12/2024;Régua;39;56.39;Mato Grosso
+30/12/2024;Marcador;85;83.32;Paraíba
+30/12/2024;Caderno;52;71.7;Amapá
+30/12/2024;Caderno;72;126.89;Maranhão
+30/12/2024;Marcador;96;117.1;Rio Grande do Norte
+31/12/2024;Caderno;13;44.24;Minas Gerais
+31/12/2024;Estojo;11;101.02;Sergipe
+31/12/2024;Marcador;38;29.13;Ceará
+31/12/2024;Caderno;78;32.65;Roraima
+31/12/2024;Marcador;97;143.41;Amazonas
+01/01/2025;Borracha;56;129.73;Rio Grande do Sul
+01/01/2025;Borracha;35;155.76;Tocantins
+01/01/2025;Caderno;39;32.82;Ceará
+01/01/2025;Caneta;5;109.54;Minas Gerais
+01/01/2025;Régua;75;12.83;Roraima
+02/01/2025;Marcador;33;38.28;Mato Grosso
+02/01/2025;Caneta;3;181.7;Mato Grosso do Sul
+02/01/2025;Agenda;43;87.5;Mato Grosso do Sul
+02/01/2025;Caderno;20;190.6;Rio de Janeiro
+02/01/2025;Lápis;53;149.18;Ceará
+02/01/2025;Borracha;63;112.75;Distrito Federal
+02/01/2025;Lápis;8;145.57;Espírito Santo
+02/01/2025;Marcador;11;118.56;Amazonas
+02/01/2025;Marcador;21;125.78;São Paulo
+02/01/2025;Agenda;77;189.07;Amapá
+02/01/2025;Régua;76;96.38;Ceará
+02/01/2025;Agenda;81;54.37;Paraná
+02/01/2025;Borracha;51;14.55;Paraná
+02/01/2025;Lápis;40;59.22;Pernambuco
+02/01/2025;Régua;98;184.92;Roraima
+03/01/2025;Régua;49;17.55;Rio Grande do Norte
+03/01/2025;Marcador;51;34.6;Roraima
+03/01/2025;Estojo;72;196.79;Distrito Federal
+03/01/2025;Marcador;34;93.42;São Paulo
+03/01/2025;Régua;30;54.62;Sergipe
+04/01/2025;Caderno;92;181.97;Paraná
+04/01/2025;Estojo;5;130.07;Rio Grande do Norte
+04/01/2025;Régua;10;118.03;Amapá
+04/01/2025;Caderno;99;115.25;Sergipe
+04/01/2025;Marcador;48;66.75;Amapá
+04/01/2025;Régua;16;55.57;Roraima
+05/01/2025;Marcador;17;117.43;Paraíba
+05/01/2025;Agenda;30;133.6;Tocantins
+05/01/2025;Marcador;56;13.94;Santa Catarina
+05/01/2025;Caneta;83;70.9;Pará
+05/01/2025;Caneta;77;8.06;Maranhão
+05/01/2025;Borracha;54;81.12;Minas Gerais
+05/01/2025;Marcador;59;72.83;Pernambuco
+05/01/2025;Régua;89;52.19;Santa Catarina
+05/01/2025;Marcador;94;93.15;Pernambuco
+05/01/2025;Estojo;12;102.56;Pernambuco
+05/01/2025;Borracha;64;118.49;Amazonas
+05/01/2025;Agenda;8;102.46;Bahia
+05/01/2025;Agenda;72;133.57;Pará
+06/01/2025;Borracha;20;42.36;Rio Grande do Norte
+06/01/2025;Borracha;5;150.35;Tocantins
+06/01/2025;Estojo;48;62.82;Rio Grande do Sul
+06/01/2025;Lápis;63;169.47;Distrito Federal
+06/01/2025;Lápis;43;120.62;Distrito Federal
+06/01/2025;Agenda;23;168.52;Alagoas
+06/01/2025;Agenda;47;109.21;Minas Gerais
+06/01/2025;Lápis;45;71.63;Roraima
+06/01/2025;Estojo;37;191.26;Alagoas
+06/01/2025;Caneta;2;116.84;Pernambuco
+06/01/2025;Régua;29;32.21;Sergipe
+06/01/2025;Agenda;5;120.11;Maranhão
+07/01/2025;Agenda;78;99.82;Amapá
+07/01/2025;Lápis;49;59.91;Pará
+07/01/2025;Borracha;7;65.78;Maranhão
+07/01/2025;Borracha;24;135.29;Paraíba
+07/01/2025;Caderno;44;187.77;Pernambuco
+07/01/2025;Régua;71;120.64;Goiás
+07/01/2025;Lápis;14;116.91;Distrito Federal
+07/01/2025;Caneta;80;97.72;São Paulo
+07/01/2025;Caderno;37;44.16;Amapá
+08/01/2025;Lápis;28;121.91;Maranhão
+08/01/2025;Régua;85;132.35;Pará
+08/01/2025;Marcador;1;197.66;Pernambuco
+08/01/2025;Marcador;49;77.73;Alagoas
+08/01/2025;Borracha;44;23.5;Mato Grosso do Sul
+08/01/2025;Estojo;85;156.8;Goiás
+08/01/2025;Borracha;99;64.08;Rio de Janeiro
+08/01/2025;Borracha;50;119.62;Roraima
+08/01/2025;Lápis;26;92.46;Rio de Janeiro
+08/01/2025;Agenda;16;16.92;Rio Grande do Sul
+08/01/2025;Agenda;38;159.26;Bahia
+09/01/2025;Caneta;1;52.97;Pernambuco
+09/01/2025;Agenda;84;161.44;Rio Grande do Sul
+09/01/2025;Caderno;89;187.46;Pernambuco
+09/01/2025;Borracha;18;147.42;Goiás
+09/01/2025;Marcador;14;173.64;Rio Grande do Sul
+09/01/2025;Caneta;23;52.44;Mato Grosso do Sul
+09/01/2025;Estojo;28;188.38;Distrito Federal
+09/01/2025;Lápis;74;54.67;Pará
+10/01/2025;Lápis;100;81.81;Rio Grande do Sul
+10/01/2025;Agenda;86;133.25;Santa Catarina
+10/01/2025;Caderno;39;90.22;Mato Grosso do Sul
+10/01/2025;Borracha;59;159.18;Espírito Santo
+10/01/2025;Lápis;18;78.38;Distrito Federal
+10/01/2025;Caneta;98;38.31;Mato Grosso do Sul
+11/01/2025;Régua;74;91.99;Maranhão
+11/01/2025;Lápis;84;39.59;Mato Grosso do Sul
+11/01/2025;Caderno;6;172.34;Pará
+11/01/2025;Borracha;19;159.16;Goiás
+11/01/2025;Estojo;72;53.89;Santa Catarina
+12/01/2025;Estojo;49;107.08;São Paulo
+12/01/2025;Estojo;39;16.19;Amazonas
+12/01/2025;Agenda;65;170.85;Espírito Santo
+12/01/2025;Caneta;93;16.6;Mato Grosso do Sul
+12/01/2025;Marcador;57;129.02;Rio de Janeiro
+12/01/2025;Borracha;89;109.03;Mato Grosso do Sul
+12/01/2025;Caneta;49;196.71;Paraná
+13/01/2025;Caneta;66;32.41;Goiás
+13/01/2025;Agenda;98;102.61;Piauí
+13/01/2025;Estojo;21;137.09;Goiás
+13/01/2025;Lápis;82;44.44;Paraná
+13/01/2025;Caneta;87;193.09;Pernambuco
+13/01/2025;Régua;47;172.89;Pernambuco
+13/01/2025;Estojo;75;25.91;Goiás
+13/01/2025;Lápis;1;125.14;Sergipe
+13/01/2025;Agenda;1;16.11;Roraima
+13/01/2025;Caderno;40;124.37;Paraíba
+13/01/2025;Estojo;14;86.57;Pernambuco
+13/01/2025;Lápis;58;147.52;Rondônia
+14/01/2025;Borracha;74;11.9;Piauí
+14/01/2025;Estojo;84;21.44;Distrito Federal
+14/01/2025;Estojo;28;67.94;Mato Grosso
+14/01/2025;Marcador;41;109.99;Paraná
+14/01/2025;Régua;13;188.83;Ceará
+15/01/2025;Régua;34;60.34;Piauí
+15/01/2025;Marcador;45;153.11;Paraná
+15/01/2025;Marcador;69;36.68;Amapá
+15/01/2025;Caderno;48;132.71;Goiás
+15/01/2025;Estojo;98;18.09;Goiás
+15/01/2025;Marcador;75;151.36;Tocantins
+15/01/2025;Caderno;88;173.22;Mato Grosso
+15/01/2025;Caneta;78;15.74;Distrito Federal
+15/01/2025;Estojo;28;157.27;Tocantins
+15/01/2025;Marcador;13;191.61;Paraíba
+15/01/2025;Régua;98;123.19;Espírito Santo
+16/01/2025;Estojo;41;96.56;Espírito Santo
+16/01/2025;Lápis;16;99.69;Paraná
+16/01/2025;Caderno;12;5.8;Espírito Santo
+16/01/2025;Lápis;24;21.71;Rondônia
+16/01/2025;Régua;95;42.31;Alagoas
+16/01/2025;Caneta;20;6.74;Bahia
+16/01/2025;Caneta;69;16.71;Rio Grande do Norte
+16/01/2025;Caderno;64;179.42;Pará
+16/01/2025;Estojo;21;68.97;Amazonas
+16/01/2025;Caneta;49;171.23;Distrito Federal
+16/01/2025;Estojo;58;185.15;Distrito Federal
+16/01/2025;Régua;64;178.42;Goiás
+16/01/2025;Agenda;16;121.82;Rondônia
+16/01/2025;Caderno;46;58.6;Piauí
+16/01/2025;Agenda;41;179.5;Mato Grosso do Sul
+17/01/2025;Caderno;74;178.59;Rio de Janeiro
+17/01/2025;Lápis;78;170.63;Ceará
+17/01/2025;Caneta;84;19.21;Mato Grosso do Sul
+17/01/2025;Marcador;40;83;Amapá
+17/01/2025;Caderno;67;31.74;Ceará
+17/01/2025;Marcador;29;11.44;Minas Gerais
+17/01/2025;Caderno;17;25.93;Amazonas
+17/01/2025;Caneta;52;60.35;Amazonas
+17/01/2025;Estojo;73;108.71;Rio de Janeiro
+17/01/2025;Marcador;60;130.99;Espírito Santo
+17/01/2025;Régua;43;116.25;Minas Gerais
+17/01/2025;Caderno;18;198.74;Amapá
+17/01/2025;Caneta;96;91.88;Rio de Janeiro
+18/01/2025;Borracha;58;110.68;Amazonas
+18/01/2025;Caneta;26;194.34;Rondônia
+18/01/2025;Caderno;70;129.5;Espírito Santo
+18/01/2025;Caneta;68;31.25;Sergipe
+18/01/2025;Caneta;65;82.43;Acre
+18/01/2025;Borracha;61;173.94;Bahia
+18/01/2025;Lápis;72;128.01;Maranhão
+18/01/2025;Régua;65;138.43;Amazonas
+18/01/2025;Marcador;71;60.92;Rondônia
+18/01/2025;Lápis;95;180.52;Goiás
+18/01/2025;Estojo;33;113.56;Amazonas
+18/01/2025;Agenda;62;163.77;Rondônia
+18/01/2025;Caderno;18;184.44;Rio Grande do Sul
+19/01/2025;Borracha;12;132.56;Bahia
+19/01/2025;Agenda;29;77.96;Distrito Federal
+19/01/2025;Caderno;1;146.85;Mato Grosso do Sul
+19/01/2025;Borracha;20;54.3;Amazonas
+19/01/2025;Régua;53;56.43;Goiás
+19/01/2025;Régua;59;186.31;Rio de Janeiro
+19/01/2025;Régua;36;199.41;Piauí
+19/01/2025;Agenda;78;96.89;Rondônia
+19/01/2025;Agenda;54;191.12;Alagoas
+19/01/2025;Marcador;8;150.82;Rondônia
+20/01/2025;Régua;36;56.4;Alagoas
+20/01/2025;Lápis;85;38.94;Amapá
+20/01/2025;Régua;51;9.47;Santa Catarina
+20/01/2025;Agenda;34;94.76;Rondônia
+20/01/2025;Agenda;74;31.7;Distrito Federal
+20/01/2025;Lápis;16;179.14;Paraná
+20/01/2025;Marcador;95;149.2;Rio de Janeiro
+20/01/2025;Estojo;30;190.15;Acre
+20/01/2025;Caderno;90;89.57;Paraná
+20/01/2025;Caderno;59;193;Roraima
+20/01/2025;Estojo;21;90.32;Mato Grosso do Sul
+20/01/2025;Régua;88;168.69;Paraíba
+21/01/2025;Borracha;48;77.2;Rio Grande do Norte
+21/01/2025;Marcador;91;31.65;Pará
+21/01/2025;Estojo;84;90.33;Rio de Janeiro
+21/01/2025;Agenda;92;179.58;Alagoas
+21/01/2025;Régua;79;122.87;Santa Catarina
+21/01/2025;Agenda;93;153.76;Pernambuco
+21/01/2025;Caneta;9;134.38;Alagoas
+21/01/2025;Marcador;49;164.28;Minas Gerais
+21/01/2025;Borracha;39;108.67;Acre
+21/01/2025;Régua;55;52.25;Ceará
+21/01/2025;Caneta;93;42.25;Pará
+22/01/2025;Lápis;65;189.26;Mato Grosso
+22/01/2025;Caneta;53;101.33;São Paulo
+22/01/2025;Caneta;89;122.04;Acre
+22/01/2025;Lápis;96;196.1;Ceará
+22/01/2025;Marcador;63;58.42;Paraná
+22/01/2025;Lápis;17;83.6;Minas Gerais
+22/01/2025;Estojo;50;37.61;Piauí
+22/01/2025;Caderno;33;91.14;Rio Grande do Sul
+22/01/2025;Caderno;80;185.13;Amazonas
+22/01/2025;Borracha;95;141.32;Espírito Santo
+22/01/2025;Lápis;87;39.7;Rio de Janeiro
+23/01/2025;Borracha;60;47.9;Acre
+23/01/2025;Caderno;29;29.42;Distrito Federal
+23/01/2025;Caderno;58;70.7;Amapá
+23/01/2025;Régua;14;146.17;Sergipe
+23/01/2025;Estojo;45;184.52;Bahia
+23/01/2025;Lápis;20;133.13;Rio Grande do Sul
+24/01/2025;Borracha;70;21.58;Espírito Santo
+24/01/2025;Lápis;53;153.56;Maranhão
+24/01/2025;Marcador;92;193.47;Paraíba
+24/01/2025;Régua;15;161.57;Maranhão
+24/01/2025;Régua;4;65.07;Pará
+24/01/2025;Marcador;34;109.7;Mato Grosso do Sul
+24/01/2025;Marcador;52;88.64;Pará
+24/01/2025;Caneta;8;160.46;Paraíba
+24/01/2025;Caderno;38;38.06;Sergipe
+24/01/2025;Borracha;81;168.1;Amazonas
+25/01/2025;Caderno;6;147.95;Rio Grande do Sul
+25/01/2025;Borracha;53;140.11;Roraima
+25/01/2025;Régua;58;30.99;Minas Gerais
+25/01/2025;Estojo;22;59.56;Goiás
+25/01/2025;Borracha;6;7.6;Tocantins
+25/01/2025;Borracha;64;138.28;Amapá
+25/01/2025;Agenda;97;184.23;Bahia
+25/01/2025;Marcador;84;177.06;Piauí
+25/01/2025;Borracha;88;172.89;Amapá
+25/01/2025;Marcador;57;106.41;Paraíba
+25/01/2025;Marcador;87;15.55;Pará
+25/01/2025;Agenda;51;167.82;Rio de Janeiro
+26/01/2025;Borracha;68;81.07;Amazonas
+26/01/2025;Caderno;32;161.81;Minas Gerais
+26/01/2025;Borracha;93;69.53;Distrito Federal
+26/01/2025;Borracha;90;62.03;Pará
+26/01/2025;Agenda;10;149.54;Mato Grosso do Sul
+26/01/2025;Agenda;82;175.58;Paraná
+27/01/2025;Caderno;39;131.96;Pernambuco
+27/01/2025;Marcador;5;42.26;Distrito Federal
+27/01/2025;Caderno;39;41.28;Maranhão
+27/01/2025;Caneta;13;15.83;Rio de Janeiro
+27/01/2025;Régua;20;12.24;Piauí
+27/01/2025;Agenda;46;194.36;Distrito Federal
+27/01/2025;Caderno;11;181.91;São Paulo
+27/01/2025;Caneta;33;111;Ceará
+27/01/2025;Marcador;80;199.67;Santa Catarina
+27/01/2025;Lápis;75;177.03;Alagoas
+27/01/2025;Marcador;89;146.25;Maranhão
+27/01/2025;Marcador;4;56.61;Paraíba
+28/01/2025;Estojo;78;58.85;Rio Grande do Norte
+28/01/2025;Caderno;33;142.08;Pernambuco
+28/01/2025;Borracha;78;101.36;Paraná
+28/01/2025;Estojo;22;169.85;Piauí
+28/01/2025;Marcador;9;83.19;Ceará
+28/01/2025;Agenda;37;19.98;Santa Catarina
+28/01/2025;Régua;33;109.92;Rio Grande do Norte
+28/01/2025;Caderno;50;54.7;Roraima
+28/01/2025;Marcador;52;140.71;Ceará
+28/01/2025;Lápis;99;66.09;Paraíba
+28/01/2025;Estojo;17;139.77;Roraima
+28/01/2025;Marcador;81;188.32;Ceará
+28/01/2025;Marcador;29;30.6;Amapá
+28/01/2025;Lápis;42;47.68;Maranhão
+28/01/2025;Lápis;48;76.92;Ceará
+29/01/2025;Borracha;81;107.05;Amazonas
+29/01/2025;Marcador;37;170.4;Ceará
+29/01/2025;Marcador;73;176.84;São Paulo
+29/01/2025;Caderno;14;140.27;Rio de Janeiro
+29/01/2025;Lápis;92;167.36;Mato Grosso do Sul
+29/01/2025;Estojo;100;174.04;Rio Grande do Sul
+29/01/2025;Agenda;10;49.71;Paraíba
+29/01/2025;Caneta;6;18.2;Sergipe
+29/01/2025;Marcador;13;96.83;Distrito Federal
+29/01/2025;Caderno;30;43.13;Sergipe
+29/01/2025;Régua;38;120.55;Amazonas
+29/01/2025;Estojo;65;85.86;Paraná
+29/01/2025;Caneta;100;193.58;Santa Catarina
+29/01/2025;Borracha;10;119.73;Alagoas
+29/01/2025;Estojo;68;35.85;Ceará
+30/01/2025;Lápis;14;131.37;Rio de Janeiro
+30/01/2025;Agenda;4;127.84;Distrito Federal
+30/01/2025;Caderno;43;44;Rondônia
+30/01/2025;Agenda;19;60.81;Mato Grosso do Sul
+30/01/2025;Régua;48;184.46;Rio Grande do Norte
+30/01/2025;Caderno;12;109.49;Amapá
+30/01/2025;Estojo;8;174.19;Pernambuco
+30/01/2025;Marcador;48;175.25;Rio Grande do Norte
+30/01/2025;Borracha;7;161.93;Mato Grosso do Sul
+30/01/2025;Agenda;44;83.74;Maranhão
+30/01/2025;Régua;70;30.33;Mato Grosso
+30/01/2025;Caneta;81;146.47;Maranhão
+30/01/2025;Borracha;37;119.37;Santa Catarina
+30/01/2025;Marcador;26;20.66;Espírito Santo
+31/01/2025;Caneta;53;189.47;Acre
+31/01/2025;Lápis;51;26.76;Pernambuco
+31/01/2025;Estojo;17;86.74;Pará
+31/01/2025;Marcador;2;20.75;Mato Grosso do Sul
+31/01/2025;Lápis;93;10.97;Bahia
+31/01/2025;Lápis;21;94.53;Roraima
